@@ -1,560 +1,5941 @@
-Year,Country_Code,Medal
-1976,AUS,24
-1976,AUT,1
-1976,BEL,9
-1976,BER,1
-1976,BRA,3
-1976,BUL,39
-1976,CAN,20
-1976,CUB,24
-1976,DEN,8
-1976,ESP,6
-1976,FIN,6
-1976,FRA,20
-1976,FRG,75
-1976,GBR,32
-1976,GDR,192
-1976,HUN,55
-1976,IRI,2
-1976,ITA,31
-1976,JAM,2
-1976,JPN,41
-1976,KOR,17
-1976,MEX,2
-1976,MGL,1
-1976,NED,15
-1976,NOR,6
-1976,NZL,27
-1976,PAK,16
-1976,POL,73
-1976,POR,2
-1976,PRK,2
-1976,PUR,1
-1976,ROU,55
-1976,SUI,10
-1976,SWE,10
-1976,TCH,15
-1976,THA,1
-1976,TRI,1
-1976,URS,285
-1976,USA,155
-1976,VEN,1
-1976,YUG,19
-1980,AUS,12
-1980,AUT,5
-1980,BEL,1
-1980,BRA,9
-1980,BUL,94
-1980,CUB,20
-1980,DEN,8
-1980,ESP,24
-1980,ETH,4
-1980,FIN,9
-1980,FRA,29
-1980,GBR,45
-1980,GDR,260
-1980,GRE,5
-1980,GUY,1
-1980,HUN,61
-1980,IND,16
-1980,IRL,3
-1980,ITA,37
-1980,JAM,3
-1980,LIB,1
-1980,MEX,12
-1980,MGL,4
-1980,NED,6
-1980,POL,50
-1980,PRK,5
-1980,ROU,72
-1980,SUI,2
-1980,SWE,18
-1980,TAN,2
-1980,TCH,52
-1980,UGA,1
-1980,URS,442
-1980,VEN,1
-1980,YUG,57
-1980,ZIM,16
-1984,ALG,2
-1984,AUS,50
-1984,AUT,3
-1984,BEL,5
-1984,BRA,37
-1984,CAN,86
-1984,CHN,76
-1984,CIV,1
-1984,CMR,1
-1984,COL,1
-1984,DEN,15
-1984,DOM,1
-1984,EGY,1
-1984,ESP,19
-1984,FIN,12
-1984,FRA,68
-1984,FRG,157
-1984,GBR,72
-1984,GRE,2
-1984,IRL,1
-1984,ISL,1
-1984,ITA,63
-1984,JAM,6
-1984,JPN,49
-1984,KEN,3
-1984,KOR,42
-1984,MAR,2
-1984,MEX,6
-1984,NED,40
-1984,NGR,5
-1984,NOR,4
-1984,NZL,23
-1984,PAK,16
-1984,PER,1
-1984,POR,3
-1984,PUR,2
-1984,ROU,106
-1984,SUI,15
-1984,SWE,32
-1984,SYR,1
-1984,THA,1
-1984,TPE,1
-1984,TUR,3
-1984,USA,333
-1984,VEN,3
-1984,YUG,87
-1984,ZAM,1
-1988,AHO,1
-1988,ARG,13
-1988,AUS,34
-1988,AUT,1
-1988,BEL,2
-1988,BRA,28
-1988,BUL,41
-1988,CAN,21
-1988,CHI,1
-1988,CHN,53
-1988,COL,1
-1988,CRC,1
-1988,DEN,7
-1988,DJI,1
-1988,ESP,5
-1988,FIN,4
-1988,FRA,29
-1988,FRG,113
-1988,GBR,53
-1988,GDR,174
-1988,GRE,1
-1988,HUN,44
-1988,INA,3
-1988,IRI,1
-1988,ISV,1
-1988,ITA,29
-1988,JAM,5
-1988,JPN,20
-1988,KEN,9
-1988,KOR,77
-1988,MAR,3
-1988,MEX,2
-1988,MGL,1
-1988,NED,44
-1988,NOR,23
-1988,NZL,24
-1988,PAK,1
-1988,PER,12
-1988,PHI,1
-1988,POL,21
-1988,POR,1
-1988,ROU,51
-1988,SEN,1
-1988,SUI,8
-1988,SUR,1
-1988,SWE,16
-1988,TCH,10
-1988,THA,1
-1988,TUR,2
-1988,URS,294
-1988,USA,193
-1988,YUG,63
-1992,ALG,2
-1992,ARG,2
-1992,AUS,57
-1992,AUT,6
-1992,BAH,1
-1992,BEL,3
-1992,BRA,14
-1992,BUL,17
-1992,CAN,44
-1992,CHN,83
-1992,COL,1
-1992,CRO,15
-1992,CUB,71
-1992,DEN,14
-1992,ESP,66
-1992,EST,3
-1992,ETH,3
-1992,EUN,223
-1992,FIN,7
-1992,FRA,57
-1992,GBR,50
-1992,GER,198
-1992,GHA,13
-1992,GRE,2
-1992,HUN,45
-1992,INA,6
-1992,IOP,3
-1992,IRI,3
-1992,IRL,2
-1992,ISR,2
-1992,ITA,46
-1992,JAM,4
-1992,JPN,47
-1992,KEN,8
-1992,KOR,49
-1992,LAT,3
-1992,LTU,13
-1992,MAR,3
-1992,MAS,2
-1992,MEX,1
-1992,MGL,2
-1992,NAM,2
-1992,NED,33
-1992,NGR,11
-1992,NOR,23
-1992,NZL,15
-1992,PAK,16
-1992,PER,1
-1992,PHI,1
-1992,POL,42
-1992,PRK,10
-1992,PUR,1
-1992,QAT,1
-1992,ROU,53
-1992,RSA,3
-1992,SLO,6
-1992,SUI,1
-1992,SUR,1
-1992,SWE,35
-1992,TCH,8
-1992,THA,1
-1992,TPE,20
-1992,TUR,6
-1992,USA,224
-1996,ALG,3
-1996,ARG,20
-1996,ARM,2
-1996,AUS,132
-1996,AUT,3
-1996,AZE,1
-1996,BAH,5
-1996,BDI,1
-1996,BEL,6
-1996,BLR,23
-1996,BRA,64
-1996,BUL,21
-1996,CAN,51
-1996,CHN,110
-1996,CRC,1
-1996,CRO,29
-1996,CUB,57
-1996,CZE,13
-1996,DEN,24
-1996,ECU,1
-1996,ESP,67
-1996,ETH,3
-1996,FIN,4
-1996,FRA,51
-1996,GBR,26
-1996,GEO,2
-1996,GER,124
-1996,GRE,8
-1996,HKG,1
-1996,HUN,43
-1996,INA,6
-1996,IND,1
-1996,IRI,3
-1996,IRL,4
-1996,ISR,1
-1996,ITA,71
-1996,JAM,16
-1996,JPN,43
-1996,KAZ,11
-1996,KEN,8
-1996,KOR,66
-1996,LAT,1
-1996,LTU,12
-1996,MAR,2
-1996,MAS,3
-1996,MDA,3
-1996,MEX,1
-1996,MGL,1
-1996,MOZ,1
-1996,NAM,2
-1996,NED,73
-1996,NGR,26
-1996,NOR,25
-1996,NZL,9
-1996,PHI,1
-1996,POL,21
-1996,POR,3
-1996,PRK,5
-1996,PUR,1
-1996,ROU,38
-1996,RSA,5
-1996,RUS,115
-1996,SLO,2
-1996,SUI,11
-1996,SVK,3
-1996,SWE,31
-1996,SYR,1
-1996,TGA,1
-1996,THA,2
-1996,TPE,1
-1996,TRI,2
-1996,TUN,1
-1996,TUR,6
-1996,UGA,1
-1996,UKR,34
-1996,USA,260
-1996,UZB,2
-1996,YUG,26
-1996,ZAM,1
-2000,ALG,5
-2000,ARG,20
-2000,ARM,1
-2000,AUS,183
-2000,AUT,4
-2000,AZE,3
-2000,BAH,6
-2000,BAR,1
-2000,BEL,7
-2000,BLR,22
-2000,BRA,48
-2000,BUL,13
-2000,CAN,31
-2000,CHI,18
-2000,CHN,79
-2000,CMR,18
-2000,COL,1
-2000,CRC,2
-2000,CRO,10
-2000,CUB,69
-2000,CZE,9
-2000,DEN,25
-2000,ESP,43
-2000,EST,3
-2000,ETH,8
-2000,FIN,5
-2000,FRA,66
-2000,GBR,55
-2000,GEO,6
-2000,GER,119
-2000,GRE,18
-2000,HUN,53
-2000,INA,8
-2000,IND,1
-2000,IRI,4
-2000,IRL,1
-2000,ISL,1
-2000,ISR,1
-2000,ITA,65
-2000,JAM,23
-2000,JPN,43
-2000,KAZ,7
-2000,KEN,7
-2000,KGZ,1
-2000,KOR,73
-2000,KSA,2
-2000,KUW,1
-2000,LAT,3
-2000,LTU,17
-2000,MAR,5
-2000,MDA,2
-2000,MEX,6
-2000,MKD,1
-2000,MOZ,1
-2000,NED,79
-2000,NGR,8
-2000,NOR,44
-2000,NZL,4
-2000,POL,24
-2000,POR,2
-2000,PRK,4
-2000,QAT,1
-2000,ROU,46
-2000,RSA,5
-2000,RUS,188
-2000,SLO,3
-2000,SRI,1
-2000,SUI,14
-2000,SVK,6
-2000,SWE,32
-2000,THA,3
-2000,TPE,5
-2000,TRI,2
-2000,TUR,5
-2000,UKR,35
-2000,URU,1
-2000,USA,248
-2000,UZB,4
-2000,VIE,1
-2000,YUG,26
-2004,ARG,47
-2004,AUS,157
-2004,AUT,8
-2004,AZE,5
-2004,BAH,2
-2004,BEL,3
-2004,BLR,17
-2004,BRA,40
-2004,BUL,17
-2004,CAN,17
-2004,CHI,4
-2004,CHN,94
-2004,CMR,1
-2004,COL,2
-2004,CRO,20
-2004,CUB,61
-2004,CZE,12
-2004,DEN,29
-2004,DOM,1
-2004,EGY,5
-2004,ERI,1
-2004,ESP,27
-2004,EST,3
-2004,ETH,7
-2004,FIN,2
-2004,FRA,53
-2004,GBR,57
-2004,GEO,4
-2004,GER,149
-2004,GRE,31
-2004,HKG,2
-2004,HUN,40
-2004,INA,5
-2004,IND,1
-2004,IRI,6
-2004,ISR,2
-2004,ITA,102
-2004,JAM,13
-2004,JPN,94
-2004,KAZ,8
-2004,KEN,7
-2004,KOR,52
-2004,LAT,4
-2004,LTU,3
-2004,MAR,3
-2004,MEX,4
-2004,MGL,1
-2004,NED,76
-2004,NGR,8
-2004,NOR,7
-2004,NZL,6
-2004,PAR,17
-2004,POL,12
-2004,POR,3
-2004,PRK,5
-2004,ROU,39
-2004,RSA,10
-2004,RUS,192
-2004,SCG,14
-2004,SLO,5
-2004,SUI,7
-2004,SVK,10
-2004,SWE,12
-2004,SYR,1
-2004,THA,8
-2004,TPE,9
-2004,TRI,1
-2004,TUR,10
-2004,UAE,1
-2004,UKR,48
-2004,USA,264
-2004,UZB,5
-2004,VEN,2
-2004,ZIM,3
-2008,AFG,1
-2008,ALG,2
-2008,ARG,51
-2008,ARM,6
-2008,AUS,149
-2008,AUT,3
-2008,AZE,7
-2008,BAH,5
-2008,BEL,5
-2008,BLR,30
-2008,BRA,75
-2008,BUL,5
-2008,CAN,34
-2008,CHI,1
-2008,CHN,184
-2008,CMR,1
-2008,COL,2
-2008,CRO,5
-2008,CUB,47
-2008,CZE,7
-2008,DEN,18
-2008,DOM,2
-2008,ECU,1
-2008,EGY,1
-2008,ESP,71
-2008,EST,3
-2008,ETH,7
-2008,FIN,5
-2008,FRA,76
-2008,GBR,77
-2008,GEO,6
-2008,GER,101
-2008,GRE,7
-2008,HUN,27
-2008,INA,7
-2008,IND,3
-2008,IRI,2
-2008,IRL,3
-2008,ISL,14
-2008,ISR,1
-2008,ITA,42
-2008,JAM,17
-2008,JPN,51
-2008,KAZ,13
-2008,KEN,14
-2008,KGZ,2
-2008,KOR,78
-2008,LAT,3
-2008,LTU,5
-2008,MAR,2
-2008,MAS,1
-2008,MDA,1
-2008,MEX,4
-2008,MGL,4
-2008,MRI,1
-2008,NED,62
-2008,NGR,24
-2008,NOR,22
-2008,NZL,14
-2008,PAN,1
-2008,POL,20
-2008,POR,2
-2008,PRK,6
-2008,ROU,22
-2008,RSA,1
-2008,RUS,143
-2008,SIN,3
-2008,SLO,5
-2008,SRB,15
-2008,SUD,1
-2008,SUI,11
-2008,SVK,10
-2008,SWE,7
-2008,THA,4
-2008,TJK,2
-2008,TOG,1
-2008,TPE,4
-2008,TRI,5
-2008,TUN,1
-2008,TUR,8
-2008,UKR,31
-2008,USA,315
-2008,UZB,6
-2008,VEN,1
-2008,VIE,1
-2008,ZIM,4
+Year,Country_Code,Event,Medal
+1976,AUS,1500m freestyle,1
+1976,AUS,470 - Two Person Dinghy,2
+1976,AUS,hockey,16
+1976,AUS,single-handed dinghy (Finn),1
+1976,AUS,team,4
+1976,AUT,50m pistol (60 shots),1
+1976,BEL,1500m,1
+1976,BEL,1km time trial,1
+1976,BEL,800m,1
+1976,BEL,individual,1
+1976,BEL,marathon,1
+1976,BEL,team,4
+1976,BER,+ 81kg (heavyweight),1
+1976,BRA,flying dutchman,2
+1976,BRA,triple jump,1
+1976,BUL,+ 100kg (super heavyweight),1
+1976,BUL,- 48kg (light-flyweight),2
+1976,BUL,"- 56kg, total (bantamweight)",1
+1976,BUL,"56 - 60kg, total (featherweight)",1
+1976,BUL,60 - 63.5kg (light-welterweight),1
+1976,BUL,"67.5 - 75kg, total (middleweight)",1
+1976,BUL,74 - 82kg (middleweight),1
+1976,BUL,"75 - 82.5kg, total (light-heavyweight)",1
+1976,BUL,800m,1
+1976,BUL,82 - 90kg (light-heavyweight),1
+1976,BUL,"82.5 - 90kg, total (middle-heavyweight)",1
+1976,BUL,90 - 100kg (heavyweight),2
+1976,BUL,"91 - 110kg, total (heavyweight)",1
+1976,BUL,basketball,12
+1976,BUL,discus throw,1
+1976,BUL,double sculls (2x),2
+1976,BUL,four-oared shell with coxswain (4-),5
+1976,BUL,high jump,1
+1976,BUL,pair without coxswain (2-),2
+1976,BUL,shot put,1
+1976,CAN,100m backstroke,1
+1976,CAN,200m backstroke,1
+1976,CAN,400m freestyle,1
+1976,CAN,400m individual medley,2
+1976,CAN,4x100m freestyle relay,4
+1976,CAN,4x100m medley relay,8
+1976,CAN,C-1 500m (canoe single),1
+1976,CAN,high jump,1
+1976,CAN,individual,1
+1976,CUB,+ 81kg (heavyweight),1
+1976,CUB,- 48kg (light-flyweight),1
+1976,CUB,- 63kg (lightweight),1
+1976,CUB,110m hurdles,1
+1976,CUB,400m,1
+1976,CUB,48 - 51kg (flyweight),1
+1976,CUB,54 - 57kg (featherweight),1
+1976,CUB,60 - 63.5kg (light-welterweight),1
+1976,CUB,67 - 71kg (light-middleweight),1
+1976,CUB,71-75kg,1
+1976,CUB,75 - 81kg (light-heavyweight),1
+1976,CUB,800m,1
+1976,CUB,volleyball,12
+1976,DEN,1km time trial,1
+1976,DEN,fleet/match race keelboat open (Soling),3
+1976,DEN,team time trial,4
+1976,ESP,470 - Two Person Dinghy,2
+1976,ESP,K-4 1000m (kayak four),4
+1976,FIN,10000m,1
+1976,FIN,5000m,1
+1976,FIN,52 - 57kg (bantamweight),1
+1976,FIN,javelin throw,1
+1976,FIN,pole vault,1
+1976,FIN,single sculls (1x),1
+1976,FRA,110m hurdles,1
+1976,FRA,"60 - 67.5kg, total (lightweight)",1
+1976,FRA,63 - 70kg (half-middleweight),1
+1976,FRA,Sprint indivual,1
+1976,FRA,foil individual,1
+1976,FRA,foil team,10
+1976,FRA,horizontal bar,1
+1976,FRA,team,4
+1976,FRG,+ 93kg (heavyweight),1
+1976,FRG,100m,2
+1976,FRG,100m freestyle,1
+1976,FRG,1500m,1
+1976,FRG,200m,1
+1976,FRG,470 - Two Person Dinghy,2
+1976,FRG,4x100m medley relay,4
+1976,FRG,4x100m relay,4
+1976,FRG,4x400m relay,4
+1976,FRG,5000m,1
+1976,FRG,50m rifle 3 positions (3x40 shots),1
+1976,FRG,50m rifle prone (60 shots),2
+1976,FRG,63.5 - 67kg (welterweight),1
+1976,FRG,68 - 74kg (welterweight),1
+1976,FRG,74 - 82kg (middleweight),1
+1976,FRG,Individual Pursuit,1
+1976,FRG,Team Pursuit (4000m),4
+1976,FRG,Tornado - Multihull,2
+1976,FRG,coxless pair (2-),2
+1976,FRG,decathlon,1
+1976,FRG,flying dutchman,2
+1976,FRG,foil team,5
+1976,FRG,four-oared shell with coxswain (4-),5
+1976,FRG,horizontal bar,1
+1976,FRG,individual,4
+1976,FRG,javelin throw,1
+1976,FRG,pair without coxswain (2-),2
+1976,FRG,single sculls (1x),1
+1976,FRG,team,11
+1976,FRG,épée individual,2
+1976,FRG,épée team,4
+1976,GBR,10000m,1
+1976,GBR,100m breaststroke,1
+1976,GBR,200m breaststroke,1
+1976,GBR,4x200m freestyle relay,4
+1976,GBR,51 - 54kg (bantamweight),1
+1976,GBR,80 - 93kg (half-heavyweight),1
+1976,GBR,Team Pursuit (4000m),4
+1976,GBR,Team competition,3
+1976,GBR,Tornado - Multihull,2
+1976,GBR,double sculls (2x),2
+1976,GBR,eight with coxswain (8+),9
+1976,GBR,flying dutchman,2
+1976,GBR,open category,1
+1976,GDR,"+ 110kg, total (super heavyweight)",2
+1976,GDR,100m,1
+1976,GDR,100m backstroke,3
+1976,GDR,100m breaststroke,1
+1976,GDR,100m butterfly,2
+1976,GDR,100m freestyle,2
+1976,GDR,100m hurdles,1
+1976,GDR,1500m,2
+1976,GDR,1km time trial,1
+1976,GDR,200m,2
+1976,GDR,200m backstroke,2
+1976,GDR,200m butterfly,3
+1976,GDR,200m freestyle,1
+1976,GDR,20km walk,2
+1976,GDR,25m rapid fire pistol (60 shots),2
+1976,GDR,3000m steeplechase,1
+1976,GDR,3m springboard,1
+1976,GDR,400m,2
+1976,GDR,400m freestyle,1
+1976,GDR,400m individual medley,1
+1976,GDR,4x100m freestyle relay,4
+1976,GDR,4x100m medley relay,4
+1976,GDR,4x100m relay,8
+1976,GDR,4x400m relay,4
+1976,GDR,50m pistol (60 shots),2
+1976,GDR,52 - 57kg (bantamweight),1
+1976,GDR,54 - 57kg (featherweight),1
+1976,GDR,62 - 68kg (lightweight),1
+1976,GDR,63.5 - 67kg (welterweight),1
+1976,GDR,"67.5 - 75kg, total (middleweight)",1
+1976,GDR,800m,1
+1976,GDR,800m freestyle,1
+1976,GDR,Individual Pursuit,1
+1976,GDR,K-1 1000m (kayak single),1
+1976,GDR,K-1 500m (kayak single),2
+1976,GDR,K-2 1000m (kayak double),2
+1976,GDR,K-2 500m (kayak double),4
+1976,GDR,K-4 1000m (kayak four),4
+1976,GDR,Sprint indivual,1
+1976,GDR,coxless pair (2-),2
+1976,GDR,discus throw,3
+1976,GDR,double sculls (2x),4
+1976,GDR,eight with coxswain (8+),18
+1976,GDR,fleet/match race keelboat open (Soling),3
+1976,GDR,football,17
+1976,GDR,four without coxswain (4-),4
+1976,GDR,four-oared shell with coxswain (4-),10
+1976,GDR,handball,14
+1976,GDR,high jump,1
+1976,GDR,javelin throw,1
+1976,GDR,long jump,2
+1976,GDR,marathon,1
+1976,GDR,pair without coxswain (2-),2
+1976,GDR,pair-oared shell with coxswain (2+),3
+1976,GDR,pentathlon,3
+1976,GDR,pommel horse,1
+1976,GDR,quadruple sculls with coxswain (4x),5
+1976,GDR,quadruple sculls without coxswain (4x),4
+1976,GDR,shot put,1
+1976,GDR,single sculls (1x),2
+1976,GDR,single-handed dinghy (Finn),1
+1976,GDR,team competition,12
+1976,GDR,vault,1
+1976,HUN,+ 100kg (super heavyweight),1
+1976,HUN,"- 52kg, total (flyweight)",1
+1976,HUN,- 63kg (lightweight),1
+1976,HUN,57 - 62kg (featherweight),1
+1976,HUN,"75 - 82.5kg, total (light-heavyweight)",1
+1976,HUN,C-1 1000m (canoe single),1
+1976,HUN,C-2 1000m (canoe double),2
+1976,HUN,C-2 500m (canoe double),2
+1976,HUN,K-1 1000m (kayak single),1
+1976,HUN,K-1 500m (kayak single),2
+1976,HUN,K-2 1000m (kayak double),2
+1976,HUN,K-2 500m (kayak double),2
+1976,HUN,Team competition,3
+1976,HUN,foil individual,1
+1976,HUN,foil team,5
+1976,HUN,handball,14
+1976,HUN,javelin throw,1
+1976,HUN,pommel horse,1
+1976,HUN,uneven bars,1
+1976,HUN,water polo,11
+1976,HUN,épée individual,1
+1976,IRI,"- 52kg, total (flyweight)",1
+1976,IRI,68 - 74kg (welterweight),1
+1976,ITA,- 63kg (lightweight),1
+1976,ITA,10m platform,1
+1976,ITA,25m rapid fire pistol (60 shots),1
+1976,ITA,3m springboard,1
+1976,ITA,foil individual,2
+1976,ITA,foil team,5
+1976,ITA,high jump,1
+1976,ITA,individual FITA round,1
+1976,ITA,individual road race,1
+1976,ITA,sabre team,5
+1976,ITA,trap (125 targets),1
+1976,ITA,water polo,11
+1976,JAM,100m,1
+1976,JAM,200m,1
+1976,JPN,+ 93kg (heavyweight),1
+1976,JPN,- 48kg (light-flyweight),1
+1976,JPN,"- 56kg, total (bantamweight)",1
+1976,JPN,48 - 52kg (flyweight),2
+1976,JPN,52 - 57kg (bantamweight),1
+1976,JPN,"56 - 60kg, total (featherweight)",1
+1976,JPN,62 - 68kg (lightweight),1
+1976,JPN,63 - 70kg (half-middleweight),1
+1976,JPN,68 - 74kg (welterweight),1
+1976,JPN,70 - 80kg (middleweight),1
+1976,JPN,80 - 93kg (half-heavyweight),1
+1976,JPN,horizontal bar,2
+1976,JPN,individual FITA round,1
+1976,JPN,individual all-round,2
+1976,JPN,open category,1
+1976,JPN,parallel bars,2
+1976,JPN,pommel horse,1
+1976,JPN,team competition,6
+1976,JPN,vault,2
+1976,JPN,volleyball,12
+1976,KOR,- 63kg (lightweight),1
+1976,KOR,48 - 52kg (flyweight),1
+1976,KOR,57 - 62kg (featherweight),1
+1976,KOR,70 - 80kg (middleweight),1
+1976,KOR,open category,1
+1976,KOR,volleyball,12
+1976,MEX,20km walk,1
+1976,MEX,54 - 57kg (featherweight),1
+1976,MGL,57 - 62kg (featherweight),1
+1976,NED,100m freestyle,1
+1976,NED,200m freestyle,1
+1976,NED,Individual Pursuit,1
+1976,NED,skeet (125 targets),1
+1976,NED,water polo,11
+1976,NOR,double sculls (2x),2
+1976,NOR,four without coxswain (4-),4
+1976,NZL,1500m,1
+1976,NZL,5000m,1
+1976,NZL,eight with coxswain (8+),9
+1976,NZL,hockey,16
+1976,PAK,hockey,16
+1976,POL,"- 56kg, total (bantamweight)",1
+1976,POL,3000m steeplechase,1
+1976,POL,400m,1
+1976,POL,48 - 51kg (flyweight),1
+1976,POL,4x400m relay,4
+1976,POL,50m running target (30+30 shots),1
+1976,POL,54 - 57kg (featherweight),1
+1976,POL,57 - 62kg (featherweight),1
+1976,POL,60 - 63.5kg (light-welterweight),1
+1976,POL,"60 - 67.5kg, total (lightweight)",1
+1976,POL,63 - 70kg (half-middleweight),1
+1976,POL,67 - 71kg (light-middleweight),1
+1976,POL,75 - 81kg (light-heavyweight),1
+1976,POL,82 - 90kg (light-heavyweight),1
+1976,POL,90 - 100kg (heavyweight),1
+1976,POL,"91 - 110kg, total (heavyweight)",1
+1976,POL,C-2 500m (canoe double),2
+1976,POL,Individual competition,1
+1976,POL,football,17
+1976,POL,handball,14
+1976,POL,high jump,1
+1976,POL,individual road race,1
+1976,POL,pole vault,1
+1976,POL,skeet (125 targets),1
+1976,POL,team time trial,4
+1976,POL,volleyball,12
+1976,POR,10000m,1
+1976,POR,trap (125 targets),1
+1976,PRK,- 48kg (light-flyweight),1
+1976,PRK,51 - 54kg (bantamweight),1
+1976,PUR,- 48kg (light-flyweight),1
+1976,ROU,+ 100kg (super heavyweight),2
+1976,ROU,+ 81kg (heavyweight),1
+1976,ROU,- 48kg (light-flyweight),1
+1976,ROU,48 - 52kg (flyweight),1
+1976,ROU,57 - 60kg (lightweight),1
+1976,ROU,62 - 68kg (lightweight),1
+1976,ROU,63.5 - 67kg (welterweight),1
+1976,ROU,71-75kg,1
+1976,ROU,75 - 81kg (light-heavyweight),1
+1976,ROU,82 - 90kg (light-heavyweight),1
+1976,ROU,C-2 1000m (canoe double),2
+1976,ROU,K-1 1000m (kayak single),1
+1976,ROU,K-1 500m (kayak single),1
+1976,ROU,K-2 500m (kayak double),2
+1976,ROU,balance beam,2
+1976,ROU,floor exercises,1
+1976,ROU,handball,14
+1976,ROU,individual all-round,1
+1976,ROU,javelin throw,1
+1976,ROU,quadruple sculls with coxswain (4x),5
+1976,ROU,rings,1
+1976,ROU,sabre team,5
+1976,ROU,team competition,6
+1976,ROU,uneven bars,2
+1976,SUI,80 - 93kg (half-heavyweight),1
+1976,SUI,individual,1
+1976,SUI,team,3
+1976,SUI,épée team,5
+1976,SWE,10m platform,1
+1976,SWE,3000m steeplechase,1
+1976,SWE,individual road race,1
+1976,SWE,tempest,2
+1976,SWE,épée team,5
+1976,TCH,68 - 74kg (welterweight),1
+1976,TCH,Individual competition,1
+1976,TCH,Sprint indivual,1
+1976,TCH,Team competition,3
+1976,TCH,pair-oared shell with coxswain (2+),3
+1976,TCH,quadruple sculls without coxswain (4x),4
+1976,TCH,shot put,1
+1976,TCH,skeet (125 targets),1
+1976,THA,- 48kg (light-flyweight),1
+1976,TRI,100m,1
+1976,URS,+ 100kg (super heavyweight),2
+1976,URS,"+ 110kg, total (super heavyweight)",1
+1976,URS,+ 93kg (heavyweight),1
+1976,URS,- 48kg (light-flyweight),2
+1976,URS,"- 52kg, total (flyweight)",1
+1976,URS,100m,1
+1976,URS,100m breaststroke,3
+1976,URS,100m hurdles,2
+1976,URS,10m platform,2
+1976,URS,1500m,1
+1976,URS,200m breaststroke,3
+1976,URS,3m springboard,1
+1976,URS,400m freestyle,1
+1976,URS,400m hurdles,1
+1976,URS,400m individual medley,1
+1976,URS,48 - 51kg (flyweight),1
+1976,URS,48 - 52kg (flyweight),2
+1976,URS,4x100m relay,8
+1976,URS,4x200m freestyle relay,4
+1976,URS,4x400m relay,4
+1976,URS,50m rifle prone (60 shots),1
+1976,URS,50m running target (30+30 shots),2
+1976,URS,51 - 54kg (bantamweight),1
+1976,URS,52 - 57kg (bantamweight),2
+1976,URS,"56 - 60kg, total (featherweight)",1
+1976,URS,57 - 60kg (lightweight),1
+1976,URS,57 - 62kg (featherweight),1
+1976,URS,"60 - 67.5kg, total (lightweight)",1
+1976,URS,62 - 68kg (lightweight),2
+1976,URS,63 - 70kg (half-middleweight),1
+1976,URS,67 - 71kg (light-middleweight),1
+1976,URS,"67.5 - 75kg, total (middleweight)",1
+1976,URS,68 - 74kg (welterweight),1
+1976,URS,70 - 80kg (middleweight),1
+1976,URS,71-75kg,1
+1976,URS,74 - 82kg (middleweight),2
+1976,URS,"75 - 82.5kg, total (light-heavyweight)",1
+1976,URS,80 - 93kg (half-heavyweight),1
+1976,URS,800m,1
+1976,URS,82 - 90kg (light-heavyweight),2
+1976,URS,"82.5 - 90kg, total (middle-heavyweight)",1
+1976,URS,90 - 100kg (heavyweight),2
+1976,URS,"91 - 110kg, total (heavyweight)",1
+1976,URS,C-1 1000m (canoe single),1
+1976,URS,C-1 500m (canoe single),1
+1976,URS,C-2 1000m (canoe double),2
+1976,URS,C-2 500m (canoe double),2
+1976,URS,Individual competition,1
+1976,URS,K-1 500m (kayak single),1
+1976,URS,K-2 1000m (kayak double),2
+1976,URS,K-2 500m (kayak double),4
+1976,URS,K-4 1000m (kayak four),4
+1976,URS,Team Pursuit (4000m),4
+1976,URS,balance beam,1
+1976,URS,basketball,24
+1976,URS,decathlon,1
+1976,URS,double sculls (2x),2
+1976,URS,eight with coxswain (8+),9
+1976,URS,floor exercises,4
+1976,URS,foil individual,2
+1976,URS,foil team,5
+1976,URS,football,17
+1976,URS,four without coxswain (4-),4
+1976,URS,four-oared shell with coxswain (4-),10
+1976,URS,hammer throw,3
+1976,URS,handball,28
+1976,URS,individual FITA round,2
+1976,URS,individual all-round,3
+1976,URS,long jump,1
+1976,URS,open category,1
+1976,URS,pair-oared shell with coxswain (2+),3
+1976,URS,parallel bars,1
+1976,URS,pommel horse,1
+1976,URS,quadruple sculls with coxswain (4x),5
+1976,URS,quadruple sculls without coxswain (4x),4
+1976,URS,rings,2
+1976,URS,sabre individual,3
+1976,URS,sabre team,5
+1976,URS,shot put,3
+1976,URS,single sculls (1x),1
+1976,URS,single-handed dinghy (Finn),1
+1976,URS,team competition,12
+1976,URS,team time trial,4
+1976,URS,tempest,2
+1976,URS,triple jump,1
+1976,URS,vault,3
+1976,URS,volleyball,24
+1976,USA,+ 81kg (heavyweight),1
+1976,USA,+ 93kg (heavyweight),1
+1976,USA,100m backstroke,2
+1976,USA,100m breaststroke,1
+1976,USA,100m butterfly,4
+1976,USA,100m freestyle,2
+1976,USA,10m platform,2
+1976,USA,110m hurdles,1
+1976,USA,1500m freestyle,2
+1976,USA,200m,2
+1976,USA,200m backstroke,3
+1976,USA,200m breaststroke,2
+1976,USA,200m butterfly,3
+1976,USA,200m freestyle,4
+1976,USA,3m springboard,3
+1976,USA,400m,2
+1976,USA,400m freestyle,3
+1976,USA,400m hurdles,2
+1976,USA,400m individual medley,2
+1976,USA,48 - 51kg (flyweight),1
+1976,USA,4x100m freestyle relay,4
+1976,USA,4x100m medley relay,8
+1976,USA,4x100m relay,4
+1976,USA,4x200m freestyle relay,4
+1976,USA,4x400m relay,8
+1976,USA,50m rifle 3 positions (3x40 shots),2
+1976,USA,51 - 54kg (bantamweight),1
+1976,USA,57 - 60kg (lightweight),1
+1976,USA,57 - 62kg (featherweight),1
+1976,USA,60 - 63.5kg (light-welterweight),1
+1976,USA,62 - 68kg (lightweight),1
+1976,USA,68 - 74kg (welterweight),1
+1976,USA,71-75kg,1
+1976,USA,74 - 82kg (middleweight),1
+1976,USA,75 - 81kg (light-heavyweight),1
+1976,USA,800m,1
+1976,USA,800m freestyle,2
+1976,USA,82 - 90kg (light-heavyweight),1
+1976,USA,"82.5 - 90kg, total (middle-heavyweight)",1
+1976,USA,90 - 100kg (heavyweight),1
+1976,USA,Tornado - Multihull,2
+1976,USA,basketball,24
+1976,USA,coxless pair (2-),2
+1976,USA,decathlon,1
+1976,USA,discus throw,2
+1976,USA,eight with coxswain (8+),9
+1976,USA,fleet/match race keelboat open (Soling),3
+1976,USA,floor exercises,1
+1976,USA,high jump,1
+1976,USA,individual,2
+1976,USA,individual FITA round,2
+1976,USA,javelin throw,1
+1976,USA,long jump,3
+1976,USA,marathon,1
+1976,USA,pole vault,1
+1976,USA,single sculls (1x),1
+1976,USA,team,7
+1976,USA,tempest,2
+1976,USA,trap (125 targets),1
+1976,USA,triple jump,1
+1976,VEN,63.5 - 67kg (welterweight),1
+1976,YUG,52 - 57kg (bantamweight),1
+1976,YUG,57 - 60kg (lightweight),1
+1976,YUG,67 - 71kg (light-middleweight),1
+1976,YUG,70 - 80kg (middleweight),1
+1976,YUG,74 - 82kg (middleweight),1
+1976,YUG,C-1 1000m (canoe single),1
+1976,YUG,C-1 500m (canoe single),1
+1976,YUG,basketball,12
+1980,AUS,100m breaststroke,1
+1980,AUS,1500m freestyle,1
+1980,AUS,200m backstroke,1
+1980,AUS,200m butterfly,1
+1980,AUS,200m freestyle,1
+1980,AUS,400m,1
+1980,AUS,4x100m medley relay,4
+1980,AUS,800m freestyle,1
+1980,AUS,K-1 500m (kayak single),1
+1980,AUT,25m rapid fire pistol (60 shots),1
+1980,AUT,individual,1
+1980,AUT,single-handed dinghy (Finn),1
+1980,AUT,two-person keelboat open (Star),2
+1980,BEL,86 - 95kg (half-heavyweight),1
+1980,BRA,470 - Two Person Dinghy,2
+1980,BRA,4x200m freestyle relay,4
+1980,BRA,Tornado - Multihull,2
+1980,BRA,triple jump,1
+1980,BUL,+ 100kg (super heavyweight),1
+1980,BUL,+ 95kg (heavyweight),1
+1980,BUL,- 48kg (light-flyweight),1
+1980,BUL,"100 - 110kg, total (heavyweight)",1
+1980,BUL,100m,1
+1980,BUL,48 - 51kg (flyweight),1
+1980,BUL,48 - 52kg (flyweight),2
+1980,BUL,50m pistol (60 shots),1
+1980,BUL,50m rifle prone (60 shots),1
+1980,BUL,"56 - 60kg, total (featherweight)",1
+1980,BUL,57 - 62kg (featherweight),1
+1980,BUL,60 - 65kg (half-lightweight),1
+1980,BUL,"60 - 67.5kg, total (lightweight)",2
+1980,BUL,62 - 68kg (lightweight),1
+1980,BUL,"67.5 - 75kg, total (middleweight)",2
+1980,BUL,68 - 74kg (welterweight),1
+1980,BUL,74 - 82kg (middleweight),2
+1980,BUL,"75 - 82.5kg, total (light-heavyweight)",1
+1980,BUL,"82.5 - 90kg, total (middle-heavyweight)",1
+1980,BUL,90 - 100kg (heavyweight),2
+1980,BUL,C-1 1000m (canoe single),1
+1980,BUL,C-1 500m (canoe single),1
+1980,BUL,C-2 500m (canoe double),2
+1980,BUL,K-1 500m (kayak single),1
+1980,BUL,K-4 1000m (kayak four),4
+1980,BUL,basketball,12
+1980,BUL,discus throw,1
+1980,BUL,four-oared shell with coxswain (4-),5
+1980,BUL,horizontal bar,1
+1980,BUL,individual all-round,1
+1980,BUL,pair without coxswain (2-),2
+1980,BUL,quadruple sculls with coxswain (4x),5
+1980,BUL,quadruple sculls without coxswain (4x),4
+1980,BUL,team,5
+1980,BUL,volleyball,24
+1980,CUB,+ 81kg (heavyweight),1
+1980,CUB,- 48kg (light-flyweight),1
+1980,CUB,"- 56kg, total (bantamweight)",1
+1980,CUB,- 60 kg,1
+1980,CUB,100m,1
+1980,CUB,110m hurdles,1
+1980,CUB,51 - 54kg (bantamweight),1
+1980,CUB,54 - 57kg (featherweight),1
+1980,CUB,57 - 60kg (lightweight),1
+1980,CUB,60 - 63.5kg (light-welterweight),1
+1980,CUB,63.5 - 67kg (welterweight),1
+1980,CUB,67 - 71kg (light-middleweight),1
+1980,CUB,71 - 78kg (half-middleweight),1
+1980,CUB,71-75kg,1
+1980,CUB,75 - 81kg (light-heavyweight),1
+1980,CUB,78 - 86kg (middleweight),1
+1980,CUB,"90 - 100kg, total (first-heavyweight)",1
+1980,CUB,discus throw,1
+1980,CUB,javelin throw,1
+1980,CUB,skeet (125 targets),1
+1980,DEN,100m breaststroke,1
+1980,DEN,Individual Pursuit,1
+1980,DEN,Tornado - Multihull,2
+1980,DEN,fleet/match race keelboat open (Soling),3
+1980,DEN,skeet (125 targets),1
+1980,ESP,100m butterfly,1
+1980,ESP,50km walk,1
+1980,ESP,K-2 1000m (kayak double),2
+1980,ESP,K-2 500m (kayak double),2
+1980,ESP,flying dutchman,2
+1980,ESP,hockey,16
+1980,ETH,10000m,2
+1980,ETH,3000m steeplechase,1
+1980,ETH,5000m,1
+1980,FIN,10000m,1
+1980,FIN,470 - Two Person Dinghy,2
+1980,FIN,5000m,1
+1980,FIN,68 - 74kg (welterweight),1
+1980,FIN,individual FITA round,2
+1980,FIN,single sculls (1x),1
+1980,FIN,single-handed dinghy (Finn),1
+1980,FRA,+ 95kg (heavyweight),1
+1980,FRA,- 60 kg,1
+1980,FRA,4x100m relay,4
+1980,FRA,71 - 78kg (half-middleweight),1
+1980,FRA,Individual Pursuit,1
+1980,FRA,K-1 1000m (kayak single),1
+1980,FRA,Sprint indivual,1
+1980,FRA,foil individual,2
+1980,FRA,foil team,10
+1980,FRA,open category,1
+1980,FRA,épée individual,1
+1980,FRA,épée team,5
+1980,GBR,100m,1
+1980,GBR,100m breaststroke,1
+1980,GBR,1500m,2
+1980,GBR,200m,1
+1980,GBR,200m butterfly,1
+1980,GBR,400m hurdles,1
+1980,GBR,400m individual medley,1
+1980,GBR,4x100m medley relay,8
+1980,GBR,4x100m relay,4
+1980,GBR,4x400m relay,4
+1980,GBR,60 - 63.5kg (light-welterweight),1
+1980,GBR,65 - 71kg (lightweight),1
+1980,GBR,800m,2
+1980,GBR,coxless pair (2-),2
+1980,GBR,decathlon,1
+1980,GBR,eight with coxswain (8+),9
+1980,GBR,four without coxswain (4-),4
+1980,GBR,open category,1
+1980,GDR,"+ 110kg, total (super heavyweight)",1
+1980,GDR,+ 81kg (heavyweight),1
+1980,GDR,100m,2
+1980,GDR,100m backstroke,3
+1980,GDR,100m breaststroke,1
+1980,GDR,100m butterfly,4
+1980,GDR,100m freestyle,4
+1980,GDR,100m hurdles,1
+1980,GDR,10m platform,2
+1980,GDR,110m hurdles,1
+1980,GDR,1500m,2
+1980,GDR,1km time trial,1
+1980,GDR,200m,1
+1980,GDR,200m backstroke,3
+1980,GDR,200m butterfly,3
+1980,GDR,200m freestyle,3
+1980,GDR,20km walk,1
+1980,GDR,25m rapid fire pistol (60 shots),1
+1980,GDR,3m springboard,2
+1980,GDR,400m,3
+1980,GDR,400m freestyle,3
+1980,GDR,400m hurdles,1
+1980,GDR,400m individual medley,1
+1980,GDR,470 - Two Person Dinghy,2
+1980,GDR,4x100m freestyle relay,4
+1980,GDR,4x100m medley relay,4
+1980,GDR,4x100m relay,4
+1980,GDR,4x200m freestyle relay,4
+1980,GDR,4x400m relay,8
+1980,GDR,50km walk,1
+1980,GDR,50m pistol (60 shots),1
+1980,GDR,50m rifle 3 positions (3x40 shots),1
+1980,GDR,50m rifle prone (60 shots),1
+1980,GDR,50m running target (30+30 shots),1
+1980,GDR,54 - 57kg (featherweight),1
+1980,GDR,57 - 60kg (lightweight),1
+1980,GDR,"60 - 67.5kg, total (lightweight)",1
+1980,GDR,63.5 - 67kg (welterweight),1
+1980,GDR,65 - 71kg (lightweight),1
+1980,GDR,67 - 71kg (light-middleweight),1
+1980,GDR,71 - 78kg (half-middleweight),1
+1980,GDR,75 - 81kg (light-heavyweight),1
+1980,GDR,78 - 86kg (middleweight),1
+1980,GDR,800m freestyle,2
+1980,GDR,82 - 90kg (light-heavyweight),1
+1980,GDR,"82.5 - 90kg, total (middle-heavyweight)",1
+1980,GDR,86 - 95kg (half-heavyweight),1
+1980,GDR,C-1 1000m (canoe single),1
+1980,GDR,C-1 500m (canoe single),1
+1980,GDR,C-2 1000m (canoe double),2
+1980,GDR,K-1 1000m (kayak single),1
+1980,GDR,K-1 500m (kayak single),1
+1980,GDR,K-2 500m (kayak double),4
+1980,GDR,K-4 1000m (kayak four),4
+1980,GDR,Sprint indivual,1
+1980,GDR,Team Pursuit (4000m),4
+1980,GDR,coxless pair (2-),2
+1980,GDR,discus throw,1
+1980,GDR,double sculls (2x),4
+1980,GDR,eight with coxswain (8+),18
+1980,GDR,floor exercises,2
+1980,GDR,football,17
+1980,GDR,four without coxswain (4-),4
+1980,GDR,four-oared shell with coxswain (4-),10
+1980,GDR,handball,28
+1980,GDR,high jump,3
+1980,GDR,individual all-round,1
+1980,GDR,javelin throw,2
+1980,GDR,long jump,3
+1980,GDR,marathon,1
+1980,GDR,open category,1
+1980,GDR,pair without coxswain (2-),2
+1980,GDR,pair-oared shell with coxswain (2+),3
+1980,GDR,parallel bars,1
+1980,GDR,pommel horse,1
+1980,GDR,quadruple sculls with coxswain (4x),5
+1980,GDR,quadruple sculls without coxswain (4x),4
+1980,GDR,shot put,3
+1980,GDR,single sculls (1x),2
+1980,GDR,team competition,12
+1980,GDR,team time trial,4
+1980,GDR,trap (125 targets),1
+1980,GDR,uneven bars,2
+1980,GDR,vault,2
+1980,GDR,volleyball,12
+1980,GRE,57 - 62kg (featherweight),2
+1980,GRE,fleet/match race keelboat open (Soling),3
+1980,GUY,51 - 54kg (bantamweight),1
+1980,HUN,+ 100kg (super heavyweight),1
+1980,HUN,+ 81kg (heavyweight),1
+1980,HUN,- 48kg (light-flyweight),1
+1980,HUN,- 60 kg,1
+1980,HUN,"100 - 110kg, total (heavyweight)",1
+1980,HUN,200m backstroke,2
+1980,HUN,200m breaststroke,1
+1980,HUN,400m individual medley,1
+1980,HUN,48 - 51kg (flyweight),1
+1980,HUN,48 - 52kg (flyweight),1
+1980,HUN,50m rifle prone (60 shots),1
+1980,HUN,57 - 62kg (featherweight),1
+1980,HUN,68 - 74kg (welterweight),1
+1980,HUN,74 - 82kg (middleweight),1
+1980,HUN,82 - 90kg (light-heavyweight),1
+1980,HUN,"82.5 - 90kg, total (middle-heavyweight)",1
+1980,HUN,C-2 500m (canoe double),2
+1980,HUN,Individual competition,1
+1980,HUN,K-2 1000m (kayak double),2
+1980,HUN,K-2 500m (kayak double),2
+1980,HUN,Team competition,3
+1980,HUN,flying dutchman,2
+1980,HUN,foil individual,1
+1980,HUN,foil team,5
+1980,HUN,open category,1
+1980,HUN,pommel horse,1
+1980,HUN,sabre individual,1
+1980,HUN,sabre team,5
+1980,HUN,team competition,6
+1980,HUN,water polo,11
+1980,HUN,épée individual,1
+1980,IND,hockey,16
+1980,IRL,48 - 51kg (flyweight),1
+1980,IRL,flying dutchman,2
+1980,ITA,- 48kg (light-flyweight),1
+1980,ITA,200m,1
+1980,ITA,20km walk,1
+1980,ITA,3m springboard,1
+1980,ITA,4x400m relay,4
+1980,ITA,60 - 63.5kg (light-welterweight),1
+1980,ITA,65 - 71kg (lightweight),1
+1980,ITA,basketball,12
+1980,ITA,high jump,1
+1980,ITA,individual,1
+1980,ITA,individual FITA round,1
+1980,ITA,sabre team,5
+1980,ITA,team,4
+1980,ITA,trap (125 targets),1
+1980,ITA,two-person keelboat open (Star),2
+1980,JAM,1km time trial,1
+1980,JAM,200m,2
+1980,LIB,+ 100kg (super heavyweight),1
+1980,MEX,3m springboard,1
+1980,MEX,individual,1
+1980,MEX,team,10
+1980,MGL,52 - 57kg (bantamweight),1
+1980,MGL,60 - 65kg (half-lightweight),1
+1980,MGL,65 - 71kg (lightweight),1
+1980,MGL,68 - 74kg (welterweight),1
+1980,NED,4x100m freestyle relay,4
+1980,NED,86 - 95kg (half-heavyweight),1
+1980,NED,marathon,1
+1980,POL,+ 100kg (super heavyweight),1
+1980,POL,"+ 110kg, total (super heavyweight)",1
+1980,POL,"- 56kg, total (bantamweight)",1
+1980,POL,100m hurdles,1
+1980,POL,3000m steeplechase,1
+1980,POL,400m individual medley,1
+1980,POL,48 - 52kg (flyweight),1
+1980,POL,4x100m relay,4
+1980,POL,52 - 57kg (bantamweight),1
+1980,POL,54 - 57kg (featherweight),1
+1980,POL,"56 - 60kg, total (featherweight)",1
+1980,POL,57 - 60kg (lightweight),1
+1980,POL,60 - 65kg (half-lightweight),1
+1980,POL,62 - 68kg (lightweight),1
+1980,POL,63.5 - 67kg (welterweight),1
+1980,POL,71-75kg,1
+1980,POL,74 - 82kg (middleweight),1
+1980,POL,75 - 81kg (light-heavyweight),1
+1980,POL,82 - 90kg (light-heavyweight),1
+1980,POL,90 - 100kg (heavyweight),1
+1980,POL,foil individual,1
+1980,POL,foil team,4
+1980,POL,four-oared shell with coxswain (4-),5
+1980,POL,high jump,2
+1980,POL,individual,1
+1980,POL,individual road race,1
+1980,POL,pair without coxswain (2-),2
+1980,POL,pole vault,2
+1980,POL,team,4
+1980,POL,épée team,5
+1980,PRK,- 48kg (light-flyweight),2
+1980,PRK,"- 52kg, total (flyweight)",2
+1980,PRK,52 - 57kg (bantamweight),1
+1980,ROU,- 48kg (light-flyweight),1
+1980,ROU,25m rapid fire pistol (60 shots),1
+1980,ROU,51 - 54kg (bantamweight),1
+1980,ROU,62 - 68kg (lightweight),1
+1980,ROU,71-75kg,1
+1980,ROU,82 - 90kg (light-heavyweight),1
+1980,ROU,90 - 100kg (heavyweight),1
+1980,ROU,C-2 1000m (canoe double),2
+1980,ROU,C-2 500m (canoe double),2
+1980,ROU,K-1 1000m (kayak single),1
+1980,ROU,K-1 500m (kayak single),1
+1980,ROU,K-4 1000m (kayak four),4
+1980,ROU,balance beam,1
+1980,ROU,double sculls (2x),2
+1980,ROU,eight with coxswain (8+),9
+1980,ROU,floor exercises,1
+1980,ROU,handball,14
+1980,ROU,individual all-round,1
+1980,ROU,single sculls (1x),1
+1980,ROU,team,5
+1980,ROU,team competition,6
+1980,ROU,uneven bars,2
+1980,ROU,vault,1
+1980,ROU,volleyball,12
+1980,SUI,78 - 86kg (middleweight),1
+1980,SUI,Individual Pursuit,1
+1980,SWE,100m backstroke,1
+1980,SWE,100m butterfly,1
+1980,SWE,100m freestyle,2
+1980,SWE,4x100m freestyle relay,4
+1980,SWE,50m rifle 3 positions (3x40 shots),1
+1980,SWE,52 - 57kg (bantamweight),1
+1980,SWE,62 - 68kg (lightweight),1
+1980,SWE,Team competition,3
+1980,SWE,Tornado - Multihull,2
+1980,SWE,skeet (125 targets),1
+1980,SWE,épée individual,1
+1980,TAN,3000m steeplechase,1
+1980,TAN,5000m,1
+1980,TCH,+ 95kg (heavyweight),1
+1980,TCH,400m,1
+1980,TCH,67 - 71kg (light-middleweight),1
+1980,TCH,68 - 74kg (welterweight),1
+1980,TCH,"75 - 82.5kg, total (light-heavyweight)",1
+1980,TCH,90 - 100kg (heavyweight),1
+1980,TCH,"90 - 100kg, total (first-heavyweight)",1
+1980,TCH,Team Pursuit (4000m),4
+1980,TCH,discus throw,1
+1980,TCH,double sculls (2x),2
+1980,TCH,football,17
+1980,TCH,hockey,16
+1980,TCH,rings,1
+1980,TCH,team time trial,4
+1980,UGA,63.5 - 67kg (welterweight),1
+1980,URS,+ 100kg (super heavyweight),2
+1980,URS,"+ 110kg, total (super heavyweight)",1
+1980,URS,+ 81kg (heavyweight),1
+1980,URS,- 48kg (light-flyweight),3
+1980,URS,"- 52kg, total (flyweight)",1
+1980,URS,"- 56kg, total (bantamweight)",1
+1980,URS,- 60 kg,1
+1980,URS,"100 - 110kg, total (heavyweight)",1
+1980,URS,100m,1
+1980,URS,100m backstroke,2
+1980,URS,100m breaststroke,2
+1980,URS,100m hurdles,1
+1980,URS,10m platform,4
+1980,URS,110m hurdles,1
+1980,URS,1500m,2
+1980,URS,1500m freestyle,2
+1980,URS,1km time trial,1
+1980,URS,200m,1
+1980,URS,200m breaststroke,5
+1980,URS,200m butterfly,1
+1980,URS,200m freestyle,2
+1980,URS,20km walk,1
+1980,URS,3m springboard,2
+1980,URS,400m,1
+1980,URS,400m freestyle,3
+1980,URS,400m hurdles,1
+1980,URS,400m individual medley,2
+1980,URS,48 - 51kg (flyweight),1
+1980,URS,48 - 52kg (flyweight),2
+1980,URS,4x100m medley relay,8
+1980,URS,4x100m relay,8
+1980,URS,4x200m freestyle relay,4
+1980,URS,4x400m relay,8
+1980,URS,50km walk,1
+1980,URS,50m pistol (60 shots),1
+1980,URS,50m rifle 3 positions (3x40 shots),1
+1980,URS,50m running target (30+30 shots),2
+1980,URS,52 - 57kg (bantamweight),2
+1980,URS,54 - 57kg (featherweight),1
+1980,URS,"56 - 60kg, total (featherweight)",1
+1980,URS,57 - 60kg (lightweight),1
+1980,URS,57 - 62kg (featherweight),2
+1980,URS,60 - 63.5kg (light-welterweight),1
+1980,URS,60 - 65kg (half-lightweight),1
+1980,URS,62 - 68kg (lightweight),1
+1980,URS,67 - 71kg (light-middleweight),1
+1980,URS,"67.5 - 75kg, total (middleweight)",1
+1980,URS,68 - 74kg (welterweight),1
+1980,URS,71 - 78kg (half-middleweight),1
+1980,URS,71-75kg,1
+1980,URS,74 - 82kg (middleweight),2
+1980,URS,"75 - 82.5kg, total (light-heavyweight)",1
+1980,URS,78 - 86kg (middleweight),1
+1980,URS,800m,4
+1980,URS,82 - 90kg (light-heavyweight),2
+1980,URS,86 - 95kg (half-heavyweight),1
+1980,URS,90 - 100kg (heavyweight),1
+1980,URS,"90 - 100kg, total (first-heavyweight)",1
+1980,URS,C-1 1000m (canoe single),1
+1980,URS,C-1 500m (canoe single),1
+1980,URS,C-2 1000m (canoe double),2
+1980,URS,Individual competition,2
+1980,URS,K-1 500m (kayak single),2
+1980,URS,K-2 1000m (kayak double),2
+1980,URS,K-2 500m (kayak double),4
+1980,URS,Sprint indivual,1
+1980,URS,Team Pursuit (4000m),4
+1980,URS,Team competition,3
+1980,URS,balance beam,2
+1980,URS,basketball,24
+1980,URS,coxless pair (2-),2
+1980,URS,decathlon,2
+1980,URS,discus throw,2
+1980,URS,double sculls (2x),2
+1980,URS,eight with coxswain (8+),18
+1980,URS,fleet/match race keelboat open (Soling),3
+1980,URS,floor exercises,4
+1980,URS,foil individual,2
+1980,URS,foil team,10
+1980,URS,football,17
+1980,URS,four without coxswain (4-),4
+1980,URS,four-oared shell with coxswain (4-),10
+1980,URS,hammer throw,3
+1980,URS,handball,28
+1980,URS,hockey,32
+1980,URS,horizontal bar,2
+1980,URS,individual,9
+1980,URS,individual FITA round,3
+1980,URS,individual all-round,3
+1980,URS,individual road race,2
+1980,URS,javelin throw,3
+1980,URS,long jump,3
+1980,URS,marathon,1
+1980,URS,pair-oared shell with coxswain (2+),3
+1980,URS,parallel bars,2
+1980,URS,pentathlon,3
+1980,URS,pole vault,1
+1980,URS,pommel horse,1
+1980,URS,quadruple sculls with coxswain (4x),5
+1980,URS,quadruple sculls without coxswain (4x),4
+1980,URS,rings,2
+1980,URS,sabre individual,2
+1980,URS,sabre team,5
+1980,URS,shot put,3
+1980,URS,single sculls (1x),2
+1980,URS,single-handed dinghy (Finn),1
+1980,URS,team,21
+1980,URS,team competition,12
+1980,URS,team time trial,4
+1980,URS,trap (125 targets),1
+1980,URS,triple jump,2
+1980,URS,two-person keelboat open (Star),2
+1980,URS,uneven bars,1
+1980,URS,vault,3
+1980,URS,volleyball,24
+1980,URS,water polo,11
+1980,URS,épée team,4
+1980,VEN,51 - 54kg (bantamweight),1
+1980,YUG,+ 95kg (heavyweight),1
+1980,YUG,62 - 68kg (lightweight),1
+1980,YUG,75 - 81kg (light-heavyweight),1
+1980,YUG,basketball,24
+1980,YUG,double sculls (2x),2
+1980,YUG,handball,14
+1980,YUG,pair-oared shell with coxswain (2+),3
+1980,YUG,water polo,11
+1980,ZIM,hockey,16
+1984,ALG,71-75kg,1
+1984,ALG,75 - 81kg (light-heavyweight),1
+1984,AUS,"+ 110kg, total (super heavyweight)",1
+1984,AUS,100m breaststroke,1
+1984,AUS,100m butterfly,1
+1984,AUS,100m freestyle,1
+1984,AUS,200m breaststroke,1
+1984,AUS,200m butterfly,2
+1984,AUS,200m individual medley,1
+1984,AUS,25m pistol (30+30 shots),1
+1984,AUS,400m freestyle,1
+1984,AUS,400m individual medley,2
+1984,AUS,4x100m freestyle relay,4
+1984,AUS,4x100m medley relay,4
+1984,AUS,"75 - 82.5kg, total (light-heavyweight)",1
+1984,AUS,K-2 1000m (kayak double),2
+1984,AUS,Team Pursuit (4000m),4
+1984,AUS,Tornado - Multihull,2
+1984,AUS,eight with coxswain (8+),9
+1984,AUS,four-oared shell with coxswain (4-),5
+1984,AUS,heptathlon,1
+1984,AUS,long jump,1
+1984,AUS,quadruple sculls without coxswain (4x),4
+1984,AUS,shot put,1
+1984,AUT,10m air rifle (60 shots),1
+1984,AUT,60 - 65kg (half-lightweight),1
+1984,AUT,78 - 86kg (middleweight),1
+1984,BEL,200m breaststroke,1
+1984,BEL,Points Race,1
+1984,BEL,double sculls (2x),2
+1984,BEL,single sculls (1x),1
+1984,BRA,400m individual medley,1
+1984,BRA,65 - 71kg (lightweight),1
+1984,BRA,78 - 86kg (middleweight),1
+1984,BRA,800m,1
+1984,BRA,86 - 95kg (half-heavyweight),1
+1984,BRA,fleet/match race keelboat open (Soling),3
+1984,BRA,football,17
+1984,BRA,volleyball,12
+1984,CAN,+ 100kg (super heavyweight),1
+1984,CAN,+ 95kg (heavyweight),1
+1984,CAN,100m,1
+1984,CAN,100m backstroke,1
+1984,CAN,100m breaststroke,2
+1984,CAN,1km time trial,1
+1984,CAN,200m backstroke,1
+1984,CAN,200m breaststroke,2
+1984,CAN,200m individual medley,1
+1984,CAN,25m pistol (30+30 shots),1
+1984,CAN,3000m,1
+1984,CAN,3m springboard,1
+1984,CAN,400m individual medley,1
+1984,CAN,4x100m medley relay,8
+1984,CAN,4x100m relay,8
+1984,CAN,4x400m relay,4
+1984,CAN,51 - 54kg (bantamweight),1
+1984,CAN,67 - 71kg (light-middleweight),1
+1984,CAN,"67.5 - 75kg, total (middleweight)",1
+1984,CAN,74 - 82kg (middleweight),1
+1984,CAN,81 - 91kg (heavyweight),1
+1984,CAN,C-1 1000m (canoe single),1
+1984,CAN,C-1 500m (canoe single),1
+1984,CAN,K-2 1000m (kayak double),2
+1984,CAN,K-2 500m (kayak double),4
+1984,CAN,K-4 500m (kayak four),4
+1984,CAN,double sculls (2x),2
+1984,CAN,duet,2
+1984,CAN,eight with coxswain (8+),9
+1984,CAN,fleet/match race keelboat open (Soling),3
+1984,CAN,flying dutchman,2
+1984,CAN,four-oared shell with coxswain (4-),5
+1984,CAN,individual all-round,1
+1984,CAN,individual road race,1
+1984,CAN,pair without coxswain (2-),2
+1984,CAN,quadruple sculls without coxswain (4x),4
+1984,CAN,single sculls (1x),1
+1984,CAN,single-handed dinghy (Finn),1
+1984,CAN,solo,1
+1984,CHN,"- 52kg, total (flyweight)",2
+1984,CHN,"- 56kg, total (bantamweight)",2
+1984,CHN,10m air rifle (40 shots),1
+1984,CHN,10m platform,2
+1984,CHN,3m springboard,1
+1984,CHN,50m pistol (60 shots),2
+1984,CHN,50m rifle 3 positions (3x20 shots),1
+1984,CHN,50m running target (30+30 shots),2
+1984,CHN,"56 - 60kg, total (featherweight)",1
+1984,CHN,"60 - 67.5kg, total (lightweight)",1
+1984,CHN,basketball,12
+1984,CHN,floor exercises,2
+1984,CHN,foil individual,1
+1984,CHN,handball,13
+1984,CHN,high jump,1
+1984,CHN,horizontal bar,1
+1984,CHN,individual FITA round,1
+1984,CHN,individual all-round,1
+1984,CHN,pommel horse,1
+1984,CHN,rings,1
+1984,CHN,team competition,12
+1984,CHN,uneven bars,1
+1984,CHN,vault,2
+1984,CHN,volleyball,12
+1984,CIV,400m,1
+1984,CMR,57 - 60kg (lightweight),1
+1984,COL,50m running target (30+30 shots),1
+1984,DEN,C-1 1000m (canoe single),1
+1984,DEN,C-1 500m (canoe single),1
+1984,DEN,four without coxswain (4-),4
+1984,DEN,individual,3
+1984,DEN,quadruple sculls with coxswain (4x),5
+1984,DEN,skeet (125 targets),1
+1984,DOM,51 - 54kg (bantamweight),1
+1984,EGY,open category,1
+1984,ESP,1500m,1
+1984,ESP,470 - Two Person Dinghy,2
+1984,ESP,C-2 500m (canoe double),2
+1984,ESP,basketball,12
+1984,ESP,coxless pair (2-),2
+1984,FIN,110m hurdles,1
+1984,FIN,25m rapid fire pistol (60 shots),1
+1984,FIN,"60 - 67.5kg, total (lightweight)",1
+1984,FIN,62 - 68kg (lightweight),2
+1984,FIN,63.5 - 67kg (welterweight),1
+1984,FIN,68 - 74kg (welterweight),1
+1984,FIN,"90 - 100kg, total (first-heavyweight)",1
+1984,FIN,hammer throw,1
+1984,FIN,javelin throw,2
+1984,FIN,single sculls (1x),1
+1984,FRA,+ 95kg (heavyweight),1
+1984,FRA,100m breaststroke,1
+1984,FRA,100m hurdles,1
+1984,FRA,10m air rifle (60 shots),1
+1984,FRA,1km time trial,1
+1984,FRA,200m backstroke,1
+1984,FRA,3000m steeplechase,1
+1984,FRA,470 - Two Person Dinghy,2
+1984,FRA,50m rifle prone (60 shots),1
+1984,FRA,60 - 65kg (half-lightweight),1
+1984,FRA,67 - 71kg (light-middleweight),1
+1984,FRA,71 - 78kg (half-middleweight),1
+1984,FRA,C-2 1000m (canoe double),2
+1984,FRA,K-1 500m (kayak single),1
+1984,FRA,K-2 1000m (kayak double),2
+1984,FRA,K-4 1000m (kayak four),4
+1984,FRA,Team competition,3
+1984,FRA,floor exercises,1
+1984,FRA,foil team,10
+1984,FRA,football,17
+1984,FRA,pole vault,2
+1984,FRA,sabre individual,1
+1984,FRA,sabre team,5
+1984,FRA,épée individual,2
+1984,FRA,épée team,5
+1984,FRG,"+ 110kg, total (super heavyweight)",1
+1984,FRG,- 48kg (light-flyweight),1
+1984,FRG,100m butterfly,2
+1984,FRG,1500m freestyle,1
+1984,FRG,1km time trial,1
+1984,FRG,200m butterfly,2
+1984,FRG,200m freestyle,2
+1984,FRG,400m hurdles,1
+1984,FRG,400m individual medley,1
+1984,FRG,4x100m freestyle relay,4
+1984,FRG,4x100m medley relay,4
+1984,FRG,4x200m freestyle relay,4
+1984,FRG,4x400m relay,4
+1984,FRG,50m rifle 3 positions (3x20 shots),1
+1984,FRG,52 - 57kg (bantamweight),1
+1984,FRG,67 - 71kg (light-middleweight),1
+1984,FRG,"67.5 - 75kg, total (middleweight)",1
+1984,FRG,68 - 74kg (welterweight),1
+1984,FRG,71 - 78kg (half-middleweight),1
+1984,FRG,86 - 95kg (half-heavyweight),1
+1984,FRG,"90 - 100kg, total (first-heavyweight)",1
+1984,FRG,C-1 1000m (canoe single),1
+1984,FRG,Individual Pursuit,1
+1984,FRG,K-1 500m (kayak single),1
+1984,FRG,K-2 500m (kayak double),2
+1984,FRG,Points Race,1
+1984,FRG,Team Pursuit (4000m),4
+1984,FRG,decathlon,2
+1984,FRG,discus throw,1
+1984,FRG,foil individual,2
+1984,FRG,foil team,10
+1984,FRG,hammer throw,2
+1984,FRG,handball,15
+1984,FRG,heptathlon,1
+1984,FRG,high jump,2
+1984,FRG,hockey,32
+1984,FRG,individual,2
+1984,FRG,individual all-round,1
+1984,FRG,individual road race,1
+1984,FRG,open category,1
+1984,FRG,pair without coxswain (2-),2
+1984,FRG,quadruple sculls without coxswain (4x),4
+1984,FRG,shot put,1
+1984,FRG,single sculls (1x),1
+1984,FRG,team,11
+1984,FRG,two-person keelboat open (Star),2
+1984,FRG,water polo,13
+1984,FRG,épée team,5
+1984,GBR,+ 91kg (super heavyweight),1
+1984,GBR,- 60 kg,1
+1984,GBR,10000m,1
+1984,GBR,100m hurdles,1
+1984,GBR,10m air rifle (60 shots),1
+1984,GBR,1500m,2
+1984,GBR,200m individual medley,1
+1984,GBR,3000m,1
+1984,GBR,400m,1
+1984,GBR,400m freestyle,2
+1984,GBR,4x100m relay,4
+1984,GBR,4x200m freestyle relay,4
+1984,GBR,4x400m relay,4
+1984,GBR,50m rifle 3 positions (3x40 shots),2
+1984,GBR,50m rifle prone (60 shots),1
+1984,GBR,65 - 71kg (lightweight),1
+1984,GBR,71 - 78kg (half-middleweight),1
+1984,GBR,800m,1
+1984,GBR,800m freestyle,1
+1984,GBR,82 - 90kg (light-heavyweight),1
+1984,GBR,"82.5 - 90kg, total (middle-heavyweight)",1
+1984,GBR,decathlon,1
+1984,GBR,flying dutchman,2
+1984,GBR,four-oared shell with coxswain (4-),5
+1984,GBR,hockey,16
+1984,GBR,individual,1
+1984,GBR,javelin throw,3
+1984,GBR,long jump,1
+1984,GBR,marathon,1
+1984,GBR,team,8
+1984,GBR,triple jump,1
+1984,GRE,52 - 57kg (bantamweight),1
+1984,GRE,74 - 82kg (middleweight),1
+1984,IRL,marathon,1
+1984,ISL,86 - 95kg (half-heavyweight),1
+1984,ITA,+ 91kg (super heavyweight),1
+1984,ITA,- 48kg (light-flyweight),2
+1984,ITA,"100 - 110kg, total (heavyweight)",1
+1984,ITA,10000m,1
+1984,ITA,10m air rifle (40 shots),1
+1984,ITA,1500m,1
+1984,ITA,20km walk,1
+1984,ITA,50km walk,1
+1984,ITA,51 - 54kg (bantamweight),1
+1984,ITA,63.5 - 67kg (welterweight),1
+1984,ITA,65 - 71kg (lightweight),1
+1984,ITA,81 - 91kg (heavyweight),1
+1984,ITA,Individual competition,2
+1984,ITA,Team competition,3
+1984,ITA,foil individual,3
+1984,ITA,foil team,5
+1984,ITA,high jump,1
+1984,ITA,long jump,1
+1984,ITA,pair-oared shell with coxswain (2+),3
+1984,ITA,sabre individual,1
+1984,ITA,sabre team,5
+1984,ITA,shot put,1
+1984,ITA,skeet (125 targets),1
+1984,ITA,team time trial,4
+1984,ITA,trap (125 targets),1
+1984,ITA,two-person keelboat open (Star),2
+1984,ITA,volleyball,12
+1984,ITA,épée team,5
+1984,JAM,100m,1
+1984,JAM,200m,1
+1984,JAM,4x100m relay,4
+1984,JPN,+ 95kg (heavyweight),1
+1984,JPN,- 48kg (light-flyweight),2
+1984,JPN,"- 52kg, total (flyweight)",1
+1984,JPN,"- 56kg, total (bantamweight)",1
+1984,JPN,- 60 kg,1
+1984,JPN,25m rapid fire pistol (60 shots),1
+1984,JPN,48 - 52kg (flyweight),2
+1984,JPN,52 - 57kg (bantamweight),2
+1984,JPN,57 - 62kg (featherweight),1
+1984,JPN,60 - 65kg (half-lightweight),1
+1984,JPN,74 - 82kg (middleweight),1
+1984,JPN,"75 - 82.5kg, total (light-heavyweight)",1
+1984,JPN,78 - 86kg (middleweight),1
+1984,JPN,82 - 90kg (light-heavyweight),1
+1984,JPN,Sprint indivual,1
+1984,JPN,duet,2
+1984,JPN,floor exercises,1
+1984,JPN,horizontal bar,2
+1984,JPN,individual FITA round,1
+1984,JPN,individual all-round,1
+1984,JPN,open category,1
+1984,JPN,parallel bars,1
+1984,JPN,rings,1
+1984,JPN,solo,1
+1984,JPN,team competition,6
+1984,JPN,vault,2
+1984,JPN,volleyball,12
+1984,KEN,10000m,1
+1984,KEN,3000m steeplechase,1
+1984,KEN,48 - 51kg (flyweight),1
+1984,KOR,+ 95kg (heavyweight),1
+1984,KOR,- 48kg (light-flyweight),1
+1984,KOR,- 60 kg,1
+1984,KOR,48 - 52kg (flyweight),2
+1984,KOR,52 - 57kg (bantamweight),1
+1984,KOR,57 - 60kg (lightweight),1
+1984,KOR,57 - 62kg (featherweight),2
+1984,KOR,60 - 65kg (half-lightweight),1
+1984,KOR,62 - 68kg (lightweight),1
+1984,KOR,63.5 - 67kg (welterweight),1
+1984,KOR,65 - 71kg (lightweight),1
+1984,KOR,71-75kg,1
+1984,KOR,86 - 95kg (half-heavyweight),1
+1984,KOR,basketball,12
+1984,KOR,handball,13
+1984,KOR,individual FITA round,2
+1984,MAR,400m hurdles,1
+1984,MAR,5000m,1
+1984,MEX,20km walk,2
+1984,MEX,48 - 52kg (flyweight),1
+1984,MEX,50km walk,1
+1984,MEX,51 - 54kg (bantamweight),1
+1984,MEX,Points Race,1
+1984,NED,100m backstroke,1
+1984,NED,100m breaststroke,1
+1984,NED,100m freestyle,1
+1984,NED,200m backstroke,1
+1984,NED,200m freestyle,1
+1984,NED,4x100m freestyle relay,4
+1984,NED,81 - 91kg (heavyweight),1
+1984,NED,K-1 500m (kayak single),1
+1984,NED,board (windglider),1
+1984,NED,discus throw,1
+1984,NED,double sculls (2x),2
+1984,NED,eight with coxswain (8+),9
+1984,NED,hockey,16
+1984,NGR,4x400m relay,4
+1984,NGR,54 - 57kg (featherweight),1
+1984,NOR,coxless pair (2-),2
+1984,NOR,individual road race,1
+1984,NOR,marathon,1
+1984,NZL,75 - 81kg (light-heavyweight),1
+1984,NZL,K-1 1000m (kayak single),1
+1984,NZL,K-1 500m (kayak single),1
+1984,NZL,K-2 500m (kayak double),2
+1984,NZL,K-4 1000m (kayak four),4
+1984,NZL,Tornado - Multihull,2
+1984,NZL,board (windglider),1
+1984,NZL,four without coxswain (4-),4
+1984,NZL,four-oared shell with coxswain (4-),5
+1984,NZL,individual,1
+1984,NZL,single-handed dinghy (Finn),1
+1984,PAK,hockey,16
+1984,PER,trap (125 targets),1
+1984,POR,5000m,1
+1984,POR,marathon,2
+1984,PUR,57 - 60kg (lightweight),1
+1984,PUR,71-75kg,1
+1984,ROU,+ 100kg (super heavyweight),1
+1984,ROU,"100 - 110kg, total (heavyweight)",1
+1984,ROU,1500m,2
+1984,ROU,200m backstroke,1
+1984,ROU,25m rapid fire pistol (60 shots),1
+1984,ROU,3000m,1
+1984,ROU,400m hurdles,1
+1984,ROU,"56 - 60kg, total (featherweight)",1
+1984,ROU,60 - 63.5kg (light-welterweight),1
+1984,ROU,"60 - 67.5kg, total (lightweight)",1
+1984,ROU,"67.5 - 75kg, total (middleweight)",1
+1984,ROU,68 - 74kg (welterweight),1
+1984,ROU,71 - 78kg (half-middleweight),1
+1984,ROU,74 - 82kg (middleweight),1
+1984,ROU,"75 - 82.5kg, total (light-heavyweight)",1
+1984,ROU,800m,2
+1984,ROU,82 - 90kg (light-heavyweight),1
+1984,ROU,"82.5 - 90kg, total (middle-heavyweight)",2
+1984,ROU,90 - 100kg (heavyweight),2
+1984,ROU,"90 - 100kg, total (first-heavyweight)",1
+1984,ROU,C-1 500m (canoe single),1
+1984,ROU,C-2 1000m (canoe double),2
+1984,ROU,C-2 500m (canoe double),2
+1984,ROU,K-4 500m (kayak four),4
+1984,ROU,balance beam,2
+1984,ROU,coxless pair (2-),2
+1984,ROU,discus throw,1
+1984,ROU,double sculls (2x),2
+1984,ROU,eight with coxswain (8+),9
+1984,ROU,floor exercises,1
+1984,ROU,foil team,5
+1984,ROU,four-oared shell with coxswain (4-),5
+1984,ROU,handball,15
+1984,ROU,individual all-round,3
+1984,ROU,long jump,2
+1984,ROU,open category,1
+1984,ROU,pair without coxswain (2-),2
+1984,ROU,pair-oared shell with coxswain (2+),3
+1984,ROU,quadruple sculls with coxswain (4x),5
+1984,ROU,sabre team,5
+1984,ROU,shot put,1
+1984,ROU,single sculls (1x),1
+1984,ROU,team competition,6
+1984,ROU,vault,2
+1984,SUI,200m breaststroke,1
+1984,SUI,5000m,1
+1984,SUI,50m rifle 3 positions (3x40 shots),1
+1984,SUI,57 - 62kg (featherweight),1
+1984,SUI,individual,4
+1984,SUI,team,3
+1984,SUI,team time trial,4
+1984,SWE,100m freestyle,1
+1984,SWE,4x100m freestyle relay,4
+1984,SWE,50km walk,1
+1984,SWE,50m pistol (60 shots),1
+1984,SWE,57 - 62kg (featherweight),1
+1984,SWE,68 - 74kg (welterweight),1
+1984,SWE,74 - 82kg (middleweight),1
+1984,SWE,82 - 90kg (light-heavyweight),1
+1984,SWE,Individual competition,1
+1984,SWE,K-1 500m (kayak single),2
+1984,SWE,K-2 500m (kayak double),4
+1984,SWE,K-4 1000m (kayak four),4
+1984,SWE,K-4 500m (kayak four),4
+1984,SWE,high jump,1
+1984,SWE,javelin throw,1
+1984,SWE,team,3
+1984,SWE,épée individual,1
+1984,SYR,90 - 100kg (heavyweight),1
+1984,THA,60 - 63.5kg (light-welterweight),1
+1984,TPE,"56 - 60kg, total (featherweight)",1
+1984,TUR,+ 100kg (super heavyweight),1
+1984,TUR,48 - 51kg (flyweight),1
+1984,TUR,54 - 57kg (featherweight),1
+1984,USA,+ 100kg (super heavyweight),2
+1984,USA,"+ 110kg, total (super heavyweight)",1
+1984,USA,+ 91kg (super heavyweight),1
+1984,USA,- 48kg (light-flyweight),2
+1984,USA,- 60 kg,1
+1984,USA,"100 - 110kg, total (heavyweight)",1
+1984,USA,100m,4
+1984,USA,100m backstroke,4
+1984,USA,100m breaststroke,1
+1984,USA,100m butterfly,3
+1984,USA,100m freestyle,3
+1984,USA,100m hurdles,2
+1984,USA,10m air rifle (40 shots),1
+1984,USA,10m platform,4
+1984,USA,110m hurdles,2
+1984,USA,1500m freestyle,2
+1984,USA,200m,5
+1984,USA,200m backstroke,2
+1984,USA,200m breaststroke,1
+1984,USA,200m butterfly,1
+1984,USA,200m freestyle,3
+1984,USA,200m individual medley,3
+1984,USA,25m pistol (30+30 shots),1
+1984,USA,3000m steeplechase,1
+1984,USA,3m springboard,4
+1984,USA,400m,4
+1984,USA,400m freestyle,3
+1984,USA,400m hurdles,3
+1984,USA,400m individual medley,1
+1984,USA,470 - Two Person Dinghy,2
+1984,USA,48 - 51kg (flyweight),1
+1984,USA,4x100m freestyle relay,8
+1984,USA,4x100m medley relay,8
+1984,USA,4x100m relay,8
+1984,USA,4x200m freestyle relay,4
+1984,USA,4x400m relay,8
+1984,USA,50m rifle 3 positions (3x20 shots),1
+1984,USA,50m rifle prone (60 shots),1
+1984,USA,52 - 57kg (bantamweight),1
+1984,USA,54 - 57kg (featherweight),1
+1984,USA,57 - 60kg (lightweight),1
+1984,USA,57 - 62kg (featherweight),1
+1984,USA,60 - 63.5kg (light-welterweight),1
+1984,USA,62 - 68kg (lightweight),2
+1984,USA,63.5 - 67kg (welterweight),1
+1984,USA,67 - 71kg (light-middleweight),1
+1984,USA,68 - 74kg (welterweight),1
+1984,USA,71-75kg,1
+1984,USA,74 - 82kg (middleweight),1
+1984,USA,75 - 81kg (light-heavyweight),1
+1984,USA,78 - 86kg (middleweight),1
+1984,USA,800m,2
+1984,USA,800m freestyle,2
+1984,USA,81 - 91kg (heavyweight),1
+1984,USA,82 - 90kg (light-heavyweight),2
+1984,USA,90 - 100kg (heavyweight),2
+1984,USA,Individual Pursuit,2
+1984,USA,K-1 1000m (kayak single),1
+1984,USA,Sprint indivual,2
+1984,USA,Team Pursuit (4000m),4
+1984,USA,Team competition,3
+1984,USA,Tornado - Multihull,2
+1984,USA,balance beam,1
+1984,USA,basketball,24
+1984,USA,board (windglider),1
+1984,USA,discus throw,3
+1984,USA,double sculls (2x),2
+1984,USA,duet,2
+1984,USA,eight with coxswain (8+),18
+1984,USA,fleet/match race keelboat open (Soling),3
+1984,USA,floor exercises,2
+1984,USA,flying dutchman,2
+1984,USA,four without coxswain (4-),4
+1984,USA,four-oared shell with coxswain (4-),5
+1984,USA,heptathlon,1
+1984,USA,high jump,1
+1984,USA,hockey,16
+1984,USA,individual,3
+1984,USA,individual FITA round,2
+1984,USA,individual all-round,2
+1984,USA,individual road race,3
+1984,USA,long jump,1
+1984,USA,marathon,1
+1984,USA,pair-oared shell with coxswain (2+),3
+1984,USA,parallel bars,2
+1984,USA,pole vault,2
+1984,USA,pommel horse,2
+1984,USA,quadruple sculls with coxswain (4x),5
+1984,USA,rings,1
+1984,USA,sabre individual,1
+1984,USA,shot put,2
+1984,USA,single sculls (1x),1
+1984,USA,single-handed dinghy (Finn),1
+1984,USA,skeet (125 targets),1
+1984,USA,solo,1
+1984,USA,team,8
+1984,USA,team competition,12
+1984,USA,team time trial,4
+1984,USA,trap (125 targets),1
+1984,USA,triple jump,2
+1984,USA,two-person keelboat open (Star),2
+1984,USA,uneven bars,2
+1984,USA,vault,2
+1984,USA,volleyball,24
+1984,USA,water polo,13
+1984,VEN,- 48kg (light-flyweight),1
+1984,VEN,200m butterfly,1
+1984,VEN,54 - 57kg (featherweight),1
+1984,YUG,+ 100kg (super heavyweight),1
+1984,YUG,+ 91kg (super heavyweight),1
+1984,YUG,48 - 51kg (flyweight),1
+1984,YUG,48 - 52kg (flyweight),1
+1984,YUG,60 - 63.5kg (light-welterweight),1
+1984,YUG,62 - 68kg (lightweight),1
+1984,YUG,68 - 74kg (welterweight),1
+1984,YUG,75 - 81kg (light-heavyweight),1
+1984,YUG,90 - 100kg (heavyweight),1
+1984,YUG,C-2 1000m (canoe double),2
+1984,YUG,C-2 500m (canoe double),2
+1984,YUG,K-1 1000m (kayak single),1
+1984,YUG,basketball,12
+1984,YUG,double sculls (2x),2
+1984,YUG,football,17
+1984,YUG,handball,29
+1984,YUG,water polo,13
+1984,ZAM,- 48kg (light-flyweight),1
+1988,AHO,board (division II),1
+1988,ARG,singles,1
+1988,ARG,volleyball,12
+1988,AUS,1km time trial,1
+1988,AUS,200m freestyle,1
+1988,AUS,400m freestyle,1
+1988,AUS,400m hurdles,1
+1988,AUS,60 - 63.5kg (light-welterweight),1
+1988,AUS,800m freestyle,1
+1988,AUS,Individual Pursuit,1
+1988,AUS,K-1 1000m (kayak single),1
+1988,AUS,K-2 1000m (kayak double),2
+1988,AUS,Sprint indivual,1
+1988,AUS,Team Pursuit (4000m),4
+1988,AUS,doubles,2
+1988,AUS,hockey,16
+1988,AUS,marathon,1
+1988,AUT,78 - 86kg (middleweight),1
+1988,BEL,86 - 95kg (half-heavyweight),1
+1988,BEL,trap (125 targets),1
+1988,BRA,200m,1
+1988,BRA,800m,1
+1988,BRA,86 - 95kg (half-heavyweight),1
+1988,BRA,Tornado - Multihull,2
+1988,BRA,football,21
+1988,BRA,two-person keelboat open (Star),2
+1988,BUL,- 48kg (light-flyweight),3
+1988,BUL,"- 52kg, total (flyweight)",1
+1988,BUL,100 - 130kg (super heavyweight),1
+1988,BUL,100m breaststroke,2
+1988,BUL,100m hurdles,1
+1988,BUL,10m air pistol (60 shots),1
+1988,BUL,200m breaststroke,1
+1988,BUL,50m rifle 3 positions (3x20 shots),1
+1988,BUL,51 - 54kg (bantamweight),1
+1988,BUL,52 - 57kg (bantamweight),1
+1988,BUL,"56 - 60kg, total (featherweight)",1
+1988,BUL,57 - 62kg (featherweight),2
+1988,BUL,"67.5 - 75kg, total (middleweight)",2
+1988,BUL,68 - 74kg (welterweight),1
+1988,BUL,82 - 90kg (light-heavyweight),1
+1988,BUL,C-1 1000m (canoe single),1
+1988,BUL,C-1 500m (canoe single),1
+1988,BUL,K-1 500m (kayak single),1
+1988,BUL,K-2 500m (kayak double),2
+1988,BUL,K-4 500m (kayak four),4
+1988,BUL,discus throw,1
+1988,BUL,double sculls (2x),2
+1988,BUL,floor exercises,1
+1988,BUL,high jump,1
+1988,BUL,individual all-round,1
+1988,BUL,pair without coxswain (2-),2
+1988,BUL,pommel horse,1
+1988,BUL,single sculls (1x),1
+1988,BUL,singles,1
+1988,BUL,triple jump,1
+1988,CAN,+ 91kg (super heavyweight),1
+1988,CAN,4x100m medley relay,8
+1988,CAN,67 - 71kg (light-middleweight),1
+1988,CAN,71-75kg,1
+1988,CAN,decathlon,1
+1988,CAN,duet,2
+1988,CAN,flying dutchman,2
+1988,CAN,solo,1
+1988,CAN,team,4
+1988,CHI,skeet (125 targets),1
+1988,CHN,"- 52kg, total (flyweight)",1
+1988,CHN,"- 56kg, total (bantamweight)",2
+1988,CHN,100m butterfly,1
+1988,CHN,100m freestyle,1
+1988,CHN,10m air pistol (60 shots),1
+1988,CHN,10m platform,2
+1988,CHN,200m breaststroke,1
+1988,CHN,3m springboard,4
+1988,CHN,50m freestyle,1
+1988,CHN,50m running target (30+30 shots),1
+1988,CHN,"56 - 60kg, total (featherweight)",1
+1988,CHN,"60 - 67.5kg, total (lightweight)",1
+1988,CHN,doubles,4
+1988,CHN,eight with coxswain (8+),9
+1988,CHN,floor exercises,1
+1988,CHN,four-oared shell with coxswain (4-),5
+1988,CHN,shot put,1
+1988,CHN,singles,3
+1988,CHN,vault,1
+1988,CHN,volleyball,12
+1988,COL,51 - 54kg (bantamweight),1
+1988,CRC,200m freestyle,1
+1988,DEN,200m butterfly,1
+1988,DEN,Points Race,1
+1988,DEN,fleet/match race keelboat open (Soling),3
+1988,DEN,flying dutchman,2
+1988,DJI,marathon,1
+1988,ESP,200m breaststroke,1
+1988,ESP,doubles,2
+1988,ESP,single-handed dinghy (Finn),1
+1988,ESP,skeet (125 targets),1
+1988,FIN,62 - 68kg (lightweight),1
+1988,FIN,82 - 90kg (light-heavyweight),1
+1988,FIN,javelin throw,2
+1988,FRA,100m freestyle,2
+1988,FRA,10m air rifle (60 shots),1
+1988,FRA,470 - Two Person Dinghy,2
+1988,FRA,4x100m relay,4
+1988,FRA,60 - 65kg (half-lightweight),1
+1988,FRA,63.5 - 67kg (welterweight),1
+1988,FRA,65 - 71kg (lightweight),1
+1988,FRA,C-2 500m (canoe double),2
+1988,FRA,Tornado - Multihull,2
+1988,FRA,individual,2
+1988,FRA,sabre individual,1
+1988,FRA,team,4
+1988,FRA,épée individual,1
+1988,FRA,épée team,5
+1988,FRG,"+ 110kg, total (super heavyweight)",2
+1988,FRG,100m hurdles,1
+1988,FRG,10m air rifle (40 shots),1
+1988,FRG,10m air rifle (60 shots),1
+1988,FRG,1500m freestyle,1
+1988,FRG,1km time trial,1
+1988,FRG,200m butterfly,1
+1988,FRG,4x200m freestyle relay,4
+1988,FRG,4x400m relay,4
+1988,FRG,5000m,1
+1988,FRG,50m rifle 3 positions (3x20 shots),1
+1988,FRG,60 - 63.5kg (light-welterweight),1
+1988,FRG,71 - 78kg (half-middleweight),1
+1988,FRG,86 - 95kg (half-heavyweight),1
+1988,FRG,90 - 100kg (heavyweight),1
+1988,FRG,"90 - 100kg, total (first-heavyweight)",1
+1988,FRG,discus throw,1
+1988,FRG,doubles,2
+1988,FRG,eight with coxswain (8+),9
+1988,FRG,foil individual,3
+1988,FRG,foil team,10
+1988,FRG,football,20
+1988,FRG,four without coxswain (4-),4
+1988,FRG,hockey,16
+1988,FRG,individual,2
+1988,FRG,individual road race,3
+1988,FRG,single sculls (1x),1
+1988,FRG,singles,1
+1988,FRG,team,12
+1988,FRG,épée individual,1
+1988,FRG,épée team,5
+1988,GBR,10000m,1
+1988,GBR,100m,1
+1988,GBR,100m breaststroke,1
+1988,GBR,100m butterfly,1
+1988,GBR,110m hurdles,1
+1988,GBR,1500m,1
+1988,GBR,200m breaststroke,1
+1988,GBR,3000m,1
+1988,GBR,3000m steeplechase,1
+1988,GBR,4x100m relay,4
+1988,GBR,50m rifle 3 positions (3x40 shots),2
+1988,GBR,67 - 71kg (light-middleweight),1
+1988,GBR,86 - 95kg (half-heavyweight),1
+1988,GBR,Team competition,3
+1988,GBR,coxless pair (2-),2
+1988,GBR,hockey,16
+1988,GBR,individual,2
+1988,GBR,javelin throw,1
+1988,GBR,pair-oared shell with coxswain (2+),3
+1988,GBR,team,4
+1988,GBR,teams FITA round,3
+1988,GBR,two-person keelboat open (Star),2
+1988,GDR,+ 95kg (heavyweight),1
+1988,GDR,"100 - 110kg, total (heavyweight)",1
+1988,GDR,100 - 130kg (super heavyweight),1
+1988,GDR,100m,1
+1988,GDR,100m backstroke,2
+1988,GDR,100m breaststroke,1
+1988,GDR,100m butterfly,2
+1988,GDR,100m freestyle,1
+1988,GDR,100m hurdles,1
+1988,GDR,1500m,1
+1988,GDR,1500m freestyle,1
+1988,GDR,200m,1
+1988,GDR,200m backstroke,3
+1988,GDR,200m breaststroke,1
+1988,GDR,200m butterfly,2
+1988,GDR,200m freestyle,2
+1988,GDR,200m individual medley,2
+1988,GDR,20km walk,1
+1988,GDR,25m rapid fire pistol (60 shots),1
+1988,GDR,400m,1
+1988,GDR,400m freestyle,3
+1988,GDR,400m hurdles,1
+1988,GDR,400m individual medley,1
+1988,GDR,48 - 51kg (flyweight),1
+1988,GDR,4x100m freestyle relay,8
+1988,GDR,4x100m medley relay,4
+1988,GDR,4x100m relay,4
+1988,GDR,4x200m freestyle relay,4
+1988,GDR,4x400m relay,4
+1988,GDR,5000m,1
+1988,GDR,50km walk,2
+1988,GDR,50m freestyle,2
+1988,GDR,57 - 60kg (lightweight),1
+1988,GDR,"60 - 67.5kg, total (lightweight)",1
+1988,GDR,65 - 71kg (lightweight),1
+1988,GDR,"67.5 - 75kg, total (middleweight)",1
+1988,GDR,71 - 78kg (half-middleweight),1
+1988,GDR,71-75kg,1
+1988,GDR,800m,2
+1988,GDR,800m freestyle,1
+1988,GDR,C-1 1000m (canoe single),1
+1988,GDR,C-1 500m (canoe single),1
+1988,GDR,C-2 1000m (canoe double),2
+1988,GDR,Individual Pursuit,1
+1988,GDR,K-1 1000m (kayak single),1
+1988,GDR,K-1 500m (kayak single),2
+1988,GDR,K-2 500m (kayak double),2
+1988,GDR,K-4 1000m (kayak four),4
+1988,GDR,K-4 500m (kayak four),4
+1988,GDR,Sprint indivual,1
+1988,GDR,Team Pursuit (4000m),4
+1988,GDR,decathlon,2
+1988,GDR,discus throw,3
+1988,GDR,double sculls (2x),2
+1988,GDR,eight with coxswain (8+),9
+1988,GDR,fleet/match race keelboat open (Soling),3
+1988,GDR,foil individual,1
+1988,GDR,four without coxswain (4-),4
+1988,GDR,four-oared shell with coxswain (4-),10
+1988,GDR,heptathlon,2
+1988,GDR,horizontal bar,1
+1988,GDR,individual road race,1
+1988,GDR,javelin throw,2
+1988,GDR,long jump,1
+1988,GDR,marathon,1
+1988,GDR,pair-oared shell with coxswain (2+),3
+1988,GDR,parallel bars,1
+1988,GDR,quadruple sculls without coxswain (4x),8
+1988,GDR,rings,2
+1988,GDR,shot put,2
+1988,GDR,single sculls (1x),2
+1988,GDR,skeet (125 targets),1
+1988,GDR,sprint,1
+1988,GDR,team competition,12
+1988,GDR,team time trial,4
+1988,GDR,uneven bars,1
+1988,GDR,vault,1
+1988,GRE,52 - 57kg (bantamweight),1
+1988,HUN,- 48kg (light-flyweight),1
+1988,HUN,"100 - 110kg, total (heavyweight)",1
+1988,HUN,100m backstroke,1
+1988,HUN,100m breaststroke,1
+1988,HUN,200m backstroke,1
+1988,HUN,200m breaststroke,1
+1988,HUN,200m individual medley,1
+1988,HUN,25m rapid fire pistol (60 shots),1
+1988,HUN,400m individual medley,1
+1988,HUN,50m rifle prone (60 shots),1
+1988,HUN,52 - 57kg (bantamweight),1
+1988,HUN,74 - 82kg (middleweight),1
+1988,HUN,"75 - 82.5kg, total (light-heavyweight)",1
+1988,HUN,Individual competition,1
+1988,HUN,K-1 500m (kayak single),1
+1988,HUN,K-2 500m (kayak double),2
+1988,HUN,K-4 1000m (kayak four),4
+1988,HUN,K-4 500m (kayak four),4
+1988,HUN,Team competition,3
+1988,HUN,foil team,10
+1988,HUN,pommel horse,1
+1988,HUN,sabre team,5
+1988,INA,teams FITA round,3
+1988,IRI,52 - 57kg (bantamweight),1
+1988,ISV,single-handed dinghy (Finn),1
+1988,ITA,- 48kg (light-flyweight),1
+1988,ITA,10000m,1
+1988,ITA,20km walk,1
+1988,ITA,400m individual medley,1
+1988,ITA,54 - 57kg (featherweight),1
+1988,ITA,Individual competition,1
+1988,ITA,Team competition,3
+1988,ITA,foil individual,1
+1988,ITA,foil team,5
+1988,ITA,marathon,1
+1988,ITA,pair-oared shell with coxswain (2+),3
+1988,ITA,quadruple sculls without coxswain (4x),4
+1988,ITA,sabre individual,1
+1988,ITA,sabre team,5
+1988,JAM,200m,1
+1988,JAM,4x400m relay,4
+1988,JPN,+ 95kg (heavyweight),1
+1988,JPN,- 48kg (light-flyweight),1
+1988,JPN,- 60 kg,1
+1988,JPN,100m backstroke,1
+1988,JPN,25m pistol (30+30 shots),1
+1988,JPN,48 - 52kg (flyweight),2
+1988,JPN,60 - 65kg (half-lightweight),1
+1988,JPN,78 - 86kg (middleweight),1
+1988,JPN,82 - 90kg (light-heavyweight),1
+1988,JPN,duet,2
+1988,JPN,floor exercises,1
+1988,JPN,solo,1
+1988,JPN,team competition,6
+1988,KEN,10000m,1
+1988,KEN,1500m,1
+1988,KEN,3000m steeplechase,2
+1988,KEN,5000m,1
+1988,KEN,63.5 - 67kg (welterweight),1
+1988,KEN,71-75kg,1
+1988,KEN,800m,1
+1988,KEN,marathon,1
+1988,KOR,+ 95kg (heavyweight),1
+1988,KOR,"- 52kg, total (flyweight)",1
+1988,KOR,- 60 kg,1
+1988,KOR,48 - 51kg (flyweight),1
+1988,KOR,48 - 52kg (flyweight),1
+1988,KOR,50m rifle prone (60 shots),1
+1988,KOR,52 - 57kg (bantamweight),1
+1988,KOR,54 - 57kg (featherweight),1
+1988,KOR,57 - 62kg (featherweight),1
+1988,KOR,60 - 65kg (half-lightweight),1
+1988,KOR,62 - 68kg (lightweight),2
+1988,KOR,67 - 71kg (light-middleweight),1
+1988,KOR,68 - 74kg (welterweight),1
+1988,KOR,74 - 82kg (middleweight),2
+1988,KOR,"75 - 82.5kg, total (light-heavyweight)",1
+1988,KOR,81 - 91kg (heavyweight),1
+1988,KOR,82 - 90kg (light-heavyweight),1
+1988,KOR,doubles,4
+1988,KOR,handball,25
+1988,KOR,hockey,16
+1988,KOR,individual FITA round,4
+1988,KOR,singles,2
+1988,KOR,teams FITA round,6
+1988,KOR,vault,1
+1988,MAR,10000m,1
+1988,MAR,54 - 57kg (featherweight),1
+1988,MAR,800m,1
+1988,MEX,10m platform,1
+1988,MEX,48 - 51kg (flyweight),1
+1988,MGL,57 - 60kg (lightweight),1
+1988,NED,4x100m freestyle relay,4
+1988,NED,78 - 86kg (middleweight),1
+1988,NED,81 - 91kg (heavyweight),1
+1988,NED,K-2 500m (kayak double),2
+1988,NED,Points Race,1
+1988,NED,double sculls (2x),2
+1988,NED,hockey,32
+1988,NED,individual road race,1
+1988,NOR,48 - 52kg (flyweight),1
+1988,NOR,50m running target (30+30 shots),1
+1988,NOR,flying dutchman,2
+1988,NOR,handball,15
+1988,NOR,quadruple sculls without coxswain (4x),4
+1988,NZL,200m backstroke,1
+1988,NZL,200m butterfly,1
+1988,NZL,K-1 500m (kayak single),1
+1988,NZL,K-2 1000m (kayak double),2
+1988,NZL,K-2 500m (kayak double),2
+1988,NZL,Tornado - Multihull,2
+1988,NZL,board (division II),1
+1988,NZL,four-oared shell with coxswain (4-),5
+1988,NZL,individual,1
+1988,NZL,pair without coxswain (2-),2
+1988,NZL,single sculls (1x),1
+1988,NZL,single-handed dinghy (Finn),1
+1988,NZL,team,4
+1988,PAK,71-75kg,1
+1988,PER,volleyball,12
+1988,PHI,- 48kg (light-flyweight),1
+1988,POL,+ 91kg (super heavyweight),1
+1988,POL,- 48kg (light-flyweight),1
+1988,POL,400m freestyle,1
+1988,POL,60 - 65kg (half-lightweight),1
+1988,POL,63.5 - 67kg (welterweight),1
+1988,POL,68 - 74kg (welterweight),1
+1988,POL,71 - 78kg (half-middleweight),1
+1988,POL,75 - 81kg (light-heavyweight),1
+1988,POL,81 - 91kg (heavyweight),1
+1988,POL,"82.5 - 90kg, total (middle-heavyweight)",1
+1988,POL,90 - 100kg (heavyweight),1
+1988,POL,C-2 1000m (canoe double),2
+1988,POL,C-2 500m (canoe double),2
+1988,POL,K-1 500m (kayak single),1
+1988,POL,sabre individual,1
+1988,POL,team time trial,4
+1988,POR,marathon,1
+1988,ROU,1500m,1
+1988,ROU,200m individual medley,1
+1988,ROU,3000m,1
+1988,ROU,400m individual medley,1
+1988,ROU,50m pistol (60 shots),1
+1988,ROU,54 - 57kg (featherweight),1
+1988,ROU,90 - 100kg (heavyweight),1
+1988,ROU,"90 - 100kg, total (first-heavyweight)",1
+1988,ROU,balance beam,2
+1988,ROU,coxless pair (2-),2
+1988,ROU,double sculls (2x),2
+1988,ROU,eight with coxswain (8+),9
+1988,ROU,floor exercises,1
+1988,ROU,four-oared shell with coxswain (4-),10
+1988,ROU,horizontal bar,1
+1988,ROU,individual all-round,1
+1988,ROU,pair without coxswain (2-),2
+1988,ROU,quadruple sculls without coxswain (4x),4
+1988,ROU,team competition,6
+1988,ROU,uneven bars,1
+1988,ROU,vault,2
+1988,SEN,400m hurdles,1
+1988,SUI,double sculls (2x),2
+1988,SUI,individual,1
+1988,SUI,shot put,1
+1988,SUI,team,4
+1988,SUR,100m butterfly,1
+1988,SWE,100 - 130kg (super heavyweight),1
+1988,SWE,200m freestyle,1
+1988,SWE,470 - Two Person Dinghy,2
+1988,SWE,50m pistol (60 shots),1
+1988,SWE,57 - 60kg (lightweight),1
+1988,SWE,60 - 63.5kg (light-welterweight),1
+1988,SWE,doubles,2
+1988,SWE,high jump,1
+1988,SWE,singles,2
+1988,SWE,team time trial,4
+1988,TCH,20km walk,1
+1988,TCH,50m rifle prone (60 shots),1
+1988,TCH,74 - 82kg (middleweight),1
+1988,TCH,doubles,4
+1988,TCH,javelin throw,1
+1988,TCH,singles,1
+1988,TCH,trap (125 targets),1
+1988,THA,51 - 54kg (bantamweight),1
+1988,TUR,"56 - 60kg, total (featherweight)",1
+1988,TUR,74 - 82kg (middleweight),1
+1988,URS,"+ 110kg, total (super heavyweight)",1
+1988,URS,+ 91kg (super heavyweight),1
+1988,URS,+ 95kg (heavyweight),1
+1988,URS,- 48kg (light-flyweight),1
+1988,URS,"- 56kg, total (bantamweight)",1
+1988,URS,- 60 kg,1
+1988,URS,"100 - 110kg, total (heavyweight)",1
+1988,URS,100 - 130kg (super heavyweight),2
+1988,URS,10000m,2
+1988,URS,100m backstroke,1
+1988,URS,100m breaststroke,1
+1988,URS,10m air pistol (40 shots),2
+1988,URS,10m air rifle (40 shots),2
+1988,URS,1500m,2
+1988,URS,1500m freestyle,1
+1988,URS,1km time trial,1
+1988,URS,200m backstroke,1
+1988,URS,200m individual medley,2
+1988,URS,25m pistol (30+30 shots),1
+1988,URS,25m rapid fire pistol (60 shots),1
+1988,URS,3000m,1
+1988,URS,400m,2
+1988,URS,400m hurdles,1
+1988,URS,470 - Two Person Dinghy,4
+1988,URS,48 - 51kg (flyweight),1
+1988,URS,48 - 52kg (flyweight),1
+1988,URS,4x100m freestyle relay,4
+1988,URS,4x100m medley relay,4
+1988,URS,4x100m relay,8
+1988,URS,4x400m relay,4
+1988,URS,50km walk,1
+1988,URS,50m freestyle,1
+1988,URS,50m pistol (60 shots),1
+1988,URS,50m rifle 3 positions (3x20 shots),1
+1988,URS,50m rifle 3 positions (3x40 shots),1
+1988,URS,50m running target (30+30 shots),1
+1988,URS,52 - 57kg (bantamweight),1
+1988,URS,57 - 62kg (featherweight),2
+1988,URS,60 - 63.5kg (light-welterweight),1
+1988,URS,"60 - 67.5kg, total (lightweight)",1
+1988,URS,62 - 68kg (lightweight),2
+1988,URS,65 - 71kg (lightweight),1
+1988,URS,68 - 74kg (welterweight),2
+1988,URS,71 - 78kg (half-middleweight),1
+1988,URS,74 - 82kg (middleweight),1
+1988,URS,75 - 81kg (light-heavyweight),1
+1988,URS,"75 - 82.5kg, total (light-heavyweight)",1
+1988,URS,78 - 86kg (middleweight),1
+1988,URS,82 - 90kg (light-heavyweight),2
+1988,URS,"82.5 - 90kg, total (middle-heavyweight)",2
+1988,URS,90 - 100kg (heavyweight),1
+1988,URS,"90 - 100kg, total (first-heavyweight)",1
+1988,URS,C-1 1000m (canoe single),1
+1988,URS,C-1 500m (canoe single),1
+1988,URS,C-2 1000m (canoe double),2
+1988,URS,C-2 500m (canoe double),2
+1988,URS,Individual Pursuit,1
+1988,URS,Individual competition,1
+1988,URS,K-2 500m (kayak double),2
+1988,URS,K-4 1000m (kayak four),4
+1988,URS,Points Race,1
+1988,URS,Sprint indivual,1
+1988,URS,Team Pursuit (4000m),4
+1988,URS,balance beam,1
+1988,URS,basketball,24
+1988,URS,discus throw,1
+1988,URS,double sculls (2x),2
+1988,URS,eight with coxswain (8+),9
+1988,URS,floor exercises,3
+1988,URS,foil individual,1
+1988,URS,foil team,5
+1988,URS,football,20
+1988,URS,hammer throw,3
+1988,URS,handball,29
+1988,URS,high jump,3
+1988,URS,horizontal bar,2
+1988,URS,individual FITA round,1
+1988,URS,individual all-round,7
+1988,URS,individual road race,1
+1988,URS,long jump,1
+1988,URS,parallel bars,2
+1988,URS,pole vault,3
+1988,URS,pommel horse,1
+1988,URS,quadruple sculls without coxswain (4x),4
+1988,URS,rings,1
+1988,URS,sabre team,5
+1988,URS,shot put,1
+1988,URS,sprint,1
+1988,URS,team competition,12
+1988,URS,trap (125 targets),1
+1988,URS,triple jump,2
+1988,URS,uneven bars,1
+1988,URS,vault,1
+1988,URS,volleyball,24
+1988,URS,water polo,13
+1988,URS,épée individual,1
+1988,URS,épée team,5
+1988,USA,+ 91kg (super heavyweight),1
+1988,USA,- 48kg (light-flyweight),1
+1988,USA,- 60 kg,1
+1988,USA,100 - 130kg (super heavyweight),1
+1988,USA,100m,4
+1988,USA,100m backstroke,1
+1988,USA,100m butterfly,1
+1988,USA,100m freestyle,2
+1988,USA,10m air pistol (60 shots),1
+1988,USA,10m platform,3
+1988,USA,110m hurdles,2
+1988,USA,200m,3
+1988,USA,200m butterfly,1
+1988,USA,200m freestyle,1
+1988,USA,3m springboard,2
+1988,USA,400m,3
+1988,USA,400m freestyle,1
+1988,USA,400m hurdles,2
+1988,USA,400m individual medley,2
+1988,USA,470 - Two Person Dinghy,4
+1988,USA,4x100m freestyle relay,8
+1988,USA,4x100m medley relay,11
+1988,USA,4x100m relay,4
+1988,USA,4x200m freestyle relay,4
+1988,USA,4x400m relay,8
+1988,USA,50m freestyle,3
+1988,USA,51 - 54kg (bantamweight),1
+1988,USA,57 - 60kg (lightweight),1
+1988,USA,57 - 62kg (featherweight),1
+1988,USA,62 - 68kg (lightweight),1
+1988,USA,63.5 - 67kg (welterweight),1
+1988,USA,65 - 71kg (lightweight),1
+1988,USA,67 - 71kg (light-middleweight),1
+1988,USA,68 - 74kg (welterweight),1
+1988,USA,75 - 81kg (light-heavyweight),1
+1988,USA,800m,1
+1988,USA,800m freestyle,1
+1988,USA,81 - 91kg (heavyweight),1
+1988,USA,90 - 100kg (heavyweight),2
+1988,USA,K-1 1000m (kayak single),1
+1988,USA,K-2 1000m (kayak double),2
+1988,USA,balance beam,1
+1988,USA,basketball,24
+1988,USA,board (division II),1
+1988,USA,doubles,4
+1988,USA,duet,2
+1988,USA,eight with coxswain (8+),9
+1988,USA,fleet/match race keelboat open (Soling),3
+1988,USA,four without coxswain (4-),4
+1988,USA,heptathlon,1
+1988,USA,high jump,2
+1988,USA,individual,1
+1988,USA,individual FITA round,1
+1988,USA,long jump,4
+1988,USA,shot put,1
+1988,USA,single sculls (1x),1
+1988,USA,singles,3
+1988,USA,solo,1
+1988,USA,sprint,1
+1988,USA,team,4
+1988,USA,teams FITA round,6
+1988,USA,two-person keelboat open (Star),2
+1988,USA,volleyball,12
+1988,USA,water polo,13
+1988,YUG,10m air pistol (40 shots),1
+1988,YUG,10m air rifle (60 shots),1
+1988,YUG,25m pistol (30+30 shots),1
+1988,YUG,48 - 52kg (flyweight),1
+1988,YUG,75 - 81kg (light-heavyweight),1
+1988,YUG,basketball,24
+1988,YUG,coxless pair (2-),2
+1988,YUG,doubles,4
+1988,YUG,handball,15
+1988,YUG,water polo,13
+1992,ALG,1500m,1
+1992,ALG,54 - 57kg (featherweight),1
+1992,ARG,doubles,2
+1992,AUS,100m breaststroke,2
+1992,AUS,1500m freestyle,2
+1992,AUS,1km time trial,1
+1992,AUS,200m backstroke,1
+1992,AUS,200m butterfly,1
+1992,AUS,400m freestyle,2
+1992,AUS,800m freestyle,1
+1992,AUS,K-1 (kayak single),1
+1992,AUS,K-1 1000m (kayak single),1
+1992,AUS,K-4 1000m (kayak four),4
+1992,AUS,Sprint indivual,1
+1992,AUS,Team Pursuit (4000m),4
+1992,AUS,Tornado - Multihull,2
+1992,AUS,board (lechner),1
+1992,AUS,discus throw,1
+1992,AUS,double sculls (2x),2
+1992,AUS,doubles,2
+1992,AUS,four without coxswain (4-),4
+1992,AUS,high jump,1
+1992,AUS,hockey,16
+1992,AUS,individual,1
+1992,AUS,individual pursuit,1
+1992,AUS,individual road race,1
+1992,AUS,team,4
+1992,AUT,double sculls (2x),2
+1992,AUT,team,4
+1992,BAH,triple jump,1
+1992,BEL,61 - 66kg (middleweight),1
+1992,BEL,Points Race,1
+1992,BEL,single sculls (1x),1
+1992,BRA,100m freestyle,1
+1992,BRA,60 - 65kg (half-lightweight),1
+1992,BRA,volleyball,12
+1992,BUL,+ 91kg (super heavyweight),1
+1992,BUL,- 48kg (light-flyweight),1
+1992,BUL,"- 52kg, total (flyweight)",1
+1992,BUL,"100 - 110kg, total (heavyweight)",1
+1992,BUL,100m hurdles,1
+1992,BUL,10m air pistol (40 shots),1
+1992,BUL,10m air rifle (40 shots),1
+1992,BUL,48 - 52kg (flyweight),1
+1992,BUL,50m rifle 3 positions (3x20 shots),1
+1992,BUL,"56 - 60kg, total (featherweight)",1
+1992,BUL,"60 - 67.5kg, total (lightweight)",1
+1992,BUL,62 - 68kg (lightweight),1
+1992,BUL,C-1 1000m (canoe single),1
+1992,BUL,C-1 500m (canoe single),1
+1992,BUL,C-2 500m (canoe double),2
+1992,BUL,discus throw,1
+1992,CAN,100 - 130kg (super heavyweight),1
+1992,CAN,100m backstroke,1
+1992,CAN,110m hurdles,1
+1992,CAN,20km walk,1
+1992,CAN,3000m,1
+1992,CAN,4x100m medley relay,5
+1992,CAN,60 - 63.5kg (light-welterweight),1
+1992,CAN,71-75kg,1
+1992,CAN,78 - 86kg (middleweight),1
+1992,CAN,Sprint indivual,1
+1992,CAN,coxless four (4-),4
+1992,CAN,duet,2
+1992,CAN,eight with coxswain (8+),18
+1992,CAN,pair without coxswain (2-),2
+1992,CAN,single sculls (1x),1
+1992,CAN,solo,1
+1992,CAN,two-person keelboat open (Star),2
+1992,CHN,+ 72kg (heavyweight),1
+1992,CHN,"- 52kg, total (flyweight)",1
+1992,CHN,"- 56kg, total (bantamweight)",2
+1992,CHN,10000m walk,2
+1992,CHN,100m butterfly,1
+1992,CHN,100m freestyle,1
+1992,CHN,10m air pistol (60 shots),1
+1992,CHN,10m platform,3
+1992,CHN,1500m,1
+1992,CHN,200m breaststroke,1
+1992,CHN,200m butterfly,1
+1992,CHN,200m individual medley,1
+1992,CHN,25m pistol (30+30 shots),1
+1992,CHN,3m springboard,2
+1992,CHN,400m individual medley,1
+1992,CHN,48 - 52kg (half-lightweight),1
+1992,CHN,4x100m freestyle relay,5
+1992,CHN,50m freestyle,2
+1992,CHN,50m pistol (60 shots),1
+1992,CHN,52 - 57kg (bantamweight),1
+1992,CHN,"56 - 60kg, total (featherweight)",1
+1992,CHN,56 - 61kg (half-middleweight),1
+1992,CHN,balance beam,1
+1992,CHN,basketball,12
+1992,CHN,board (lechner),1
+1992,CHN,double sculls (2x),2
+1992,CHN,doubles,12
+1992,CHN,floor exercises,1
+1992,CHN,foil individual,1
+1992,CHN,parallel bars,2
+1992,CHN,rings,2
+1992,CHN,shot put,1
+1992,CHN,singles,5
+1992,CHN,skeet (125 targets),1
+1992,CHN,team (FITA Olympic round - 70m),3
+1992,CHN,team competition,6
+1992,CHN,uneven bars,1
+1992,COL,400m,1
+1992,CRO,basketball,12
+1992,CRO,doubles,2
+1992,CRO,singles,1
+1992,CUB,+ 72kg (heavyweight),1
+1992,CUB,+ 91kg (super heavyweight),1
+1992,CUB,- 48kg (extra-lightweight),1
+1992,CUB,- 48kg (light-flyweight),2
+1992,CUB,48 - 51kg (flyweight),1
+1992,CUB,4x100m relay,4
+1992,CUB,4x400m relay,4
+1992,CUB,51 - 54kg (bantamweight),1
+1992,CUB,52 - 56kg (lightweight),1
+1992,CUB,52 - 57kg (bantamweight),1
+1992,CUB,57 - 62kg (featherweight),2
+1992,CUB,60 - 63.5kg (light-welterweight),1
+1992,CUB,60 - 65kg (half-lightweight),1
+1992,CUB,61 - 66kg (middleweight),1
+1992,CUB,63.5 - 67kg (welterweight),1
+1992,CUB,67 - 71kg (light-middleweight),1
+1992,CUB,"67.5 - 75kg, total (middleweight)",1
+1992,CUB,71-75kg,1
+1992,CUB,800m,1
+1992,CUB,81 - 91kg (heavyweight),1
+1992,CUB,90 - 100kg (heavyweight),1
+1992,CUB,baseball,20
+1992,CUB,discus throw,2
+1992,CUB,foil individual,1
+1992,CUB,foil team,5
+1992,CUB,high jump,2
+1992,CUB,volleyball,12
+1992,DEN,+ 91kg (super heavyweight),1
+1992,DEN,C-2 1000m (canoe double),2
+1992,DEN,Team Pursuit (4000m),5
+1992,DEN,fleet/match race keelboat open (Soling),3
+1992,DEN,flying dutchman,2
+1992,DEN,singles,1
+1992,ESP,1500m,1
+1992,ESP,1km time trial,1
+1992,ESP,200m backstroke,1
+1992,ESP,20km walk,1
+1992,ESP,470 - Two Person Dinghy,4
+1992,ESP,48 - 52kg (half-lightweight),1
+1992,ESP,52 - 56kg (lightweight),1
+1992,ESP,54 - 57kg (featherweight),1
+1992,ESP,decathlon,1
+1992,ESP,doubles,2
+1992,ESP,flying dutchman,2
+1992,ESP,football,12
+1992,ESP,hockey,16
+1992,ESP,individual all-round,1
+1992,ESP,pole vault,1
+1992,ESP,single-handed dinghy (Europe),1
+1992,ESP,single-handed dinghy (Finn),1
+1992,ESP,singles,2
+1992,ESP,team (FITA Olympic round - 70m),3
+1992,ESP,water polo,13
+1992,EST,470 - Two Person Dinghy,2
+1992,EST,sprint,1
+1992,ETH,10000m,2
+1992,ETH,5000m,1
+1992,EUN,"+ 110kg, total (super heavyweight)",2
+1992,EUN,+ 95kg (heavyweight),1
+1992,EUN,- 48kg (light-flyweight),2
+1992,EUN,- 60 kg,1
+1992,EUN,"100 - 110kg, total (heavyweight)",1
+1992,EUN,100 - 130kg (super heavyweight),2
+1992,EUN,10000m walk,1
+1992,EUN,100m,1
+1992,EUN,100m breaststroke,1
+1992,EUN,100m freestyle,1
+1992,EUN,10m air pistol (40 shots),1
+1992,EUN,10m air pistol (60 shots),1
+1992,EUN,10m air rifle (60 shots),1
+1992,EUN,10m platform,1
+1992,EUN,1500m,1
+1992,EUN,200m backstroke,1
+1992,EUN,200m freestyle,1
+1992,EUN,25m pistol (30+30 shots),1
+1992,EUN,25m rapid fire pistol (60 shots),1
+1992,EUN,3000m,2
+1992,EUN,3m springboard,2
+1992,EUN,400m,1
+1992,EUN,400m freestyle,1
+1992,EUN,48 - 52kg (flyweight),1
+1992,EUN,4x100m freestyle relay,6
+1992,EUN,4x100m medley relay,12
+1992,EUN,4x100m relay,4
+1992,EUN,4x200m freestyle relay,6
+1992,EUN,4x400m relay,6
+1992,EUN,50km walk,1
+1992,EUN,50m freestyle,1
+1992,EUN,50m pistol (60 shots),1
+1992,EUN,50m rifle 3 positions (3x40 shots),1
+1992,EUN,50m running target (30+30 shots),1
+1992,EUN,52 - 57kg (bantamweight),1
+1992,EUN,54 - 57kg (featherweight),1
+1992,EUN,56 - 61kg (half-middleweight),1
+1992,EUN,57 - 62kg (featherweight),1
+1992,EUN,"60 - 67.5kg, total (lightweight)",1
+1992,EUN,62 - 68kg (lightweight),2
+1992,EUN,"67.5 - 75kg, total (middleweight)",1
+1992,EUN,68 - 74kg (welterweight),1
+1992,EUN,74 - 82kg (middleweight),2
+1992,EUN,75 - 81kg (light-heavyweight),1
+1992,EUN,800m,1
+1992,EUN,82 - 90kg (light-heavyweight),2
+1992,EUN,"82.5 - 90kg, total (middle-heavyweight)",2
+1992,EUN,86 - 95kg (half-heavyweight),1
+1992,EUN,90 - 100kg (heavyweight),2
+1992,EUN,"90 - 100kg, total (first-heavyweight)",2
+1992,EUN,C-1 500m (canoe single),1
+1992,EUN,C-2 500m (canoe double),2
+1992,EUN,Individual competition,1
+1992,EUN,Team competition,3
+1992,EUN,balance beam,1
+1992,EUN,basketball,12
+1992,EUN,doubles,2
+1992,EUN,floor exercises,2
+1992,EUN,foil individual,2
+1992,EUN,hammer throw,3
+1992,EUN,handball,25
+1992,EUN,heptathlon,1
+1992,EUN,horizontal bar,1
+1992,EUN,individual (FITA Olympic round - 70m),1
+1992,EUN,individual all-round,6
+1992,EUN,javelin throw,1
+1992,EUN,long jump,1
+1992,EUN,marathon,1
+1992,EUN,parallel bars,2
+1992,EUN,pole vault,2
+1992,EUN,pommel horse,1
+1992,EUN,quadruple sculls without coxswain (4x),4
+1992,EUN,rings,1
+1992,EUN,sabre team,5
+1992,EUN,shot put,2
+1992,EUN,singles,1
+1992,EUN,team (FITA Olympic round - 70m),3
+1992,EUN,team competition,12
+1992,EUN,uneven bars,1
+1992,EUN,vault,3
+1992,EUN,volleyball,12
+1992,EUN,water polo,12
+1992,EUN,épée individual,1
+1992,EUN,épée team,5
+1992,FIN,200m freestyle,1
+1992,FIN,60 - 63.5kg (light-welterweight),1
+1992,FIN,K-1 500m (kayak single),1
+1992,FIN,javelin throw,1
+1992,FIN,team (FITA Olympic round - 70m),3
+1992,FRA,+ 72kg (heavyweight),1
+1992,FRA,+ 95kg (heavyweight),1
+1992,FRA,- 48kg (extra-lightweight),1
+1992,FRA,100m butterfly,1
+1992,FRA,100m freestyle,1
+1992,FRA,10m air rifle (60 shots),1
+1992,FRA,200m butterfly,1
+1992,FRA,400m,1
+1992,FRA,56 - 61kg (half-middleweight),1
+1992,FRA,66 - 72kg (half-heavyweight),1
+1992,FRA,71 - 78kg (half-middleweight),1
+1992,FRA,78 - 86kg (middleweight),1
+1992,FRA,C-1 (canoe single),1
+1992,FRA,C-2 (canoe double),2
+1992,FRA,C-2 1000m (canoe double),2
+1992,FRA,K-1 (kayak single),1
+1992,FRA,Tornado - Multihull,2
+1992,FRA,board (lechner),1
+1992,FRA,foil individual,1
+1992,FRA,handball,16
+1992,FRA,individual (FITA Olympic round - 70m),1
+1992,FRA,individual road race,1
+1992,FRA,sabre individual,1
+1992,FRA,sabre team,5
+1992,FRA,singles,1
+1992,FRA,team,4
+1992,FRA,team time trial,4
+1992,FRA,épée individual,2
+1992,GBR,100m,1
+1992,GBR,200m breaststroke,1
+1992,GBR,400m hurdles,2
+1992,GBR,48 - 52kg (half-lightweight),1
+1992,GBR,4x400m relay,10
+1992,GBR,52 - 56kg (lightweight),1
+1992,GBR,61 - 66kg (middleweight),1
+1992,GBR,67 - 71kg (light-middleweight),1
+1992,GBR,86 - 95kg (half-heavyweight),1
+1992,GBR,C-1 (canoe single),1
+1992,GBR,Individual Pursuit,1
+1992,GBR,coxless pair (2-),2
+1992,GBR,fleet/match race keelboat open (Soling),3
+1992,GBR,hockey,16
+1992,GBR,individual (FITA Olympic round - 70m),1
+1992,GBR,javelin throw,1
+1992,GBR,pair-oared shell with coxswain (2+),3
+1992,GBR,team (FITA Olympic round - 70m),3
+1992,GER,"+ 110kg, total (super heavyweight)",1
+1992,GER,- 48kg (light-flyweight),1
+1992,GER,- 60 kg,1
+1992,GER,"100 - 110kg, total (heavyweight)",1
+1992,GER,100m freestyle,1
+1992,GER,10m air rifle (60 shots),1
+1992,GER,1500m freestyle,1
+1992,GER,200m backstroke,1
+1992,GER,200m freestyle,2
+1992,GER,200m individual medley,1
+1992,GER,25m rapid fire pistol (60 shots),1
+1992,GER,3m springboard,1
+1992,GER,400m freestyle,1
+1992,GER,4x100m freestyle relay,12
+1992,GER,4x100m medley relay,7
+1992,GER,5000m,1
+1992,GER,50km walk,1
+1992,GER,50m running target (30+30 shots),1
+1992,GER,52 - 57kg (bantamweight),1
+1992,GER,54 - 57kg (featherweight),1
+1992,GER,57 - 60kg (lightweight),1
+1992,GER,60 - 65kg (half-lightweight),1
+1992,GER,"60 - 67.5kg, total (lightweight)",1
+1992,GER,75 - 81kg (light-heavyweight),1
+1992,GER,800m freestyle,1
+1992,GER,82 - 90kg (light-heavyweight),1
+1992,GER,90 - 100kg (heavyweight),1
+1992,GER,C-1 500m (canoe single),1
+1992,GER,C-2 1000m (canoe double),2
+1992,GER,C-2 500m (canoe double),2
+1992,GER,Individual Pursuit,1
+1992,GER,K-1 (kayak single),2
+1992,GER,K-1 500m (kayak single),1
+1992,GER,K-2 1000m (kayak double),2
+1992,GER,K-2 500m (kayak double),4
+1992,GER,K-4 1000m (kayak four),4
+1992,GER,K-4 500m (kayak four),4
+1992,GER,Sprint indivual,1
+1992,GER,Team Pursuit (4000m),5
+1992,GER,coxless four (4-),4
+1992,GER,coxless pair (2-),2
+1992,GER,discus throw,1
+1992,GER,double sculls (2x),2
+1992,GER,doubles,4
+1992,GER,eight with coxswain (8+),18
+1992,GER,foil team,10
+1992,GER,four-oared shell with coxswain (4-),5
+1992,GER,heptathlon,1
+1992,GER,high jump,1
+1992,GER,hockey,32
+1992,GER,horizontal bar,1
+1992,GER,individual,5
+1992,GER,individual pursuit,1
+1992,GER,javelin throw,2
+1992,GER,long jump,1
+1992,GER,marathon,1
+1992,GER,pair without coxswain (2-),2
+1992,GER,pommel horse,1
+1992,GER,quadruple sculls without coxswain (4x),8
+1992,GER,rings,1
+1992,GER,shot put,1
+1992,GER,single sculls (1x),1
+1992,GER,singles,1
+1992,GER,sprint,1
+1992,GER,team,8
+1992,GER,team time trial,4
+1992,GER,épée team,5
+1992,GHA,football,13
+1992,GRE,100m hurdles,1
+1992,GRE,"75 - 82.5kg, total (light-heavyweight)",1
+1992,HUN,+ 95kg (heavyweight),1
+1992,HUN,100m backstroke,2
+1992,HUN,100m breaststroke,1
+1992,HUN,200m backstroke,1
+1992,HUN,200m breaststroke,1
+1992,HUN,200m individual medley,2
+1992,HUN,400m individual medley,2
+1992,HUN,48 - 51kg (flyweight),1
+1992,HUN,60 - 65kg (half-lightweight),1
+1992,HUN,62 - 68kg (lightweight),1
+1992,HUN,65 - 71kg (lightweight),1
+1992,HUN,67 - 71kg (light-middleweight),1
+1992,HUN,74 - 82kg (middleweight),1
+1992,HUN,75 - 81kg (light-heavyweight),1
+1992,HUN,86 - 95kg (half-heavyweight),1
+1992,HUN,C-1 1000m (canoe single),1
+1992,HUN,Individual competition,1
+1992,HUN,K-1 500m (kayak single),2
+1992,HUN,K-2 500m (kayak double),2
+1992,HUN,K-4 1000m (kayak four),4
+1992,HUN,K-4 500m (kayak four),4
+1992,HUN,floor exercises,1
+1992,HUN,sabre individual,1
+1992,HUN,sabre team,5
+1992,HUN,vault,1
+1992,HUN,épée team,5
+1992,INA,doubles,2
+1992,INA,singles,4
+1992,IOP,10m air pistol (40 shots),1
+1992,IOP,10m air rifle (40 shots),1
+1992,IOP,50m rifle prone (60 shots),1
+1992,IRI,57 - 62kg (featherweight),1
+1992,IRI,68 - 74kg (welterweight),1
+1992,IRI,74 - 82kg (middleweight),1
+1992,IRL,51 - 54kg (bantamweight),1
+1992,IRL,63.5 - 67kg (welterweight),1
+1992,ISR,56 - 61kg (half-middleweight),1
+1992,ISR,65 - 71kg (lightweight),1
+1992,ITA,- 48kg (light-flyweight),1
+1992,ITA,200m backstroke,1
+1992,ITA,20km walk,1
+1992,ITA,400m individual medley,1
+1992,ITA,61 - 66kg (middleweight),1
+1992,ITA,K-1 (kayak single),1
+1992,ITA,K-2 500m (kayak double),2
+1992,ITA,Points Race,1
+1992,ITA,Team competition,3
+1992,ITA,foil individual,1
+1992,ITA,foil team,5
+1992,ITA,individual road race,1
+1992,ITA,pair-oared shell with coxswain (2+),3
+1992,ITA,quadruple sculls without coxswain (4x),4
+1992,ITA,sabre individual,1
+1992,ITA,skeet (125 targets),1
+1992,ITA,team time trial,4
+1992,ITA,trap (125 targets),1
+1992,ITA,water polo,13
+1992,JAM,100m,1
+1992,JAM,200m,2
+1992,JAM,400m hurdles,1
+1992,JPN,+ 72kg (heavyweight),1
+1992,JPN,+ 95kg (heavyweight),1
+1992,JPN,- 48kg (extra-lightweight),1
+1992,JPN,- 60 kg,1
+1992,JPN,200m breaststroke,1
+1992,JPN,48 - 52kg (half-lightweight),1
+1992,JPN,50m rifle 3 positions (3x40 shots),1
+1992,JPN,52 - 56kg (lightweight),1
+1992,JPN,62 - 68kg (lightweight),1
+1992,JPN,65 - 71kg (lightweight),1
+1992,JPN,66 - 72kg (half-heavyweight),1
+1992,JPN,71 - 78kg (half-middleweight),1
+1992,JPN,78 - 86kg (middleweight),1
+1992,JPN,baseball,20
+1992,JPN,duet,2
+1992,JPN,floor exercises,1
+1992,JPN,marathon,2
+1992,JPN,parallel bars,1
+1992,JPN,solo,1
+1992,JPN,team competition,6
+1992,JPN,trap (125 targets),1
+1992,KEN,10000m,1
+1992,KEN,3000m steeplechase,3
+1992,KEN,400m,1
+1992,KEN,5000m,1
+1992,KEN,800m,2
+1992,KOR,- 48kg (light-flyweight),1
+1992,KOR,"- 56kg, total (bantamweight)",1
+1992,KOR,- 60 kg,1
+1992,KOR,10m air rifle (40 shots),1
+1992,KOR,48 - 52kg (flyweight),1
+1992,KOR,50m rifle prone (60 shots),1
+1992,KOR,52 - 57kg (bantamweight),1
+1992,KOR,57 - 60kg (lightweight),1
+1992,KOR,65 - 71kg (lightweight),1
+1992,KOR,66 - 72kg (half-heavyweight),1
+1992,KOR,68 - 74kg (welterweight),1
+1992,KOR,71 - 78kg (half-middleweight),1
+1992,KOR,71-75kg,1
+1992,KOR,doubles,12
+1992,KOR,handball,13
+1992,KOR,individual (FITA Olympic round - 70m),3
+1992,KOR,marathon,1
+1992,KOR,singles,3
+1992,KOR,team (FITA Olympic round - 70m),3
+1992,KOR,vault,1
+1992,LAT,25m rapid fire pistol (60 shots),1
+1992,LAT,C-1 1000m (canoe single),1
+1992,LAT,individual road race,1
+1992,LTU,basketball,12
+1992,LTU,discus throw,1
+1992,MAR,10000m,1
+1992,MAR,1500m,1
+1992,MAR,51 - 54kg (bantamweight),1
+1992,MAS,doubles,2
+1992,MEX,50km walk,1
+1992,MGL,25m pistol (30+30 shots),1
+1992,MGL,57 - 60kg (lightweight),1
+1992,NAM,100m,1
+1992,NAM,200m,1
+1992,NED,66 - 72kg (half-heavyweight),1
+1992,NED,67 - 71kg (light-middleweight),1
+1992,NED,800m,1
+1992,NED,81 - 91kg (heavyweight),1
+1992,NED,86 - 95kg (half-heavyweight),1
+1992,NED,Points Race,1
+1992,NED,board (lechner),1
+1992,NED,double sculls (2x),2
+1992,NED,individual,1
+1992,NED,individual road race,2
+1992,NED,sprint,1
+1992,NED,team,8
+1992,NED,volleyball,12
+1992,NGR,+ 91kg (super heavyweight),1
+1992,NGR,4x100m relay,9
+1992,NGR,81 - 91kg (heavyweight),1
+1992,NOR,48 - 52kg (flyweight),1
+1992,NOR,50m rifle prone (60 shots),1
+1992,NOR,K-1 1000m (kayak single),1
+1992,NOR,K-1 500m (kayak single),1
+1992,NOR,handball,14
+1992,NOR,quadruple sculls without coxswain (4x),4
+1992,NOR,single-handed dinghy (Europe),1
+1992,NZL,200m butterfly,1
+1992,NZL,470 - Two Person Dinghy,2
+1992,NZL,81 - 91kg (heavyweight),1
+1992,NZL,Individual Pursuit,1
+1992,NZL,board (lechner),1
+1992,NZL,individual,1
+1992,NZL,marathon,1
+1992,NZL,single-handed dinghy (Finn),1
+1992,NZL,team,4
+1992,NZL,two-person keelboat open (Star),2
+1992,PAK,hockey,16
+1992,PER,skeet (125 targets),1
+1992,PHI,- 48kg (light-flyweight),1
+1992,POL,100m butterfly,1
+1992,POL,50m rifle 3 positions (3x20 shots),1
+1992,POL,68 - 74kg (welterweight),1
+1992,POL,74 - 82kg (middleweight),1
+1992,POL,75 - 81kg (light-heavyweight),1
+1992,POL,"75 - 82.5kg, total (light-heavyweight)",1
+1992,POL,78 - 86kg (middleweight),1
+1992,POL,"82.5 - 90kg, total (middle-heavyweight)",1
+1992,POL,"90 - 100kg, total (first-heavyweight)",1
+1992,POL,Individual competition,1
+1992,POL,K-1 500m (kayak single),1
+1992,POL,K-2 1000m (kayak double),2
+1992,POL,K-2 500m (kayak double),2
+1992,POL,Team competition,3
+1992,POL,foil team,5
+1992,POL,football,12
+1992,POL,four-oared shell with coxswain (4-),5
+1992,POL,high jump,1
+1992,POL,single sculls (1x),1
+1992,PRK,- 48kg (light-flyweight),1
+1992,PRK,48 - 51kg (flyweight),1
+1992,PRK,48 - 52kg (flyweight),1
+1992,PRK,51 - 54kg (bantamweight),1
+1992,PRK,52 - 57kg (bantamweight),1
+1992,PRK,"67.5 - 75kg, total (middleweight)",1
+1992,PRK,doubles,2
+1992,PRK,pommel horse,1
+1992,PRK,singles,1
+1992,PUR,63.5 - 67kg (welterweight),1
+1992,QAT,1500m,1
+1992,ROU,"- 52kg, total (flyweight)",1
+1992,ROU,100 - 130kg (super heavyweight),1
+1992,ROU,10m air pistol (60 shots),1
+1992,ROU,60 - 63.5kg (light-welterweight),1
+1992,ROU,double sculls (2x),2
+1992,ROU,eight with coxswain (8+),18
+1992,ROU,floor exercises,2
+1992,ROU,foil team,5
+1992,ROU,four-oared shell with coxswain (4-),5
+1992,ROU,high jump,1
+1992,ROU,individual all-round,1
+1992,ROU,pair-oared shell with coxswain (2+),3
+1992,ROU,quadruple sculls without coxswain (4x),4
+1992,ROU,single sculls (1x),1
+1992,ROU,team competition,6
+1992,ROU,vault,1
+1992,RSA,10000m,1
+1992,RSA,doubles,2
+1992,SLO,coxless pair (2-),2
+1992,SLO,four without coxswain (4-),4
+1992,SUI,singles,1
+1992,SUR,100m butterfly,1
+1992,SWE,100 - 130kg (super heavyweight),1
+1992,SWE,200m freestyle,1
+1992,SWE,400m freestyle,1
+1992,SWE,4x200m freestyle relay,4
+1992,SWE,50m pistol (60 shots),1
+1992,SWE,68 - 74kg (welterweight),1
+1992,SWE,K-2 1000m (kayak double),2
+1992,SWE,K-2 500m (kayak double),2
+1992,SWE,K-4 500m (kayak four),4
+1992,SWE,handball,16
+1992,SWE,high jump,1
+1992,SWE,singles,1
+1992,TCH,50m running target (30+30 shots),1
+1992,TCH,C-1 (canoe single),1
+1992,TCH,C-2 (canoe double),2
+1992,TCH,decathlon,1
+1992,TCH,javelin throw,1
+1992,TCH,single sculls (1x),1
+1992,TCH,trap (125 targets),1
+1992,THA,63.5 - 67kg (welterweight),1
+1992,TPE,baseball,20
+1992,TUR,- 48kg (extra-lightweight),1
+1992,TUR,"56 - 60kg, total (featherweight)",1
+1992,TUR,57 - 62kg (featherweight),1
+1992,TUR,82 - 90kg (light-heavyweight),2
+1992,TUR,90 - 100kg (heavyweight),1
+1992,USA,100 - 130kg (super heavyweight),1
+1992,USA,10000m,1
+1992,USA,100m,2
+1992,USA,100m backstroke,3
+1992,USA,100m breaststroke,2
+1992,USA,100m butterfly,2
+1992,USA,100m freestyle,1
+1992,USA,100m hurdles,1
+1992,USA,10m platform,2
+1992,USA,110m hurdles,2
+1992,USA,1km time trial,1
+1992,USA,200m,3
+1992,USA,200m breaststroke,2
+1992,USA,200m butterfly,2
+1992,USA,200m freestyle,1
+1992,USA,200m individual medley,2
+1992,USA,3m springboard,1
+1992,USA,400m,2
+1992,USA,400m freestyle,1
+1992,USA,400m hurdles,3
+1992,USA,400m individual medley,2
+1992,USA,470 - Two Person Dinghy,4
+1992,USA,48 - 51kg (flyweight),1
+1992,USA,48 - 52kg (flyweight),1
+1992,USA,4x100m freestyle relay,12
+1992,USA,4x100m medley relay,16
+1992,USA,4x100m relay,10
+1992,USA,4x200m freestyle relay,6
+1992,USA,4x400m relay,12
+1992,USA,50m freestyle,3
+1992,USA,50m rifle 3 positions (3x20 shots),1
+1992,USA,50m rifle 3 positions (3x40 shots),1
+1992,USA,57 - 60kg (lightweight),1
+1992,USA,57 - 62kg (featherweight),1
+1992,USA,62 - 68kg (lightweight),1
+1992,USA,68 - 74kg (welterweight),1
+1992,USA,71 - 78kg (half-middleweight),1
+1992,USA,71-75kg,1
+1992,USA,74 - 82kg (middleweight),1
+1992,USA,800m,1
+1992,USA,800m freestyle,1
+1992,USA,82 - 90kg (light-heavyweight),1
+1992,USA,90 - 100kg (heavyweight),1
+1992,USA,C-2 (canoe double),2
+1992,USA,K-1 (kayak single),1
+1992,USA,K-1 1000m (kayak single),1
+1992,USA,Tornado - Multihull,2
+1992,USA,balance beam,1
+1992,USA,basketball,24
+1992,USA,board (lechner),1
+1992,USA,coxless four (4-),4
+1992,USA,decathlon,1
+1992,USA,doubles,2
+1992,USA,duet,2
+1992,USA,fleet/match race keelboat open (Soling),3
+1992,USA,floor exercises,1
+1992,USA,flying dutchman,2
+1992,USA,four without coxswain (4-),4
+1992,USA,heptathlon,1
+1992,USA,high jump,1
+1992,USA,horizontal bar,1
+1992,USA,individual,1
+1992,USA,individual all-round,1
+1992,USA,individual pursuit,1
+1992,USA,long jump,4
+1992,USA,pair without coxswain (2-),2
+1992,USA,shot put,2
+1992,USA,single-handed dinghy (Europe),1
+1992,USA,single-handed dinghy (Finn),1
+1992,USA,singles,2
+1992,USA,solo,1
+1992,USA,team,4
+1992,USA,team competition,6
+1992,USA,triple jump,2
+1992,USA,two-person keelboat open (Star),2
+1992,USA,uneven bars,1
+1992,USA,volleyball,24
+1996,ALG,1500m,1
+1996,ALG,57 - 60kg (lightweight),1
+1996,ALG,71-75kg,1
+1996,ARG,54 - 57kg (featherweight),1
+1996,ARG,board (Mistral),1
+1996,ARG,football,18
+1996,ARM,- 48kg (light-flyweight),1
+1996,ARM,48 - 52kg (flyweight),1
+1996,AUS,"+ 108kg, total (super heavyweight)",1
+1996,AUS,100m breaststroke,1
+1996,AUS,100m butterfly,1
+1996,AUS,1500m freestyle,2
+1996,AUS,200m butterfly,3
+1996,AUS,200m freestyle,1
+1996,AUS,400m,1
+1996,AUS,400m freestyle,1
+1996,AUS,4x100m medley relay,11
+1996,AUS,4x200m freestyle relay,5
+1996,AUS,Individual Pursuit,1
+1996,AUS,K-1 1000m (kayak single),1
+1996,AUS,K-2 500m (kayak double),4
+1996,AUS,Points Race,1
+1996,AUS,Team Pursuit (4000m),5
+1996,AUS,Tornado - Multihull,2
+1996,AUS,basketball,12
+1996,AUS,beach volleyball,2
+1996,AUS,coxless pair (2-),2
+1996,AUS,double trap (120 targets),1
+1996,AUS,double trap (150 targets),1
+1996,AUS,doubles,2
+1996,AUS,four without coxswain (4-),4
+1996,AUS,hockey,32
+1996,AUS,javelin throw,1
+1996,AUS,lightweight double sculls (2x),4
+1996,AUS,pair without coxswain (2-),2
+1996,AUS,points race,1
+1996,AUS,quadruple sculls without coxswain (4x),4
+1996,AUS,softball,15
+1996,AUS,sprint,1
+1996,AUS,team,4
+1996,AUS,trap (125 targets),1
+1996,AUS,two-person keelboat open (Star),2
+1996,AUT,10m air rifle (60 shots),1
+1996,AUT,1500m,1
+1996,AUT,50m rifle 3 positions (3x40 shots),1
+1996,AZE,48 - 52kg (flyweight),1
+1996,BAH,4x100m relay,5
+1996,BDI,5000m,1
+1996,BEL,+ 100kg (heavyweight),1
+1996,BEL,100m breaststroke,1
+1996,BEL,52 - 56kg (lightweight),1
+1996,BEL,56 - 61kg (half-middleweight),1
+1996,BEL,66 - 72kg (half-heavyweight),1
+1996,BEL,single-handed dinghy (Finn),1
+1996,BLR,- 48kg (light-flyweight),1
+1996,BLR,100 - 130kg (super heavyweight),1
+1996,BLR,50m pistol (60 shots),1
+1996,BLR,74 - 82kg (middleweight),1
+1996,BLR,90 - 100kg (heavyweight),1
+1996,BLR,discus throw,3
+1996,BLR,eight with coxswain (8+),9
+1996,BLR,heptathlon,1
+1996,BLR,horizontal bar,1
+1996,BLR,individual all-round,1
+1996,BLR,parallel bars,1
+1996,BLR,single sculls (1x),1
+1996,BLR,vault,1
+1996,BRA,100m freestyle,1
+1996,BRA,200m freestyle,1
+1996,BRA,4x100m relay,4
+1996,BRA,50m freestyle,1
+1996,BRA,60 - 66kg (half-lightweight),1
+1996,BRA,90 - 100kg (half-heavyweight),1
+1996,BRA,Tornado - Multihull,2
+1996,BRA,basketball,12
+1996,BRA,beach volleyball,4
+1996,BRA,football,18
+1996,BRA,single-handed dinghy open (Laser),1
+1996,BRA,team,4
+1996,BRA,two-person keelboat open (Star),2
+1996,BRA,volleyball,12
+1996,BUL,- 48kg (light-flyweight),1
+1996,BUL,"- 54kg, total (flyweight)",1
+1996,BUL,10m air pistol (40 shots),1
+1996,BUL,10m air pistol (60 shots),1
+1996,BUL,25m pistol (30+30 shots),1
+1996,BUL,25m rapid fire pistol (60 shots),1
+1996,BUL,48 - 52kg (flyweight),1
+1996,BUL,54 - 57kg (featherweight),1
+1996,BUL,"54 - 59kg, total (bantamweight)",1
+1996,BUL,57 - 60kg (lightweight),1
+1996,BUL,"70 - 76kg, total (middleweight)",1
+1996,BUL,K-2 1000m (kayak double),2
+1996,BUL,group competition,6
+1996,BUL,high jump,1
+1996,BUL,horizontal bar,1
+1996,CAN,100m,1
+1996,CAN,200m individual medley,2
+1996,CAN,3m springboard,1
+1996,CAN,400m individual medley,1
+1996,CAN,4x100m relay,5
+1996,CAN,52 - 57kg (bantamweight),1
+1996,CAN,81 - 91kg (heavyweight),1
+1996,CAN,K-1 500m (kayak single),1
+1996,CAN,Points Race,1
+1996,CAN,Sprint indivual,1
+1996,CAN,beach volleyball,2
+1996,CAN,cross-country,1
+1996,CAN,double sculls (2x),2
+1996,CAN,eight with coxswain (8+),9
+1996,CAN,individual road race,1
+1996,CAN,individual time trial,1
+1996,CAN,lightweight coxless four (4-),4
+1996,CAN,quadruple sculls without coxswain (4x),4
+1996,CAN,single sculls (1x),2
+1996,CAN,team,10
+1996,CHN,+ 72kg (heavyweight),1
+1996,CHN,"- 54kg, total (flyweight)",1
+1996,CHN,10000m,1
+1996,CHN,10000m walk,1
+1996,CHN,100m butterfly,1
+1996,CHN,100m freestyle,1
+1996,CHN,10m air pistol (60 shots),1
+1996,CHN,10m platform,2
+1996,CHN,200m individual medley,1
+1996,CHN,25m pistol (30+30 shots),1
+1996,CHN,3m springboard,3
+1996,CHN,4x100m freestyle relay,4
+1996,CHN,4x100m medley relay,4
+1996,CHN,5000m,1
+1996,CHN,50m freestyle,1
+1996,CHN,50m running target (30+30 shots),2
+1996,CHN,52 - 57kg (bantamweight),1
+1996,CHN,"54 - 59kg, total (bantamweight)",1
+1996,CHN,"59 - 64kg, total (featherweight)",1
+1996,CHN,61 - 66kg (middleweight),1
+1996,CHN,"64 - 70kg, total (lightweight)",1
+1996,CHN,double sculls (2x),2
+1996,CHN,double trap (150 targets),1
+1996,CHN,doubles,14
+1996,CHN,floor exercises,1
+1996,CHN,football,16
+1996,CHN,horizontal bar,1
+1996,CHN,individual (FITA Olympic round - 70m),1
+1996,CHN,individual all-round,1
+1996,CHN,shot put,1
+1996,CHN,singles,5
+1996,CHN,softball,15
+1996,CHN,team competition,7
+1996,CHN,uneven bars,1
+1996,CHN,vault,1
+1996,CHN,volleyball,12
+1996,CRC,200m freestyle,1
+1996,CRO,handball,16
+1996,CRO,water polo,13
+1996,CUB,+ 72kg (heavyweight),1
+1996,CUB,- 48kg (extra-lightweight),1
+1996,CUB,- 48kg (light-flyweight),1
+1996,CUB,100m backstroke,2
+1996,CUB,48 - 51kg (flyweight),1
+1996,CUB,48 - 52kg (half-lightweight),1
+1996,CUB,51 - 54kg (bantamweight),1
+1996,CUB,52 - 56kg (lightweight),1
+1996,CUB,57 - 62kg (featherweight),1
+1996,CUB,60 - 63.5kg (light-welterweight),1
+1996,CUB,60 - 66kg (half-lightweight),1
+1996,CUB,63.5 - 67kg (welterweight),1
+1996,CUB,66 - 72kg (half-heavyweight),1
+1996,CUB,67 - 71kg (light-middleweight),1
+1996,CUB,68 - 74kg (welterweight),1
+1996,CUB,"70 - 76kg, total (middleweight)",1
+1996,CUB,71-75kg,1
+1996,CUB,800m,1
+1996,CUB,81 - 91kg (heavyweight),1
+1996,CUB,baseball,20
+1996,CUB,foil team,3
+1996,CUB,triple jump,1
+1996,CUB,volleyball,12
+1996,CUB,épée individual,1
+1996,CZE,50m running target (30+30 shots),1
+1996,CZE,C-1 (canoe single),1
+1996,CZE,C-1 1000m (canoe single),1
+1996,CZE,C-1 500m (canoe single),1
+1996,CZE,C-2 (canoe double),2
+1996,CZE,K-1 (kayak single),1
+1996,CZE,decathlon,1
+1996,CZE,doubles,2
+1996,CZE,javelin throw,1
+1996,CZE,singles,1
+1996,CZE,triple jump,1
+1996,DEN,handball,16
+1996,DEN,individual road race,1
+1996,DEN,lightweight coxless four (4-),4
+1996,DEN,single sculls (1x),1
+1996,DEN,single-handed dinghy (Europe),1
+1996,DEN,singles,1
+1996,ECU,20km walk,1
+1996,ESP,+ 100kg (heavyweight),1
+1996,ESP,- 48kg (extra-lightweight),1
+1996,ESP,- 48kg (light-flyweight),1
+1996,ESP,1500m,1
+1996,ESP,470 - Two Person Dinghy,2
+1996,ESP,50km walk,1
+1996,ESP,52 - 56kg (lightweight),1
+1996,ESP,Tornado - Multihull,2
+1996,ESP,doubles,2
+1996,ESP,group competition,6
+1996,ESP,handball,16
+1996,ESP,hockey,16
+1996,ESP,individual time trial,2
+1996,ESP,singles,2
+1996,ESP,water polo,13
+1996,ETH,10000m,2
+1996,ETH,marathon,1
+1996,FIN,200m individual medley,1
+1996,FIN,68 - 74kg (welterweight),1
+1996,FIN,javelin throw,2
+1996,FRA,+ 100kg (heavyweight),1
+1996,FRA,+ 72kg (heavyweight),1
+1996,FRA,100m hurdles,1
+1996,FRA,10m air rifle (60 shots),1
+1996,FRA,1km time trial,1
+1996,FRA,200m,1
+1996,FRA,400m,1
+1996,FRA,48 - 52kg (half-lightweight),1
+1996,FRA,50m rifle 3 positions (3x40 shots),1
+1996,FRA,62 - 68kg (lightweight),1
+1996,FRA,66 - 73kg (lightweight),1
+1996,FRA,73 - 81kg (half-middleweight),1
+1996,FRA,90 - 100kg (half-heavyweight),1
+1996,FRA,C-1 (canoe single),1
+1996,FRA,C-2 (canoe double),2
+1996,FRA,Individual Pursuit,1
+1996,FRA,K-1 (kayak single),1
+1996,FRA,Team Pursuit (4000m),4
+1996,FRA,coxless pair (2-),2
+1996,FRA,cross-country,1
+1996,FRA,double sculls (2x),2
+1996,FRA,foil individual,2
+1996,FRA,four without coxswain (4-),4
+1996,FRA,individual,1
+1996,FRA,individual pursuit,1
+1996,FRA,individual road race,1
+1996,FRA,individual time trial,1
+1996,FRA,pair without coxswain (2-),2
+1996,FRA,points race,1
+1996,FRA,pole vault,1
+1996,FRA,sabre individual,1
+1996,FRA,sprint,1
+1996,FRA,épée individual,2
+1996,FRA,épée team,6
+1996,GBR,1500m freestyle,1
+1996,GBR,400m,1
+1996,GBR,400m freestyle,1
+1996,GBR,470 - Two Person Dinghy,2
+1996,GBR,4x400m relay,6
+1996,GBR,coxless pair (2-),2
+1996,GBR,doubles,2
+1996,GBR,four without coxswain (4-),4
+1996,GBR,heptathlon,1
+1996,GBR,high jump,1
+1996,GBR,individual road race,1
+1996,GBR,individual time trial,1
+1996,GBR,javelin throw,1
+1996,GBR,single-handed dinghy open (Laser),1
+1996,GBR,triple jump,1
+1996,GEO,73 - 81kg (half-middleweight),1
+1996,GEO,82 - 90kg (light-heavyweight),1
+1996,GER,+ 100kg (heavyweight),1
+1996,GER,"+ 108kg, total (super heavyweight)",1
+1996,GER,+ 72kg (heavyweight),1
+1996,GER,- 60 kg,1
+1996,GER,100m breaststroke,1
+1996,GER,100m freestyle,1
+1996,GER,10m air rifle (40 shots),1
+1996,GER,10m platform,2
+1996,GER,110m hurdles,1
+1996,GER,200m backstroke,1
+1996,GER,200m freestyle,2
+1996,GER,25m rapid fire pistol (60 shots),1
+1996,GER,400m freestyle,1
+1996,GER,48 - 51kg (flyweight),1
+1996,GER,4x100m freestyle relay,10
+1996,GER,4x200m freestyle relay,12
+1996,GER,4x400m relay,4
+1996,GER,50m freestyle,1
+1996,GER,50m rifle prone (60 shots),1
+1996,GER,60 - 63.5kg (light-welterweight),1
+1996,GER,60 - 66kg (half-lightweight),1
+1996,GER,74 - 82kg (middleweight),1
+1996,GER,75 - 81kg (light-heavyweight),1
+1996,GER,"76 - 83kg, total (light-heavyweight)",1
+1996,GER,800m freestyle,1
+1996,GER,81 - 90kg (middleweight),1
+1996,GER,81 - 91kg (heavyweight),1
+1996,GER,82 - 90kg (light-heavyweight),1
+1996,GER,"83 - 91kg, total (middle-heavyweight)",1
+1996,GER,90 - 100kg (heavyweight),1
+1996,GER,C-2 (canoe double),2
+1996,GER,C-2 1000m (canoe double),2
+1996,GER,K-1 (kayak single),2
+1996,GER,K-2 1000m (kayak double),2
+1996,GER,K-2 500m (kayak double),4
+1996,GER,K-4 1000m (kayak four),4
+1996,GER,K-4 500m (kayak four),4
+1996,GER,Sprint indivual,1
+1996,GER,decathlon,1
+1996,GER,discus throw,2
+1996,GER,double trap (120 targets),1
+1996,GER,doubles,2
+1996,GER,eight with coxswain (8+),9
+1996,GER,fleet/match race keelboat open (Soling),3
+1996,GER,foil team,3
+1996,GER,horizontal bar,1
+1996,GER,individual,2
+1996,GER,individual pursuit,1
+1996,GER,pole vault,1
+1996,GER,quadruple sculls without coxswain (4x),8
+1996,GER,shot put,1
+1996,GER,single sculls (1x),1
+1996,GER,singles,1
+1996,GER,team,8
+1996,GER,team (FITA Olympic round - 70m),3
+1996,GRE,"54 - 59kg, total (bantamweight)",1
+1996,GRE,"59 - 64kg, total (featherweight)",1
+1996,GRE,"76 - 83kg, total (light-heavyweight)",1
+1996,GRE,"83 - 91kg, total (middle-heavyweight)",1
+1996,GRE,"91 - 99kg, total (first-heavyweight)",1
+1996,GRE,board (Mistral),1
+1996,GRE,floor exercises,1
+1996,GRE,high jump,1
+1996,HKG,board (Mistral),1
+1996,HUN,200m backstroke,1
+1996,HUN,200m breaststroke,3
+1996,HUN,200m individual medley,1
+1996,HUN,400m individual medley,1
+1996,HUN,51 - 54kg (bantamweight),1
+1996,HUN,"64 - 70kg, total (lightweight)",1
+1996,HUN,C-1 1000m (canoe single),1
+1996,HUN,C-1 500m (canoe single),1
+1996,HUN,C-2 1000m (canoe double),2
+1996,HUN,C-2 500m (canoe double),2
+1996,HUN,Individual competition,1
+1996,HUN,K-1 500m (kayak single),1
+1996,HUN,K-4 1000m (kayak four),4
+1996,HUN,hammer throw,1
+1996,HUN,handball,16
+1996,HUN,rings,1
+1996,HUN,sabre team,3
+1996,HUN,épée individual,2
+1996,INA,doubles,4
+1996,INA,singles,2
+1996,IND,singles,1
+1996,IRI,74 - 82kg (middleweight),1
+1996,IRI,82 - 90kg (light-heavyweight),1
+1996,IRI,90 - 100kg (heavyweight),1
+1996,IRL,200m butterfly,1
+1996,IRL,200m individual medley,1
+1996,IRL,400m freestyle,1
+1996,IRL,400m individual medley,1
+1996,ISR,board (Mistral),1
+1996,ITA,- 60 kg,1
+1996,ITA,10000m walk,1
+1996,ITA,10m air pistol (60 shots),1
+1996,ITA,200m backstroke,1
+1996,ITA,3000m steeplechase,1
+1996,ITA,5000m,1
+1996,ITA,50m pistol (60 shots),1
+1996,ITA,66 - 72kg (half-heavyweight),1
+1996,ITA,Individual Pursuit,1
+1996,ITA,K-1 1000m (kayak single),1
+1996,ITA,K-1 500m (kayak single),2
+1996,ITA,K-2 1000m (kayak double),2
+1996,ITA,K-2 500m (kayak double),2
+1996,ITA,Points Race,1
+1996,ITA,board (Mistral),1
+1996,ITA,cross-country,1
+1996,ITA,double sculls (2x),2
+1996,ITA,double trap (150 targets),1
+1996,ITA,foil individual,3
+1996,ITA,foil team,3
+1996,ITA,individual pursuit,1
+1996,ITA,individual road race,1
+1996,ITA,long jump,1
+1996,ITA,rings,1
+1996,ITA,sabre team,3
+1996,ITA,skeet (125 targets),2
+1996,ITA,team (FITA Olympic round - 70m),3
+1996,ITA,volleyball,12
+1996,ITA,water polo,13
+1996,ITA,épée team,6
+1996,JAM,100m,1
+1996,JAM,200m,1
+1996,JAM,400m hurdles,1
+1996,JAM,4x100m relay,6
+1996,JAM,4x400m relay,6
+1996,JAM,long jump,1
+1996,JPN,- 48kg (extra-lightweight),1
+1996,JPN,- 60 kg,1
+1996,JPN,1km time trial,1
+1996,JPN,470 - Two Person Dinghy,2
+1996,JPN,48 - 52kg (half-lightweight),1
+1996,JPN,56 - 61kg (half-middleweight),1
+1996,JPN,60 - 66kg (half-lightweight),1
+1996,JPN,66 - 72kg (half-heavyweight),1
+1996,JPN,66 - 73kg (lightweight),1
+1996,JPN,68 - 74kg (welterweight),1
+1996,JPN,73 - 81kg (half-middleweight),1
+1996,JPN,baseball,20
+1996,JPN,marathon,1
+1996,JPN,team,10
+1996,KAZ,25m rapid fire pistol (60 shots),1
+1996,KAZ,48 - 51kg (flyweight),1
+1996,KAZ,48 - 52kg (flyweight),1
+1996,KAZ,50m rifle 3 positions (3x40 shots),1
+1996,KAZ,50m rifle prone (60 shots),1
+1996,KAZ,52 - 57kg (bantamweight),1
+1996,KAZ,60 - 63.5kg (light-welterweight),1
+1996,KAZ,67 - 71kg (light-middleweight),1
+1996,KAZ,75 - 81kg (light-heavyweight),1
+1996,KAZ,"91 - 99kg, total (first-heavyweight)",1
+1996,KAZ,Individual competition,1
+1996,KEN,10000m,1
+1996,KEN,1500m,1
+1996,KEN,3000m steeplechase,2
+1996,KEN,5000m,2
+1996,KEN,800m,1
+1996,KEN,marathon,1
+1996,KOR,- 48kg (light-flyweight),1
+1996,KOR,48 - 52kg (half-lightweight),1
+1996,KOR,52 - 56kg (lightweight),1
+1996,KOR,56 - 61kg (half-middleweight),1
+1996,KOR,57 - 62kg (featherweight),1
+1996,KOR,61 - 66kg (middleweight),1
+1996,KOR,66 - 73kg (lightweight),1
+1996,KOR,68 - 74kg (welterweight),1
+1996,KOR,73 - 81kg (half-middleweight),1
+1996,KOR,74 - 82kg (middleweight),1
+1996,KOR,75 - 81kg (light-heavyweight),1
+1996,KOR,81 - 90kg (middleweight),1
+1996,KOR,90 - 100kg (half-heavyweight),1
+1996,KOR,doubles,10
+1996,KOR,handball,16
+1996,KOR,hockey,16
+1996,KOR,individual (FITA Olympic round - 70m),2
+1996,KOR,marathon,1
+1996,KOR,singles,1
+1996,KOR,team (FITA Olympic round - 70m),6
+1996,KOR,vault,1
+1996,LAT,C-1 1000m (canoe single),1
+1996,LTU,basketball,12
+1996,MAR,10000m,1
+1996,MAR,5000m,1
+1996,MAS,doubles,2
+1996,MAS,singles,1
+1996,MDA,100 - 130kg (super heavyweight),1
+1996,MDA,C-2 500m (canoe double),2
+1996,MEX,20km walk,1
+1996,MGL,- 60 kg,1
+1996,MOZ,800m,1
+1996,NAM,100m,1
+1996,NAM,200m,1
+1996,NED,400m freestyle,1
+1996,NED,56 - 61kg (half-middleweight),1
+1996,NED,61 - 66kg (middleweight),1
+1996,NED,800m freestyle,1
+1996,NED,81 - 90kg (middleweight),1
+1996,NED,cross-country,1
+1996,NED,double sculls (2x),2
+1996,NED,eight with coxswain (8+),9
+1996,NED,hockey,32
+1996,NED,individual,2
+1996,NED,lightweight double sculls (2x),2
+1996,NED,points race,1
+1996,NED,single-handed dinghy (Europe),1
+1996,NED,single-handed dinghy (Finn),1
+1996,NED,sprint,1
+1996,NED,team,4
+1996,NED,volleyball,12
+1996,NGR,+ 91kg (super heavyweight),1
+1996,NGR,200m,1
+1996,NGR,400m,1
+1996,NGR,4x400m relay,4
+1996,NGR,football,18
+1996,NGR,long jump,1
+1996,NOR,800m,1
+1996,NOR,K-1 1000m (kayak single),1
+1996,NOR,K-1 500m (kayak single),1
+1996,NOR,double sculls (2x),2
+1996,NOR,football,18
+1996,NOR,javelin throw,1
+1996,NOR,single-handed dinghy open (Laser),1
+1996,NZL,200m freestyle,1
+1996,NZL,400m freestyle,1
+1996,NZL,board (Mistral),1
+1996,NZL,individual,2
+1996,NZL,team,4
+1996,PHI,- 48kg (light-flyweight),1
+1996,POL,10m air rifle (40 shots),1
+1996,POL,50km walk,1
+1996,POL,50m rifle 3 positions (3x20 shots),1
+1996,POL,57 - 62kg (featherweight),1
+1996,POL,61 - 66kg (middleweight),1
+1996,POL,62 - 68kg (lightweight),1
+1996,POL,68 - 74kg (welterweight),1
+1996,POL,"76 - 83kg, total (light-heavyweight)",1
+1996,POL,82 - 90kg (light-heavyweight),1
+1996,POL,90 - 100kg (half-heavyweight),1
+1996,POL,90 - 100kg (heavyweight),1
+1996,POL,K-1 500m (kayak single),1
+1996,POL,foil team,3
+1996,POL,high jump,1
+1996,POL,single-handed dinghy (Finn),1
+1996,POL,skeet (125 targets),1
+1996,POL,team (FITA Olympic round - 70m),3
+1996,POR,10000m,1
+1996,POR,470 - Two Person Dinghy,2
+1996,PRK,- 48kg (extra-lightweight),1
+1996,PRK,- 48kg (light-flyweight),1
+1996,PRK,52 - 57kg (bantamweight),1
+1996,PRK,"64 - 70kg, total (lightweight)",1
+1996,PRK,"70 - 76kg, total (middleweight)",1
+1996,PUR,63.5 - 67kg (welterweight),1
+1996,ROU,1500m,1
+1996,ROU,57 - 60kg (lightweight),1
+1996,ROU,63.5 - 67kg (welterweight),1
+1996,ROU,"99 - 108kg, total (heavyweight)",1
+1996,ROU,C-2 1000m (canoe double),2
+1996,ROU,C-2 500m (canoe double),2
+1996,ROU,balance beam,1
+1996,ROU,eight with coxswain (8+),9
+1996,ROU,floor exercises,1
+1996,ROU,foil individual,1
+1996,ROU,foil team,3
+1996,ROU,individual all-round,3
+1996,ROU,lightweight double sculls (2x),2
+1996,ROU,pommel horse,1
+1996,ROU,rings,1
+1996,ROU,team competition,6
+1996,ROU,vault,2
+1996,RSA,100m backstroke,1
+1996,RSA,100m breaststroke,1
+1996,RSA,200m breaststroke,1
+1996,RSA,800m,1
+1996,RSA,marathon,1
+1996,RUS,"+ 108kg, total (super heavyweight)",1
+1996,RUS,+ 91kg (super heavyweight),1
+1996,RUS,- 48kg (light-flyweight),1
+1996,RUS,100 - 130kg (super heavyweight),1
+1996,RUS,10000m walk,1
+1996,RUS,100m butterfly,2
+1996,RUS,100m freestyle,1
+1996,RUS,10m air pistol (40 shots),2
+1996,RUS,10m air rifle (60 shots),1
+1996,RUS,10m platform,1
+1996,RUS,1500m,1
+1996,RUS,200m breaststroke,1
+1996,RUS,200m butterfly,1
+1996,RUS,20km walk,1
+1996,RUS,25m pistol (30+30 shots),1
+1996,RUS,3m springboard,1
+1996,RUS,48 - 51kg (flyweight),1
+1996,RUS,4x100m freestyle relay,6
+1996,RUS,4x100m medley relay,7
+1996,RUS,50km walk,1
+1996,RUS,50m freestyle,1
+1996,RUS,50m pistol (60 shots),1
+1996,RUS,50m rifle 3 positions (3x20 shots),1
+1996,RUS,51 - 54kg (bantamweight),1
+1996,RUS,62 - 68kg (lightweight),2
+1996,RUS,63.5 - 67kg (welterweight),1
+1996,RUS,68 - 74kg (welterweight),1
+1996,RUS,74 - 82kg (middleweight),1
+1996,RUS,800m,1
+1996,RUS,82 - 90kg (light-heavyweight),1
+1996,RUS,"83 - 91kg, total (middle-heavyweight)",1
+1996,RUS,"99 - 108kg, total (heavyweight)",1
+1996,RUS,Individual competition,1
+1996,RUS,K-4 1000m (kayak four),4
+1996,RUS,Team Pursuit (4000m),4
+1996,RUS,discus throw,1
+1996,RUS,eight with coxswain (8+),9
+1996,RUS,fleet/match race keelboat open (Soling),3
+1996,RUS,floor exercises,1
+1996,RUS,foil team,3
+1996,RUS,group competition,6
+1996,RUS,horizontal bar,1
+1996,RUS,individual all-round,2
+1996,RUS,individual time trial,1
+1996,RUS,marathon,1
+1996,RUS,pole vault,1
+1996,RUS,pommel horse,1
+1996,RUS,sabre individual,2
+1996,RUS,sabre team,3
+1996,RUS,shot put,1
+1996,RUS,team competition,14
+1996,RUS,triple jump,1
+1996,RUS,uneven bars,1
+1996,RUS,vault,1
+1996,RUS,épée individual,1
+1996,RUS,épée team,6
+1996,SLO,100m hurdles,1
+1996,SLO,K-1 (kayak single),1
+1996,SUI,K-4 500m (kayak four),4
+1996,SUI,cross-country,1
+1996,SUI,individual,1
+1996,SUI,individual road race,1
+1996,SUI,lightweight double sculls (2x),2
+1996,SUI,pommel horse,1
+1996,SUI,single sculls (1x),1
+1996,SVK,50m rifle prone (60 shots),1
+1996,SVK,C-1 (canoe single),1
+1996,SVK,C-1 500m (canoe single),1
+1996,SWE,100m hurdles,1
+1996,SWE,4x200m freestyle relay,4
+1996,SWE,90 - 100kg (heavyweight),1
+1996,SWE,K-2 500m (kayak double),2
+1996,SWE,K-4 500m (kayak four),4
+1996,SWE,handball,16
+1996,SWE,individual (FITA Olympic round - 70m),1
+1996,SWE,two-person keelboat open (Star),2
+1996,SYR,heptathlon,1
+1996,TGA,+ 91kg (super heavyweight),1
+1996,THA,51 - 54kg (bantamweight),1
+1996,THA,54 - 57kg (featherweight),1
+1996,TPE,singles,1
+1996,TRI,100m,1
+1996,TRI,200m,1
+1996,TUN,60 - 63.5kg (light-welterweight),1
+1996,TUR,"- 54kg, total (flyweight)",1
+1996,TUR,100 - 130kg (super heavyweight),1
+1996,TUR,57 - 62kg (featherweight),1
+1996,TUR,"59 - 64kg, total (featherweight)",1
+1996,TUR,71-75kg,1
+1996,TUR,74 - 82kg (middleweight),1
+1996,UGA,400m,1
+1996,UKR,+ 91kg (super heavyweight),1
+1996,UKR,- 48kg (light-flyweight),1
+1996,UKR,470 - Two Person Dinghy,4
+1996,UKR,48 - 52kg (flyweight),1
+1996,UKR,57 - 62kg (featherweight),1
+1996,UKR,62 - 68kg (lightweight),1
+1996,UKR,82 - 90kg (light-heavyweight),1
+1996,UKR,"91 - 99kg, total (first-heavyweight)",1
+1996,UKR,"99 - 108kg, total (heavyweight)",1
+1996,UKR,balance beam,1
+1996,UKR,floor exercises,1
+1996,UKR,hammer throw,1
+1996,UKR,high jump,1
+1996,UKR,individual (FITA Olympic round - 70m),1
+1996,UKR,individual all-round,3
+1996,UKR,parallel bars,1
+1996,UKR,quadruple sculls without coxswain (4x),4
+1996,UKR,shot put,1
+1996,UKR,team competition,7
+1996,UKR,triple jump,1
+1996,USA,100 - 130kg (super heavyweight),2
+1996,USA,100m,2
+1996,USA,100m backstroke,3
+1996,USA,100m breaststroke,2
+1996,USA,100m butterfly,2
+1996,USA,100m freestyle,2
+1996,USA,10m platform,1
+1996,USA,110m hurdles,2
+1996,USA,1km time trial,1
+1996,USA,200m,1
+1996,USA,200m backstroke,3
+1996,USA,200m breaststroke,1
+1996,USA,200m butterfly,1
+1996,USA,3m springboard,1
+1996,USA,400m,1
+1996,USA,400m hurdles,4
+1996,USA,400m individual medley,3
+1996,USA,48 - 52kg (flyweight),1
+1996,USA,4x100m freestyle relay,12
+1996,USA,4x100m medley relay,16
+1996,USA,4x100m relay,10
+1996,USA,4x200m freestyle relay,12
+1996,USA,4x400m relay,10
+1996,USA,50m freestyle,2
+1996,USA,52 - 57kg (bantamweight),2
+1996,USA,54 - 57kg (featherweight),1
+1996,USA,57 - 60kg (lightweight),1
+1996,USA,57 - 62kg (featherweight),1
+1996,USA,62 - 68kg (lightweight),1
+1996,USA,66 - 73kg (lightweight),1
+1996,USA,67 - 71kg (light-middleweight),1
+1996,USA,71-75kg,1
+1996,USA,75 - 81kg (light-heavyweight),1
+1996,USA,800m freestyle,1
+1996,USA,81 - 91kg (heavyweight),1
+1996,USA,90 - 100kg (heavyweight),1
+1996,USA,K-1 (kayak single),1
+1996,USA,Sprint indivual,1
+1996,USA,balance beam,1
+1996,USA,baseball,20
+1996,USA,basketball,24
+1996,USA,beach volleyball,4
+1996,USA,cross-country,1
+1996,USA,decathlon,1
+1996,USA,double trap (120 targets),1
+1996,USA,doubles,2
+1996,USA,fleet/match race keelboat open (Soling),3
+1996,USA,floor exercises,1
+1996,USA,football,16
+1996,USA,hammer throw,1
+1996,USA,high jump,1
+1996,USA,individual,1
+1996,USA,individual (FITA Olympic round - 70m),1
+1996,USA,lightweight coxless four (4-),4
+1996,USA,lightweight double sculls (2x),2
+1996,USA,long jump,3
+1996,USA,pair without coxswain (2-),2
+1996,USA,parallel bars,1
+1996,USA,quadruple sculls without coxswain (4x),4
+1996,USA,shot put,2
+1996,USA,single-handed dinghy (Europe),1
+1996,USA,singles,2
+1996,USA,softball,15
+1996,USA,team,22
+1996,USA,team (FITA Olympic round - 70m),3
+1996,USA,team competition,7
+1996,USA,trap (125 targets),2
+1996,USA,triple jump,1
+1996,USA,uneven bars,1
+1996,UZB,67 - 71kg (light-middleweight),1
+1996,UZB,81 - 90kg (middleweight),1
+1996,YUG,10m air rifle (40 shots),1
+1996,YUG,50m rifle 3 positions (3x20 shots),1
+1996,YUG,basketball,12
+1996,YUG,volleyball,12
+1996,ZAM,400m hurdles,1
+2000,ALG,1500m,1
+2000,ALG,5000m,1
+2000,ALG,60 - 63.5kg (light-welterweight),1
+2000,ALG,800m,1
+2000,ALG,high jump,1
+2000,ARG,470 - Two Person Dinghy,2
+2000,ARG,board (Mistral),1
+2000,ARG,hockey,16
+2000,ARG,single-handed dinghy (Europe),1
+2000,ARM,77kg,1
+2000,AUS,+ 80 kg,1
+2000,AUS,- 49 kg,1
+2000,AUS,100m backstroke,1
+2000,AUS,100m breaststroke,1
+2000,AUS,100m butterfly,2
+2000,AUS,10m air pistol (40 shots),1
+2000,AUS,1500m freestyle,2
+2000,AUS,1km time trial,1
+2000,AUS,200m backstroke,1
+2000,AUS,200m butterfly,3
+2000,AUS,200m freestyle,2
+2000,AUS,400m,1
+2000,AUS,400m freestyle,1
+2000,AUS,470 - Two Person Dinghy,4
+2000,AUS,4x100m freestyle relay,6
+2000,AUS,4x100m medley relay,15
+2000,AUS,4x200m freestyle relay,12
+2000,AUS,500m time trial,1
+2000,AUS,52 - 57kg (lightweight),1
+2000,AUS,Individual,1
+2000,AUS,Individual Pursuit,1
+2000,AUS,K-1 500m (kayak single),1
+2000,AUS,K-2 500m (kayak double),2
+2000,AUS,Keirin,1
+2000,AUS,Madison,2
+2000,AUS,Olympic Sprint,3
+2000,AUS,Tornado - Multihull,2
+2000,AUS,basketball,12
+2000,AUS,beach volleyball,2
+2000,AUS,coxless pair (2-),2
+2000,AUS,double trap (150 targets),1
+2000,AUS,doubles,2
+2000,AUS,eight with coxswain (8+),9
+2000,AUS,four without coxswain (4-),4
+2000,AUS,hockey,32
+2000,AUS,individual,2
+2000,AUS,individual (FITA Olympic round - 70m),1
+2000,AUS,lightweight coxless four (4-),4
+2000,AUS,long jump,1
+2000,AUS,pair without coxswain (2-),2
+2000,AUS,pole vault,1
+2000,AUS,single-handed dinghy open (Laser),1
+2000,AUS,softball,15
+2000,AUS,synchronized diving 10m platform,2
+2000,AUS,synchronized diving 3m springboard,2
+2000,AUS,team,4
+2000,AUS,trap (125 targets),1
+2000,AUS,water polo,13
+2000,AUT,800m,1
+2000,AUT,Tornado - Multihull,2
+2000,AUT,board (Mistral),1
+2000,AZE,48 - 54kg,1
+2000,AZE,71-75kg,1
+2000,AZE,skeet (75 targets),1
+2000,BAH,200m,1
+2000,BAH,4x100m relay,5
+2000,BAR,100m,1
+2000,BEL,- 48kg (extra-lightweight),1
+2000,BEL,57 - 63kg (half-middleweight),1
+2000,BEL,Madison,2
+2000,BEL,cross-country,1
+2000,BEL,doubles,2
+2000,BLR,10m air pistol (60 shots),1
+2000,BLR,25m pistol (30+30 shots),1
+2000,BLR,50m pistol (60 shots),1
+2000,BLR,50m rifle prone (60 shots),1
+2000,BLR,62kg,1
+2000,BLR,66 - 73kg (lightweight),1
+2000,BLR,69kg,1
+2000,BLR,97 - 130kg,1
+2000,BLR,Individual competition,1
+2000,BLR,discus throw,2
+2000,BLR,group competition,6
+2000,BLR,hammer throw,1
+2000,BLR,heptathlon,1
+2000,BLR,individual all-round,1
+2000,BLR,shot put,1
+2000,BLR,single sculls (1x),1
+2000,BRA,4x100m freestyle relay,4
+2000,BRA,4x100m relay,5
+2000,BRA,66 - 73kg (lightweight),1
+2000,BRA,81 - 90kg (middleweight),1
+2000,BRA,basketball,12
+2000,BRA,beach volleyball,6
+2000,BRA,single-handed dinghy open (Laser),1
+2000,BRA,team,4
+2000,BRA,two-person keelboat open (Star),2
+2000,BRA,volleyball,12
+2000,BUL,105kg,1
+2000,BUL,25m pistol (30+30 shots),1
+2000,BUL,50m pistol (60 shots),1
+2000,BUL,54 - 58kg,1
+2000,BUL,58 - 63kg,1
+2000,BUL,69kg,2
+2000,BUL,K-1 1000m (kayak single),1
+2000,BUL,K-1 500m (kayak single),1
+2000,BUL,floor exercises,1
+2000,BUL,rings,1
+2000,BUL,single sculls (1x),1
+2000,BUL,triple jump,1
+2000,CAN,+ 67 kg,1
+2000,CAN,10m platform,1
+2000,CAN,400m individual medley,1
+2000,CAN,63 - 69kg,1
+2000,CAN,90 - 100kg (half-heavyweight),1
+2000,CAN,C-1 1000m (canoe single),1
+2000,CAN,Individual,1
+2000,CAN,K-1 500m (kayak single),1
+2000,CAN,doubles,2
+2000,CAN,eight with coxswain (8+),9
+2000,CAN,individual,2
+2000,CAN,synchronized diving 10m platform,2
+2000,CAN,team,8
+2000,CHI,football,18
+2000,CHN,+ 67 kg,1
+2000,CHN,+ 75kg,1
+2000,CHN,+ 78kg (heavyweight),1
+2000,CHN,10m air pistol (40 shots),1
+2000,CHN,10m air pistol (60 shots),1
+2000,CHN,10m air rifle (40 shots),1
+2000,CHN,10m air rifle (60 shots),1
+2000,CHN,10m platform,3
+2000,CHN,10m running target (30+30 shots),2
+2000,CHN,20km race walk,1
+2000,CHN,25m pistol (30+30 shots),1
+2000,CHN,3m springboard,3
+2000,CHN,48 - 52kg (half-lightweight),1
+2000,CHN,500m time trial,1
+2000,CHN,53kg,1
+2000,CHN,54 - 58kg,1
+2000,CHN,56kg,2
+2000,CHN,57 - 63kg (half-middleweight),1
+2000,CHN,63kg,1
+2000,CHN,69kg,1
+2000,CHN,70 - 78kg (half-heavyweight),1
+2000,CHN,77kg,1
+2000,CHN,balance beam,1
+2000,CHN,doubles,16
+2000,CHN,foil team,3
+2000,CHN,individual all-round,2
+2000,CHN,parallel bars,1
+2000,CHN,singles,8
+2000,CHN,synchronized diving 10m platform,4
+2000,CHN,synchronized diving 3m springboard,4
+2000,CHN,team competition,6
+2000,CHN,trap (75 targets),1
+2000,CHN,uneven bars,2
+2000,CHN,épée team,3
+2000,CMR,football,18
+2000,COL,75kg,1
+2000,CRC,200m freestyle,1
+2000,CRC,400m freestyle,1
+2000,CRO,62kg,1
+2000,CRO,eight with coxswain (8+),9
+2000,CUB,+ 78kg (heavyweight),1
+2000,CUB,- 48kg (light-flyweight),1
+2000,CUB,- 49 kg,1
+2000,CUB,- 60 kg,1
+2000,CUB,110m hurdles,1
+2000,CUB,48 - 52kg (half-lightweight),1
+2000,CUB,48 - 54kg,1
+2000,CUB,4x100m relay,4
+2000,CUB,51 - 54kg (bantamweight),1
+2000,CUB,52 - 57kg (lightweight),1
+2000,CUB,57 - 60kg (lightweight),1
+2000,CUB,58 - 63kg,1
+2000,CUB,60 - 63.5kg (light-welterweight),1
+2000,CUB,63 - 69kg,1
+2000,CUB,63 - 70kg (middleweight),1
+2000,CUB,68 - 80 kg,1
+2000,CUB,71-75kg,1
+2000,CUB,76 - 85kg,1
+2000,CUB,81 - 91kg (heavyweight),1
+2000,CUB,97 - 130kg,1
+2000,CUB,C-1 1000m (canoe single),1
+2000,CUB,C-2 1000m (canoe double),2
+2000,CUB,baseball,24
+2000,CUB,high jump,1
+2000,CUB,javelin throw,1
+2000,CUB,long jump,1
+2000,CUB,triple jump,1
+2000,CUB,volleyball,12
+2000,CUB,épée team,3
+2000,CZE,50m pistol (60 shots),1
+2000,CZE,75 - 81kg (light-heavyweight),1
+2000,CZE,C-2 (canoe double),2
+2000,CZE,Individual,1
+2000,CZE,K-1 (kayak single),1
+2000,CZE,decathlon,1
+2000,CZE,javelin throw,1
+2000,CZE,skeet (125 targets),1
+2000,DEN,50m rifle prone (60 shots),1
+2000,DEN,800m,1
+2000,DEN,fleet/match race keelboat open (Soling),3
+2000,DEN,handball,15
+2000,DEN,lightweight coxless four (4-),4
+2000,DEN,singles,1
+2000,ESP,- 48kg (light-flyweight),1
+2000,ESP,- 58 kg,1
+2000,ESP,100m backstroke,1
+2000,ESP,20km race walk,1
+2000,ESP,52 - 57kg (lightweight),1
+2000,ESP,Points Race,1
+2000,ESP,cross-country,1
+2000,ESP,doubles,2
+2000,ESP,football,18
+2000,ESP,handball,15
+2000,ESP,vault,1
+2000,EST,+ 100kg (heavyweight),1
+2000,EST,73 - 81kg (half-middleweight),1
+2000,EST,decathlon,1
+2000,ETH,10000m,4
+2000,ETH,5000m,2
+2000,ETH,marathon,2
+2000,FIN,49er - Skiff,2
+2000,FIN,50m rifle 3 positions (3x40 shots),1
+2000,FIN,69 - 76kg,1
+2000,FIN,shot put,1
+2000,FRA,+ 100kg (heavyweight),1
+2000,FRA,+ 80 kg,1
+2000,FRA,- 48kg (light-flyweight),1
+2000,FRA,10m air pistol (60 shots),1
+2000,FRA,200m backstroke,1
+2000,FRA,48 - 51kg (flyweight),1
+2000,FRA,500m time trial,1
+2000,FRA,57 - 63kg (half-middleweight),1
+2000,FRA,60 - 66kg (half-lightweight),1
+2000,FRA,70 - 78kg (half-heavyweight),1
+2000,FRA,81 - 90kg (middleweight),1
+2000,FRA,90 - 100kg (half-heavyweight),1
+2000,FRA,C-1 (canoe single),1
+2000,FRA,K-1 (kayak single),2
+2000,FRA,Keirin,1
+2000,FRA,Olympic Sprint,3
+2000,FRA,Sprint indivual,1
+2000,FRA,basketball,12
+2000,FRA,coxless pair (2-),2
+2000,FRA,cross-country,1
+2000,FRA,doubles,2
+2000,FRA,duet,2
+2000,FRA,foil team,4
+2000,FRA,horizontal bar,1
+2000,FRA,individual pursuit,1
+2000,FRA,individual time trial,1
+2000,FRA,lightweight coxless four (4-),4
+2000,FRA,lightweight double sculls (2x),2
+2000,FRA,pommel horse,1
+2000,FRA,sabre individual,1
+2000,FRA,sabre team,4
+2000,FRA,singles,1
+2000,FRA,sprint,1
+2000,FRA,trap (75 targets),1
+2000,FRA,épée individual,2
+2000,FRA,épée team,3
+2000,GBR,+ 91kg (super heavyweight),1
+2000,GBR,1km time trial,1
+2000,GBR,200m,1
+2000,GBR,400m,1
+2000,GBR,49er - Skiff,2
+2000,GBR,63 - 70kg (middleweight),1
+2000,GBR,800m,1
+2000,GBR,Individual competition,2
+2000,GBR,K-1 (kayak single),1
+2000,GBR,K-1 1000m (kayak single),1
+2000,GBR,Olympic Sprint,3
+2000,GBR,Team Pursuit (4000m),6
+2000,GBR,double trap (150 targets),1
+2000,GBR,doubles,2
+2000,GBR,eight with coxswain (8+),9
+2000,GBR,four without coxswain (4-),4
+2000,GBR,heptathlon,1
+2000,GBR,individual pursuit,1
+2000,GBR,javelin throw,1
+2000,GBR,quadruple sculls without coxswain (4x),4
+2000,GBR,single-handed dinghy (Europe),1
+2000,GBR,single-handed dinghy (Finn),1
+2000,GBR,single-handed dinghy open (Laser),1
+2000,GBR,team,4
+2000,GBR,trap (125 targets),1
+2000,GBR,triple jump,1
+2000,GBR,two-person keelboat open (Star),2
+2000,GEO,58 - 63kg,1
+2000,GEO,60 - 66kg (half-lightweight),1
+2000,GEO,76 - 85kg,1
+2000,GEO,81 - 91kg (heavyweight),1
+2000,GEO,85 - 97kg,1
+2000,GEO,85kg,1
+2000,GER,+ 105kg,1
+2000,GER,- 48kg (extra-lightweight),1
+2000,GER,100m backstroke,1
+2000,GER,1km time trial,1
+2000,GER,3m springboard,1
+2000,GER,4x100m medley relay,4
+2000,GER,4x200m freestyle relay,6
+2000,GER,68 - 80 kg,1
+2000,GER,800m,1
+2000,GER,81 - 91kg (heavyweight),1
+2000,GER,85kg,1
+2000,GER,C-1 1000m (canoe single),1
+2000,GER,C-1 500m (canoe single),1
+2000,GER,C-2 1000m (canoe double),2
+2000,GER,Individual,1
+2000,GER,Individual Pursuit,2
+2000,GER,K-1 (kayak single),1
+2000,GER,K-2 500m (kayak double),4
+2000,GER,K-4 1000m (kayak four),4
+2000,GER,K-4 500m (kayak four),4
+2000,GER,Keirin,1
+2000,GER,Sprint indivual,1
+2000,GER,Team Pursuit (4000m),5
+2000,GER,Tornado - Multihull,2
+2000,GER,beach volleyball,2
+2000,GER,board (Mistral),1
+2000,GER,discus throw,1
+2000,GER,double sculls (2x),2
+2000,GER,fleet/match race keelboat open (Soling),3
+2000,GER,foil individual,2
+2000,GER,foil team,3
+2000,GER,football,18
+2000,GER,hammer throw,1
+2000,GER,individual,2
+2000,GER,individual road race,3
+2000,GER,individual time trial,1
+2000,GER,lightweight double sculls (2x),2
+2000,GER,long jump,1
+2000,GER,quadruple sculls without coxswain (4x),8
+2000,GER,sabre individual,1
+2000,GER,sabre team,3
+2000,GER,shot put,1
+2000,GER,single sculls (1x),2
+2000,GER,singles,1
+2000,GER,synchronized diving 10m platform,2
+2000,GER,team,8
+2000,GER,team (FITA Olympic round - 70m),3
+2000,GRE,- 58 kg,1
+2000,GRE,100m,1
+2000,GRE,200m,1
+2000,GRE,48 - 54kg,1
+2000,GRE,62kg,1
+2000,GRE,63kg,1
+2000,GRE,77kg,1
+2000,GRE,85kg,1
+2000,GRE,94kg,1
+2000,GRE,discus throw,1
+2000,GRE,group competition,6
+2000,GRE,javelin throw,1
+2000,GRE,rings,1
+2000,HUN,200m breaststroke,1
+2000,HUN,69kg,1
+2000,HUN,71-75kg,1
+2000,HUN,76 - 85kg,1
+2000,HUN,C-1 500m (canoe single),1
+2000,HUN,C-2 500m (canoe double),2
+2000,HUN,Individual competition,1
+2000,HUN,K-2 1000m (kayak double),2
+2000,HUN,K-2 500m (kayak double),4
+2000,HUN,K-4 1000m (kayak four),4
+2000,HUN,K-4 500m (kayak four),4
+2000,HUN,handball,15
+2000,HUN,rings,1
+2000,HUN,skeet (75 targets),1
+2000,HUN,water polo,13
+2000,HUN,épée individual,1
+2000,INA,48kg,2
+2000,INA,53kg,1
+2000,INA,doubles,4
+2000,INA,singles,1
+2000,IND,69kg,1
+2000,IRI,+ 105kg,1
+2000,IRI,105kg,1
+2000,IRI,54 - 58kg,1
+2000,IRI,58 - 68 kg,1
+2000,IRL,5000m,1
+2000,ISL,pole vault,1
+2000,ISR,K-1 500m (kayak single),1
+2000,ITA,+ 91kg (super heavyweight),1
+2000,ITA,100m breaststroke,1
+2000,ITA,200m breaststroke,2
+2000,ITA,200m freestyle,1
+2000,ITA,200m individual medley,1
+2000,ITA,400m freestyle,1
+2000,ITA,60 - 66kg (half-lightweight),1
+2000,ITA,63 - 70kg (middleweight),1
+2000,ITA,66 - 73kg (lightweight),1
+2000,ITA,70 - 78kg (half-heavyweight),1
+2000,ITA,K-1 (kayak single),1
+2000,ITA,K-1 500m (kayak single),1
+2000,ITA,K-2 1000m (kayak double),2
+2000,ITA,Madison,2
+2000,ITA,board (Mistral),1
+2000,ITA,cross-country,1
+2000,ITA,double sculls (2x),2
+2000,ITA,double trap (120 targets),1
+2000,ITA,foil individual,2
+2000,ITA,foil team,7
+2000,ITA,four without coxswain (4-),4
+2000,ITA,hammer throw,1
+2000,ITA,lightweight double sculls (2x),2
+2000,ITA,long jump,1
+2000,ITA,points race,1
+2000,ITA,quadruple sculls without coxswain (4x),4
+2000,ITA,single-handed dinghy (Finn),1
+2000,ITA,team (FITA Olympic round - 70m),3
+2000,ITA,trap (125 targets),1
+2000,ITA,volleyball,12
+2000,ITA,épée team,4
+2000,JAM,100m,2
+2000,JAM,200m,1
+2000,JAM,400m,2
+2000,JAM,400m hurdles,1
+2000,JAM,4x100m relay,5
+2000,JAM,4x400m relay,12
+2000,JPN,+ 100kg (heavyweight),1
+2000,JPN,+ 78kg (heavyweight),1
+2000,JPN,- 48kg (extra-lightweight),1
+2000,JPN,- 60 kg,1
+2000,JPN,100m backstroke,1
+2000,JPN,200m backstroke,1
+2000,JPN,400m individual medley,1
+2000,JPN,48 - 52kg (half-lightweight),1
+2000,JPN,4x100m medley relay,4
+2000,JPN,52 - 57kg (lightweight),1
+2000,JPN,57 - 67 kg,1
+2000,JPN,63 - 69kg,1
+2000,JPN,73 - 81kg (half-middleweight),1
+2000,JPN,90 - 100kg (half-heavyweight),1
+2000,JPN,duet,2
+2000,JPN,marathon,1
+2000,JPN,softball,15
+2000,JPN,team,8
+2000,KAZ,+ 91kg (super heavyweight),1
+2000,KAZ,100m hurdles,1
+2000,KAZ,48 - 51kg (flyweight),1
+2000,KAZ,54 - 57kg (featherweight),1
+2000,KAZ,67 - 71kg (light-middleweight),1
+2000,KAZ,85 - 97kg,1
+2000,KAZ,individual road race,1
+2000,KEN,10000m,1
+2000,KEN,1500m,2
+2000,KEN,3000m steeplechase,2
+2000,KEN,marathon,2
+2000,KGZ,- 60 kg,1
+2000,KOR,+ 78kg (heavyweight),1
+2000,KOR,+ 80 kg,1
+2000,KOR,- 60 kg,1
+2000,KOR,10m air rifle (40 shots),1
+2000,KOR,48 - 54kg,1
+2000,KOR,49 - 57 kg,1
+2000,KOR,54 - 58kg,1
+2000,KOR,57 - 63kg (half-middleweight),1
+2000,KOR,57 - 67 kg,1
+2000,KOR,58 - 63kg,1
+2000,KOR,58 - 68 kg,1
+2000,KOR,63 - 70kg (middleweight),1
+2000,KOR,69 - 76kg,1
+2000,KOR,73 - 81kg (half-middleweight),1
+2000,KOR,baseball,24
+2000,KOR,doubles,6
+2000,KOR,foil individual,1
+2000,KOR,hockey,16
+2000,KOR,horizontal bar,1
+2000,KOR,individual (FITA Olympic round - 70m),3
+2000,KOR,parallel bars,1
+2000,KOR,team (FITA Olympic round - 70m),6
+2000,KOR,épée individual,1
+2000,KSA,400m hurdles,1
+2000,KSA,individual,1
+2000,KUW,double trap (150 targets),1
+2000,LAT,50km walk,1
+2000,LAT,66 - 73kg (lightweight),1
+2000,LAT,floor exercises,1
+2000,LTU,basketball,12
+2000,LTU,discus throw,1
+2000,LTU,double sculls (2x),2
+2000,LTU,individual road race,1
+2000,LTU,trap (75 targets),1
+2000,MAR,1500m,1
+2000,MAR,3000m steeplechase,1
+2000,MAR,400m hurdles,1
+2000,MAR,5000m,1
+2000,MAR,54 - 57kg (featherweight),1
+2000,MDA,10m running target (30+30 shots),1
+2000,MDA,63.5 - 67kg (welterweight),1
+2000,MEX,20km walk,1
+2000,MEX,3m springboard,1
+2000,MEX,50km walk,1
+2000,MEX,57 - 60kg (lightweight),1
+2000,MEX,58kg,1
+2000,MEX,68 - 80 kg,1
+2000,MKD,76 - 85kg,1
+2000,MOZ,800m,1
+2000,NED,100m butterfly,1
+2000,NED,100m freestyle,2
+2000,NED,200m freestyle,1
+2000,NED,4x100m freestyle relay,5
+2000,NED,4x200m freestyle relay,5
+2000,NED,50m freestyle,2
+2000,NED,81 - 90kg (middleweight),1
+2000,NED,double sculls (2x),2
+2000,NED,doubles,2
+2000,NED,eight with coxswain (8+),9
+2000,NED,hockey,32
+2000,NED,individual,3
+2000,NED,individual (FITA Olympic round - 70m),1
+2000,NED,individual pursuit,1
+2000,NED,individual road race,1
+2000,NED,individual time trial,1
+2000,NED,points race,1
+2000,NED,quadruple sculls without coxswain (4x),4
+2000,NED,single-handed dinghy (Europe),1
+2000,NED,team,4
+2000,NGR,100m hurdles,1
+2000,NGR,4x400m relay,6
+2000,NGR,75kg,1
+2000,NOR,20km race walk,1
+2000,NOR,50m rifle 3 positions (3x40 shots),1
+2000,NOR,57 - 67 kg,1
+2000,NOR,K-1 1000m (kayak single),1
+2000,NOR,K-1 500m (kayak single),1
+2000,NOR,double sculls (2x),2
+2000,NOR,fleet/match race keelboat open (Soling),3
+2000,NOR,football,18
+2000,NOR,handball,15
+2000,NOR,javelin throw,1
+2000,NZL,board (Mistral),2
+2000,NZL,individual,1
+2000,NZL,single sculls (1x),1
+2000,POL,+ 75kg,1
+2000,POL,20km walk,1
+2000,POL,50km walk,1
+2000,POL,50m rifle 3 positions (3x20 shots),1
+2000,POL,94kg,1
+2000,POL,C-2 (canoe double),2
+2000,POL,C-2 500m (canoe double),2
+2000,POL,K-2 500m (kayak double),2
+2000,POL,K-4 1000m (kayak four),4
+2000,POL,foil team,4
+2000,POL,hammer throw,2
+2000,POL,lightweight double sculls (2x),2
+2000,POL,vault,1
+2000,POR,10000m,1
+2000,POR,73 - 81kg (half-middleweight),1
+2000,PRK,- 48kg (light-flyweight),1
+2000,PRK,48 - 52kg (half-lightweight),1
+2000,PRK,48 - 54kg,1
+2000,PRK,58kg,1
+2000,QAT,105kg,1
+2000,ROU,100m backstroke,1
+2000,ROU,1500m,2
+2000,ROU,200m backstroke,1
+2000,ROU,200m individual medley,1
+2000,ROU,25m rapid fire pistol (60 shots),1
+2000,ROU,400m individual medley,1
+2000,ROU,5000m,1
+2000,ROU,63.5 - 67kg (welterweight),1
+2000,ROU,67 - 71kg (light-middleweight),1
+2000,ROU,70 - 78kg (half-heavyweight),1
+2000,ROU,C-2 1000m (canoe double),2
+2000,ROU,C-2 500m (canoe double),2
+2000,ROU,K-4 500m (kayak four),4
+2000,ROU,eight with coxswain (8+),9
+2000,ROU,floor exercises,1
+2000,ROU,high jump,1
+2000,ROU,individual all-round,2
+2000,ROU,lightweight double sculls (2x),2
+2000,ROU,marathon,1
+2000,ROU,pair without coxswain (2-),2
+2000,ROU,pommel horse,1
+2000,ROU,sabre individual,1
+2000,ROU,team competition,6
+2000,ROU,vault,1
+2000,RSA,100m breaststroke,1
+2000,RSA,200m breaststroke,1
+2000,RSA,400m hurdles,1
+2000,RSA,discus throw,1
+2000,RSA,high jump,1
+2000,RUS,+ 100kg (heavyweight),1
+2000,RUS,+ 105kg,1
+2000,RUS,+ 67 kg,1
+2000,RUS,- 48kg (extra-lightweight),1
+2000,RUS,100m breaststroke,1
+2000,RUS,100m freestyle,1
+2000,RUS,10m air rifle (60 shots),2
+2000,RUS,10m platform,1
+2000,RUS,20km walk,1
+2000,RUS,25m rapid fire pistol (60 shots),1
+2000,RUS,3m springboard,1
+2000,RUS,400m hurdles,1
+2000,RUS,4x400m relay,6
+2000,RUS,50m rifle 3 positions (3x20 shots),2
+2000,RUS,51 - 54kg (bantamweight),1
+2000,RUS,54 - 57kg (featherweight),1
+2000,RUS,57 - 60kg (lightweight),1
+2000,RUS,58 - 63kg,2
+2000,RUS,63 - 69kg,2
+2000,RUS,63.5 - 67kg (welterweight),1
+2000,RUS,63kg,1
+2000,RUS,69 - 76kg,1
+2000,RUS,71-75kg,1
+2000,RUS,75 - 81kg (light-heavyweight),1
+2000,RUS,76 - 85kg,1
+2000,RUS,81 - 91kg (heavyweight),1
+2000,RUS,85 - 97kg,1
+2000,RUS,90 - 100kg (half-heavyweight),1
+2000,RUS,94kg,1
+2000,RUS,97 - 130kg,2
+2000,RUS,C-1 500m (canoe single),1
+2000,RUS,Individual competition,1
+2000,RUS,Points Race,1
+2000,RUS,balance beam,2
+2000,RUS,duet,2
+2000,RUS,floor exercises,3
+2000,RUS,foil individual,1
+2000,RUS,group competition,6
+2000,RUS,hammer throw,1
+2000,RUS,handball,15
+2000,RUS,heptathlon,1
+2000,RUS,high jump,2
+2000,RUS,horizontal bar,1
+2000,RUS,individual,2
+2000,RUS,individual all-round,3
+2000,RUS,individual time trial,1
+2000,RUS,javelin throw,1
+2000,RUS,long jump,1
+2000,RUS,parallel bars,1
+2000,RUS,points race,1
+2000,RUS,pole vault,1
+2000,RUS,pommel horse,1
+2000,RUS,quadruple sculls without coxswain (4x),4
+2000,RUS,sabre team,3
+2000,RUS,shot put,1
+2000,RUS,singles,2
+2000,RUS,skeet (75 targets),1
+2000,RUS,sprint,1
+2000,RUS,synchronized diving 10m platform,2
+2000,RUS,synchronized diving 3m springboard,4
+2000,RUS,team,8
+2000,RUS,team competition,12
+2000,RUS,triple jump,2
+2000,RUS,uneven bars,1
+2000,RUS,vault,3
+2000,RUS,volleyball,24
+2000,RUS,water polo,26
+2000,RUS,épée individual,1
+2000,RUS,épée team,4
+2000,SLO,50m rifle 3 positions (3x40 shots),1
+2000,SLO,double sculls (2x),2
+2000,SRI,200m,1
+2000,SUI,25m rapid fire pistol (60 shots),1
+2000,SUI,Individual,2
+2000,SUI,cross-country,2
+2000,SUI,single sculls (1x),1
+2000,SUI,team,4
+2000,SUI,épée individual,1
+2000,SUI,épée team,3
+2000,SVK,100m butterfly,1
+2000,SVK,200m freestyle,1
+2000,SVK,C-1 (canoe single),2
+2000,SVK,C-2 (canoe double),2
+2000,SWE,100m butterfly,1
+2000,SWE,100m freestyle,1
+2000,SWE,4x100m freestyle relay,6
+2000,SWE,50m freestyle,1
+2000,SWE,50m rifle prone (60 shots),1
+2000,SWE,85 - 97kg,1
+2000,SWE,K-2 1000m (kayak double),2
+2000,SWE,double trap (120 targets),1
+2000,SWE,handball,15
+2000,SWE,high jump,1
+2000,SWE,single-handed dinghy (Finn),1
+2000,SWE,singles,1
+2000,THA,48 - 51kg (flyweight),1
+2000,THA,58kg,1
+2000,THA,67 - 71kg (light-middleweight),1
+2000,TPE,- 49 kg,1
+2000,TPE,- 58 kg,1
+2000,TPE,53kg,1
+2000,TPE,75kg,1
+2000,TPE,singles,1
+2000,TRI,100m,1
+2000,TRI,200m,1
+2000,TUR,49 - 57 kg,1
+2000,TUR,56kg,1
+2000,TUR,60 - 66kg (half-lightweight),1
+2000,TUR,69 - 76kg,1
+2000,TUR,76 - 85kg,1
+2000,UKR,200m butterfly,1
+2000,UKR,200m individual medley,1
+2000,UKR,400m individual medley,1
+2000,UKR,470 - Two Person Dinghy,2
+2000,UKR,48 - 51kg (flyweight),1
+2000,UKR,51 - 54kg (bantamweight),1
+2000,UKR,54 - 58kg,1
+2000,UKR,57 - 60kg (lightweight),1
+2000,UKR,63.5 - 67kg (welterweight),1
+2000,UKR,75 - 81kg (light-heavyweight),1
+2000,UKR,800m freestyle,1
+2000,UKR,81 - 90kg (middleweight),1
+2000,UKR,85 - 97kg,1
+2000,UKR,Team Pursuit (4000m),4
+2000,UKR,individual,1
+2000,UKR,individual all-round,1
+2000,UKR,long jump,1
+2000,UKR,skeet (125 targets),1
+2000,UKR,sprint,1
+2000,UKR,synchronized diving 3m springboard,2
+2000,UKR,team (FITA Olympic round - 70m),3
+2000,UKR,team competition,6
+2000,UKR,triple jump,1
+2000,URU,Points Race,1
+2000,USA,+ 75kg,1
+2000,USA,100m,1
+2000,USA,100m backstroke,1
+2000,USA,100m breaststroke,2
+2000,USA,100m butterfly,1
+2000,USA,100m freestyle,3
+2000,USA,100m hurdles,1
+2000,USA,10m air rifle (40 shots),1
+2000,USA,10m platform,1
+2000,USA,110m hurdles,2
+2000,USA,1500m freestyle,1
+2000,USA,200m backstroke,2
+2000,USA,200m breaststroke,2
+2000,USA,200m butterfly,2
+2000,USA,200m individual medley,3
+2000,USA,400m,2
+2000,USA,400m freestyle,3
+2000,USA,400m hurdles,1
+2000,USA,400m individual medley,2
+2000,USA,470 - Two Person Dinghy,4
+2000,USA,48 - 54kg,1
+2000,USA,48kg,1
+2000,USA,49er - Skiff,2
+2000,USA,4x100m freestyle relay,12
+2000,USA,4x100m medley relay,15
+2000,USA,4x100m relay,10
+2000,USA,4x200m freestyle relay,12
+2000,USA,4x400m relay,4
+2000,USA,50m freestyle,3
+2000,USA,51 - 54kg (bantamweight),1
+2000,USA,54 - 57kg (featherweight),1
+2000,USA,54 - 58kg,1
+2000,USA,58 - 68 kg,1
+2000,USA,60 - 63.5kg (light-welterweight),1
+2000,USA,63 - 69kg,1
+2000,USA,67 - 71kg (light-middleweight),1
+2000,USA,69 - 76kg,2
+2000,USA,800m freestyle,2
+2000,USA,85 - 97kg,1
+2000,USA,97 - 130kg,1
+2000,USA,Individual competition,1
+2000,USA,Sprint indivual,1
+2000,USA,baseball,24
+2000,USA,basketball,24
+2000,USA,beach volleyball,2
+2000,USA,coxless pair (2-),2
+2000,USA,decathlon,1
+2000,USA,double trap (120 targets),1
+2000,USA,doubles,2
+2000,USA,football,18
+2000,USA,individual,1
+2000,USA,individual (FITA Olympic round - 70m),1
+2000,USA,individual time trial,2
+2000,USA,lightweight double sculls (2x),2
+2000,USA,pair without coxswain (2-),2
+2000,USA,pole vault,3
+2000,USA,shot put,2
+2000,USA,singles,2
+2000,USA,skeet (125 targets),1
+2000,USA,softball,15
+2000,USA,team,8
+2000,USA,team (FITA Olympic round - 70m),3
+2000,USA,team competition,6
+2000,USA,two-person keelboat open (Star),2
+2000,USA,water polo,13
+2000,UZB,+ 91kg (super heavyweight),1
+2000,UZB,60 - 63.5kg (light-welterweight),1
+2000,UZB,75 - 81kg (light-heavyweight),1
+2000,UZB,97 - 130kg,1
+2000,VIE,49 - 57 kg,1
+2000,YUG,10m air pistol (40 shots),1
+2000,YUG,volleyball,12
+2000,YUG,water polo,13
+2004,ARG,400m individual medley,1
+2004,ARG,Tornado - Multihull,2
+2004,ARG,basketball,12
+2004,ARG,doubles,2
+2004,ARG,football,14
+2004,ARG,hockey,16
+2004,AUS,100m breaststroke,2
+2004,AUS,100m butterfly,1
+2004,AUS,100m freestyle,2
+2004,AUS,10m platform,3
+2004,AUS,1500m freestyle,1
+2004,AUS,200m breaststroke,1
+2004,AUS,200m butterfly,1
+2004,AUS,200m freestyle,1
+2004,AUS,20km race walk,1
+2004,AUS,20km walk,1
+2004,AUS,400m freestyle,2
+2004,AUS,4x100m freestyle relay,5
+2004,AUS,4x100m medley relay,7
+2004,AUS,4x200m freestyle relay,7
+2004,AUS,4x400m relay,5
+2004,AUS,500m time trial,1
+2004,AUS,50m freestyle,1
+2004,AUS,Individual,1
+2004,AUS,Individual Pursuit,1
+2004,AUS,K-1 500m (kayak single),1
+2004,AUS,K-2 500m (kayak double),2
+2004,AUS,Keirin,2
+2004,AUS,Madison,2
+2004,AUS,Sprint indivual,1
+2004,AUS,Team Pursuit (4000m),6
+2004,AUS,baseball,24
+2004,AUS,basketball,12
+2004,AUS,coxless pair (2-),2
+2004,AUS,eight with coxswain (8+),9
+2004,AUS,hockey,16
+2004,AUS,individual (FITA Olympic round - 70m),1
+2004,AUS,individual pursuit,1
+2004,AUS,individual road race,1
+2004,AUS,lightweight coxless four (4-),4
+2004,AUS,quadruple sculls without coxswain (4x),4
+2004,AUS,singles,1
+2004,AUS,softball,15
+2004,AUS,sprint,1
+2004,AUS,synchronized diving 10m platform,2
+2004,AUS,synchronized diving 3m springboard,4
+2004,AUS,trap (125 targets),1
+2004,AUS,trap (75 targets),1
+2004,AUT,100m backstroke,1
+2004,AUT,200m backstroke,1
+2004,AUT,50m rifle 3 positions (3x40 shots),1
+2004,AUT,57 - 63kg (half-middleweight),1
+2004,AUT,Individual,1
+2004,AUT,Tornado - Multihull,2
+2004,AUT,single-handed dinghy open (Laser),1
+2004,AZE,25m pistol (30+30 shots),1
+2004,AZE,48 - 51kg (flyweight),1
+2004,AZE,51 - 54kg (bantamweight),1
+2004,AZE,60 - 66kg,1
+2004,AZE,skeet (75 targets),1
+2004,BAH,200m,1
+2004,BAH,400m,1
+2004,BEL,48 - 52kg (half-lightweight),1
+2004,BEL,individual road race,1
+2004,BEL,singles,1
+2004,BLR,100m,1
+2004,BLR,500m time trial,1
+2004,BLR,50m rifle prone (60 shots),1
+2004,BLR,63kg,2
+2004,BLR,74 - 84kg,1
+2004,BLR,75 - 81kg (light-heavyweight),1
+2004,BLR,81 - 91kg (heavyweight),1
+2004,BLR,85kg,1
+2004,BLR,90 - 100kg (half-heavyweight),1
+2004,BLR,K-2 500m (kayak double),2
+2004,BLR,discus throw,1
+2004,BLR,hammer throw,1
+2004,BLR,pair without coxswain (2-),2
+2004,BLR,single sculls (1x),1
+2004,BRA,66 - 73kg (lightweight),1
+2004,BRA,73 - 81kg (half-middleweight),1
+2004,BRA,Star - Keelboat,2
+2004,BRA,beach volleyball,4
+2004,BRA,football,17
+2004,BRA,individual,1
+2004,BRA,marathon,1
+2004,BRA,single-handed dinghy open (Laser),1
+2004,BRA,volleyball,12
+2004,BUL,+ 105kg,1
+2004,BUL,10m air pistol (40 shots),1
+2004,BUL,25m pistol (30+30 shots),1
+2004,BUL,55 - 60kg,1
+2004,BUL,60 - 64 kg,1
+2004,BUL,60 - 66kg (half-lightweight),1
+2004,BUL,94kg,1
+2004,BUL,floor exercises,1
+2004,BUL,group competition,6
+2004,BUL,rings,1
+2004,BUL,single sculls (1x),2
+2004,CAN,3m springboard,1
+2004,CAN,48 - 55kg,1
+2004,CAN,K-1 1000m (kayak single),1
+2004,CAN,K-1 500m (kayak single),2
+2004,CAN,Star - Keelboat,2
+2004,CAN,cross-country,1
+2004,CAN,floor exercises,1
+2004,CAN,four without coxswain (4-),4
+2004,CAN,individual,1
+2004,CAN,sprint,1
+2004,CAN,synchronized diving 10m platform,2
+2004,CHI,doubles,2
+2004,CHI,singles,2
+2004,CHN,+ 67 kg,1
+2004,CHN,+ 75kg,1
+2004,CHN,+ 78kg (heavyweight),1
+2004,CHN,- 48 kg,1
+2004,CHN,"- 56kg, total (bantamweight)",1
+2004,CHN,10000m,1
+2004,CHN,100m breaststroke,1
+2004,CHN,10m air pistol (60 shots),1
+2004,CHN,10m air rifle (40 shots),1
+2004,CHN,10m air rifle (60 shots),2
+2004,CHN,10m platform,3
+2004,CHN,110m hurdles,1
+2004,CHN,3m springboard,3
+2004,CHN,48 - 52kg (half-lightweight),1
+2004,CHN,48kg,1
+2004,CHN,48kg (light flywieght),1
+2004,CHN,4x200m freestyle relay,5
+2004,CHN,500m time trial,1
+2004,CHN,50m rifle 3 positions (3x20 shots),1
+2004,CHN,50m rifle 3 positions (3x40 shots),1
+2004,CHN,57 - 67 kg,1
+2004,CHN,58kg,1
+2004,CHN,62kg,2
+2004,CHN,63 - 70kg (middleweight),1
+2004,CHN,63 - 72kg,1
+2004,CHN,69kg,2
+2004,CHN,70 - 78kg (half-heavyweight),1
+2004,CHN,C-2 500m (canoe double),2
+2004,CHN,board (Mistral),1
+2004,CHN,double trap (120 targets),1
+2004,CHN,double trap (150 targets),1
+2004,CHN,doubles,14
+2004,CHN,foil team,4
+2004,CHN,individual,1
+2004,CHN,individual all-round,1
+2004,CHN,parallel bars,1
+2004,CHN,pommel horse,1
+2004,CHN,sabre individual,1
+2004,CHN,singles,5
+2004,CHN,skeet (75 targets),1
+2004,CHN,synchronized diving 10m platform,4
+2004,CHN,synchronized diving 3m springboard,2
+2004,CHN,team (FITA Olympic round - 70m),3
+2004,CHN,volleyball,12
+2004,CHN,épée individual,1
+2004,CMR,triple jump,1
+2004,COL,53kg,1
+2004,COL,points race,1
+2004,CRO,50m freestyle,1
+2004,CRO,69kg,1
+2004,CRO,coxless pair (2-),2
+2004,CRO,doubles,2
+2004,CRO,handball,14
+2004,CUB,+ 78kg (heavyweight),1
+2004,CUB,+ 91kg (super heavyweight),1
+2004,CUB,- 49 kg,1
+2004,CUB,110m hurdles,1
+2004,CUB,48 - 51kg (flyweight),1
+2004,CUB,48 - 52kg (half-lightweight),1
+2004,CUB,48kg (light flywieght),1
+2004,CUB,51 - 54kg (bantamweight),1
+2004,CUB,52 - 57kg (lightweight),1
+2004,CUB,55 - 60kg,2
+2004,CUB,57 - 60kg (lightweight),1
+2004,CUB,57 - 63kg (half-middleweight),1
+2004,CUB,60 - 64 kg,1
+2004,CUB,60 - 66kg (half-lightweight),1
+2004,CUB,64 - 69 kg,1
+2004,CUB,66 - 74kg,1
+2004,CUB,70 - 78kg (half-heavyweight),1
+2004,CUB,81 - 91kg (heavyweight),1
+2004,CUB,C-2 500m (canoe double),2
+2004,CUB,baseball,23
+2004,CUB,hammer throw,2
+2004,CUB,javelin throw,1
+2004,CUB,shot put,1
+2004,CUB,skeet (125 targets),1
+2004,CUB,volleyball,12
+2004,CZE,10m air rifle (40 shots),1
+2004,CZE,25m pistol (30+30 shots),1
+2004,CZE,C-2 (canoe double),2
+2004,CZE,Individual competition,1
+2004,CZE,decathlon,1
+2004,CZE,high jump,1
+2004,CZE,quadruple sculls without coxswain (4x),4
+2004,CZE,single-handed dinghy (Europe),1
+2004,DEN,800m,1
+2004,DEN,Yngling - Keelboat,3
+2004,DEN,doubles,4
+2004,DEN,handball,15
+2004,DEN,lightweight coxless four (4-),4
+2004,DEN,shot put,1
+2004,DEN,single-handed dinghy (Europe),1
+2004,DOM,400m hurdles,1
+2004,EGY,+ 91kg (super heavyweight),1
+2004,EGY,- 58 kg,1
+2004,EGY,75 - 81kg (light-heavyweight),1
+2004,EGY,81 - 91kg (heavyweight),1
+2004,EGY,84 - 96kg,1
+2004,ERI,10000m,1
+2004,ESP,20km walk,1
+2004,ESP,470 - Two Person Dinghy,2
+2004,ESP,49er - Skiff,2
+2004,ESP,C-1 1000m (canoe single),1
+2004,ESP,C-1 500m (canoe single),1
+2004,ESP,Individual Pursuit,1
+2004,ESP,Keirin,1
+2004,ESP,Points Race,1
+2004,ESP,Team Pursuit (4000m),4
+2004,ESP,beach volleyball,2
+2004,ESP,cross-country,1
+2004,ESP,floor exercises,1
+2004,ESP,individual,1
+2004,ESP,long jump,1
+2004,ESP,single-handed dinghy (Finn),1
+2004,ESP,team,4
+2004,ESP,trap (75 targets),1
+2004,ESP,vault,1
+2004,EST,+ 100kg (heavyweight),1
+2004,EST,discus throw,1
+2004,EST,single sculls (1x),1
+2004,ETH,10000m,4
+2004,ETH,5000m,3
+2004,FIN,66 - 74kg,1
+2004,FIN,skeet (125 targets),1
+2004,FRA,+ 67 kg,1
+2004,FRA,+ 80 kg,1
+2004,FRA,- 48 kg,1
+2004,FRA,100m backstroke,1
+2004,FRA,100m breaststroke,1
+2004,FRA,1km time trial,1
+2004,FRA,200m freestyle,1
+2004,FRA,400m freestyle,1
+2004,FRA,400m hurdles,1
+2004,FRA,48 - 51kg (flyweight),1
+2004,FRA,48 - 55kg,1
+2004,FRA,4x100m relay,4
+2004,FRA,50m freestyle,1
+2004,FRA,55 - 63kg,1
+2004,FRA,800m freestyle,1
+2004,FRA,C-1 (canoe single),1
+2004,FRA,K-1 (kayak single),2
+2004,FRA,Star - Keelboat,2
+2004,FRA,Team Sprint,3
+2004,FRA,board (Mistral),1
+2004,FRA,cross-country,1
+2004,FRA,double sculls (2x),2
+2004,FRA,foil individual,1
+2004,FRA,lightweight double sculls (2x),2
+2004,FRA,sabre team,3
+2004,FRA,singles,1
+2004,FRA,team,5
+2004,FRA,uneven bars,1
+2004,FRA,épée individual,2
+2004,FRA,épée team,8
+2004,GBR,1500m,1
+2004,GBR,1500m freestyle,1
+2004,GBR,1km time trial,1
+2004,GBR,200m butterfly,1
+2004,GBR,470 - Two Person Dinghy,2
+2004,GBR,49er - Skiff,2
+2004,GBR,4x100m relay,4
+2004,GBR,57 - 60kg (lightweight),1
+2004,GBR,800m,1
+2004,GBR,Individual Pursuit,1
+2004,GBR,Individual competition,1
+2004,GBR,K-1 (kayak single),2
+2004,GBR,K-1 500m (kayak single),1
+2004,GBR,Madison,2
+2004,GBR,Team Pursuit (4000m),6
+2004,GBR,Yngling - Keelboat,3
+2004,GBR,board (Mistral),1
+2004,GBR,double sculls (2x),2
+2004,GBR,doubles,2
+2004,GBR,four without coxswain (4-),4
+2004,GBR,heptathlon,1
+2004,GBR,individual,2
+2004,GBR,individual (FITA Olympic round - 70m),1
+2004,GBR,pair without coxswain (2-),2
+2004,GBR,quadruple sculls without coxswain (4x),4
+2004,GBR,single-handed dinghy (Finn),1
+2004,GBR,synchronized diving 10m platform,2
+2004,GBR,team,5
+2004,GEO,- 60 kg,1
+2004,GEO,81 - 90kg (middleweight),1
+2004,GEO,84 - 96kg,1
+2004,GEO,85kg,1
+2004,GER,- 48 kg,1
+2004,GER,10m running target (30+30 shots),1
+2004,GER,1km time trial,1
+2004,GER,200m backstroke,1
+2004,GER,200m breaststroke,1
+2004,GER,25m rapid fire pistol (60 shots),1
+2004,GER,48 - 51kg (flyweight),1
+2004,GER,4x100m medley relay,9
+2004,GER,4x200m freestyle relay,6
+2004,GER,50m rifle prone (60 shots),1
+2004,GER,52 - 57kg (lightweight),1
+2004,GER,54 - 57kg (featherweight),1
+2004,GER,63 - 70kg (middleweight),1
+2004,GER,90 - 100kg (half-heavyweight),1
+2004,GER,C-1 (canoe single),1
+2004,GER,C-1 1000m (canoe single),1
+2004,GER,C-1 500m (canoe single),1
+2004,GER,C-2 (canoe double),2
+2004,GER,C-2 1000m (canoe double),2
+2004,GER,K-2 500m (kayak double),4
+2004,GER,K-4 1000m (kayak four),4
+2004,GER,K-4 500m (kayak four),4
+2004,GER,Points Race,1
+2004,GER,Sprint indivual,1
+2004,GER,Team Sprint,3
+2004,GER,cross-country,1
+2004,GER,double sculls (2x),2
+2004,GER,doubles,2
+2004,GER,football,17
+2004,GER,handball,15
+2004,GER,hockey,32
+2004,GER,individual,4
+2004,GER,individual road race,1
+2004,GER,javelin throw,1
+2004,GER,lightweight double sculls (2x),2
+2004,GER,quadruple sculls without coxswain (4x),4
+2004,GER,shot put,1
+2004,GER,single sculls (1x),1
+2004,GER,synchronized diving 3m springboard,2
+2004,GER,team,7
+2004,GER,épée team,6
+2004,GRE,+ 80 kg,1
+2004,GRE,- 55kg,1
+2004,GRE,20km race walk,1
+2004,GRE,400m hurdles,1
+2004,GRE,470 - Two Person Dinghy,2
+2004,GRE,57 - 67 kg,1
+2004,GRE,73 - 81kg (half-middleweight),1
+2004,GRE,85kg,1
+2004,GRE,board (Mistral),1
+2004,GRE,discus throw,1
+2004,GRE,javelin throw,1
+2004,GRE,lightweight double sculls (2x),2
+2004,GRE,rings,1
+2004,GRE,synchronized diving 3m springboard,2
+2004,GRE,triple jump,1
+2004,GRE,water polo,13
+2004,HKG,doubles,2
+2004,HUN,- 55kg,1
+2004,HUN,200m breaststroke,1
+2004,HUN,400m individual medley,1
+2004,HUN,69kg,1
+2004,HUN,C-1 1000m (canoe single),1
+2004,HUN,C-2 1000m (canoe double),2
+2004,HUN,Individual competition,1
+2004,HUN,K-1 500m (kayak single),1
+2004,HUN,K-2 500m (kayak double),2
+2004,HUN,K-4 1000m (kayak four),4
+2004,HUN,K-4 500m (kayak four),4
+2004,HUN,discus throw,1
+2004,HUN,sabre individual,1
+2004,HUN,skeet (75 targets),1
+2004,HUN,water polo,13
+2004,HUN,épée individual,1
+2004,HUN,épée team,4
+2004,INA,53kg,1
+2004,INA,doubles,2
+2004,INA,singles,2
+2004,IND,double trap (150 targets),1
+2004,IRI,+ 105kg,1
+2004,IRI,55 - 60kg,1
+2004,IRI,58 - 68 kg,1
+2004,IRI,68 - 80 kg,1
+2004,IRI,84 - 96kg,1
+2004,IRI,96 - 120kg,1
+2004,ISR,90 - 100kg (half-heavyweight),1
+2004,ISR,board (Mistral),1
+2004,ITA,+ 91kg (super heavyweight),1
+2004,ITA,200m freestyle,1
+2004,ITA,20km walk,1
+2004,ITA,4x200m freestyle relay,6
+2004,ITA,50m rifle 3 positions (3x20 shots),1
+2004,ITA,70 - 78kg (half-heavyweight),1
+2004,ITA,K-1 500m (kayak single),1
+2004,ITA,K-2 1000m (kayak double),2
+2004,ITA,basketball,11
+2004,ITA,board (Mistral),1
+2004,ITA,double sculls (2x),2
+2004,ITA,foil individual,4
+2004,ITA,foil team,3
+2004,ITA,football,17
+2004,ITA,four without coxswain (4-),4
+2004,ITA,group competition,6
+2004,ITA,horizontal bar,1
+2004,ITA,individual (FITA Olympic round - 70m),1
+2004,ITA,individual road race,1
+2004,ITA,lightweight coxless four (4-),4
+2004,ITA,marathon,1
+2004,ITA,pole vault,1
+2004,ITA,rings,1
+2004,ITA,sabre individual,1
+2004,ITA,sabre team,3
+2004,ITA,skeet (125 targets),1
+2004,ITA,trap (125 targets),1
+2004,ITA,volleyball,11
+2004,ITA,water polo,13
+2004,JAM,100m,1
+2004,JAM,200m,1
+2004,JAM,400m hurdles,1
+2004,JAM,4x100m relay,5
+2004,JAM,4x400m relay,5
+2004,JPN,+ 100kg (heavyweight),1
+2004,JPN,+ 78kg (heavyweight),1
+2004,JPN,- 48 kg,1
+2004,JPN,- 48kg,1
+2004,JPN,- 55kg,1
+2004,JPN,- 60 kg,1
+2004,JPN,100m backstroke,1
+2004,JPN,100m breaststroke,1
+2004,JPN,200m backstroke,1
+2004,JPN,200m breaststroke,1
+2004,JPN,200m butterfly,2
+2004,JPN,470 - Two Person Dinghy,2
+2004,JPN,48 - 52kg (half-lightweight),1
+2004,JPN,48 - 55kg,1
+2004,JPN,4x100m medley relay,4
+2004,JPN,55 - 60kg,1
+2004,JPN,55 - 63kg,1
+2004,JPN,57 - 63kg (half-middleweight),1
+2004,JPN,60 - 66kg (half-lightweight),1
+2004,JPN,63 - 70kg (middleweight),1
+2004,JPN,63 - 72kg,1
+2004,JPN,70 - 78kg (half-heavyweight),1
+2004,JPN,800m freestyle,1
+2004,JPN,81 - 90kg (middleweight),1
+2004,JPN,Team Sprint,3
+2004,JPN,baseball,24
+2004,JPN,duet,2
+2004,JPN,hammer throw,1
+2004,JPN,horizontal bar,1
+2004,JPN,individual (FITA Olympic round - 70m),1
+2004,JPN,marathon,1
+2004,JPN,parallel bars,1
+2004,JPN,pommel horse,1
+2004,JPN,softball,15
+2004,JPN,team,9
+2004,JPN,team competition,6
+2004,KAZ,57 - 60kg (lightweight),1
+2004,KAZ,60 - 66kg,1
+2004,KAZ,64 - 69 kg,1
+2004,KAZ,66 - 74kg,1
+2004,KAZ,69 - 75 kg,1
+2004,KAZ,77kg,1
+2004,KAZ,96 - 120kg,1
+2004,KAZ,decathlon,1
+2004,KEN,1500m,1
+2004,KEN,3000m steeplechase,3
+2004,KEN,5000m,2
+2004,KEN,marathon,1
+2004,KOR,+ 75kg,1
+2004,KOR,+ 80 kg,1
+2004,KOR,- 60 kg,1
+2004,KOR,49 - 57 kg,1
+2004,KOR,50m pistol (60 shots),1
+2004,KOR,54 - 57kg (featherweight),1
+2004,KOR,55 - 60kg,1
+2004,KOR,57 - 67 kg,1
+2004,KOR,58 - 68 kg,1
+2004,KOR,64 - 69 kg,1
+2004,KOR,66 - 73kg (lightweight),1
+2004,KOR,69kg,1
+2004,KOR,74 - 84kg,1
+2004,KOR,90 - 100kg (half-heavyweight),1
+2004,KOR,double trap (120 targets),1
+2004,KOR,doubles,8
+2004,KOR,handball,15
+2004,KOR,individual (FITA Olympic round - 70m),2
+2004,KOR,individual all-round,2
+2004,KOR,singles,3
+2004,KOR,team (FITA Olympic round - 70m),6
+2004,KOR,trap (75 targets),1
+2004,LAT,+ 105kg,1
+2004,LAT,Individual competition,1
+2004,LAT,javelin throw,1
+2004,LAT,vault,1
+2004,LTU,Individual competition,1
+2004,LTU,discus throw,1
+2004,LTU,heptathlon,1
+2004,MAR,1500m,1
+2004,MAR,5000m,1
+2004,MAR,800m,1
+2004,MEX,- 58 kg,1
+2004,MEX,400m,1
+2004,MEX,49 - 57 kg,1
+2004,MEX,points race,1
+2004,MGL,- 60 kg,1
+2004,NED,+ 100kg (heavyweight),1
+2004,NED,100m butterfly,1
+2004,NED,100m freestyle,2
+2004,NED,200m freestyle,1
+2004,NED,4x100m freestyle relay,10
+2004,NED,50m freestyle,1
+2004,NED,52 - 57kg (lightweight),1
+2004,NED,63 - 70kg (middleweight),1
+2004,NED,81 - 90kg (middleweight),1
+2004,NED,Sprint indivual,1
+2004,NED,cross-country,1
+2004,NED,eight with coxswain (8+),18
+2004,NED,hockey,31
+2004,NED,individual,1
+2004,NED,individual pursuit,1
+2004,NED,individual time trial,1
+2004,NED,lightweight double sculls (2x),2
+2004,NED,singles,1
+2004,NGR,4x100m relay,4
+2004,NGR,4x400m relay,4
+2004,NOR,K-1 1000m (kayak single),1
+2004,NOR,K-2 1000m (kayak double),2
+2004,NOR,cross-country,1
+2004,NOR,javelin throw,1
+2004,NOR,single sculls (1x),1
+2004,NOR,single-handed dinghy (Europe),1
+2004,NZL,Individual,2
+2004,NZL,K-1 1000m (kayak single),1
+2004,NZL,double sculls (2x),2
+2004,NZL,individual pursuit,1
+2004,PAR,football,17
+2004,POL,+ 75kg,1
+2004,POL,100m butterfly,1
+2004,POL,200m butterfly,1
+2004,POL,400m freestyle,1
+2004,POL,50km walk,1
+2004,POL,K-2 500m (kayak double),2
+2004,POL,foil individual,1
+2004,POL,lightweight double sculls (2x),2
+2004,POL,pole vault,1
+2004,POL,single-handed dinghy (Finn),1
+2004,POR,100m,1
+2004,POR,1500m,1
+2004,POR,individual road race,1
+2004,PRK,50m pistol (60 shots),1
+2004,PRK,52 - 57kg (lightweight),1
+2004,PRK,54 - 57kg (featherweight),1
+2004,PRK,58kg,1
+2004,PRK,singles,1
+2004,ROU,1500m,1
+2004,ROU,200m backstroke,1
+2004,ROU,200m freestyle,1
+2004,ROU,400m hurdles,1
+2004,ROU,60 - 64 kg,1
+2004,ROU,balance beam,2
+2004,ROU,eight with coxswain (8+),9
+2004,ROU,floor exercises,3
+2004,ROU,lightweight double sculls (2x),2
+2004,ROU,pair without coxswain (2-),2
+2004,ROU,pommel horse,1
+2004,ROU,team competition,12
+2004,ROU,triple jump,1
+2004,ROU,vault,2
+2004,RSA,100m freestyle,1
+2004,RSA,4x100m freestyle relay,4
+2004,RSA,50m freestyle,1
+2004,RSA,800m,1
+2004,RSA,coxless pair (2-),2
+2004,RSA,high jump,1
+2004,RUS,+ 100kg (heavyweight),1
+2004,RUS,+ 78kg (heavyweight),1
+2004,RUS,+ 91kg (super heavyweight),1
+2004,RUS,- 55kg,2
+2004,RUS,105kg,2
+2004,RUS,10m air pistol (60 shots),2
+2004,RUS,10m air rifle (40 shots),1
+2004,RUS,10m running target (30+30 shots),2
+2004,RUS,1500m,1
+2004,RUS,200m backstroke,1
+2004,RUS,20km race walk,1
+2004,RUS,25m rapid fire pistol (60 shots),2
+2004,RUS,3m springboard,2
+2004,RUS,400m,1
+2004,RUS,48kg (light flywieght),1
+2004,RUS,4x100m relay,4
+2004,RUS,4x400m relay,6
+2004,RUS,50km walk,2
+2004,RUS,50m pistol (60 shots),1
+2004,RUS,50m rifle 3 positions (3x20 shots),1
+2004,RUS,54 - 57kg (featherweight),1
+2004,RUS,57 - 60kg (lightweight),1
+2004,RUS,60 - 66kg,1
+2004,RUS,63 - 72kg,1
+2004,RUS,64 - 69 kg,1
+2004,RUS,66 - 73kg (lightweight),1
+2004,RUS,66 - 74kg,2
+2004,RUS,69 - 75 kg,1
+2004,RUS,69kg,1
+2004,RUS,73 - 81kg (half-middleweight),1
+2004,RUS,74 - 84kg,2
+2004,RUS,75kg,2
+2004,RUS,77kg,1
+2004,RUS,800m,1
+2004,RUS,81 - 90kg (middleweight),1
+2004,RUS,84 - 96kg,1
+2004,RUS,94kg,2
+2004,RUS,96 - 120kg,1
+2004,RUS,C-1 500m (canoe single),1
+2004,RUS,C-2 1000m (canoe double),2
+2004,RUS,C-2 500m (canoe double),2
+2004,RUS,Individual competition,1
+2004,RUS,Points Race,1
+2004,RUS,basketball,11
+2004,RUS,discus throw,1
+2004,RUS,duet,2
+2004,RUS,foil team,4
+2004,RUS,group competition,6
+2004,RUS,hammer throw,1
+2004,RUS,handball,14
+2004,RUS,high jump,1
+2004,RUS,individual,1
+2004,RUS,individual all-round,3
+2004,RUS,individual road race,1
+2004,RUS,individual time trial,1
+2004,RUS,javelin throw,1
+2004,RUS,long jump,3
+2004,RUS,points race,1
+2004,RUS,pole vault,2
+2004,RUS,quadruple sculls without coxswain (4x),4
+2004,RUS,sabre team,4
+2004,RUS,shot put,1
+2004,RUS,sprint,1
+2004,RUS,synchronized diving 10m platform,2
+2004,RUS,synchronized diving 3m springboard,2
+2004,RUS,team,9
+2004,RUS,team competition,6
+2004,RUS,trap (125 targets),1
+2004,RUS,triple jump,2
+2004,RUS,vault,1
+2004,RUS,volleyball,24
+2004,RUS,water polo,13
+2004,RUS,épée individual,1
+2004,RUS,épée team,4
+2004,SCG,10m air pistol (40 shots),1
+2004,SCG,water polo,13
+2004,SLO,57 - 63kg (half-middleweight),1
+2004,SLO,800m,1
+2004,SLO,double sculls (2x),2
+2004,SLO,single-handed dinghy open (Laser),1
+2004,SUI,Individual,1
+2004,SUI,Madison,2
+2004,SUI,beach volleyball,2
+2004,SUI,individual time trial,1
+2004,SUI,épée individual,1
+2004,SVK,10m air rifle (60 shots),1
+2004,SVK,60 - 66kg (half-lightweight),1
+2004,SVK,C-1 (canoe single),1
+2004,SVK,C-2 (canoe double),2
+2004,SVK,K-1 (kayak single),1
+2004,SVK,K-4 1000m (kayak four),4
+2004,SWE,470 - Two Person Dinghy,2
+2004,SWE,74 - 84kg,1
+2004,SWE,K-2 1000m (kayak double),2
+2004,SWE,heptathlon,1
+2004,SWE,high jump,1
+2004,SWE,team,4
+2004,SWE,triple jump,1
+2004,SYR,81 - 91kg (heavyweight),1
+2004,THA,- 49 kg,1
+2004,THA,48kg,1
+2004,THA,51 - 54kg (bantamweight),1
+2004,THA,53kg,1
+2004,THA,58kg,1
+2004,THA,60 - 64 kg,1
+2004,THA,69 - 75 kg,1
+2004,THA,75kg,1
+2004,TPE,- 49 kg,1
+2004,TPE,- 58 kg,1
+2004,TPE,58 - 68 kg,1
+2004,TPE,team (FITA Olympic round - 70m),6
+2004,TRI,200m individual medley,1
+2004,TUR,"- 56kg, total (bantamweight)",2
+2004,TUR,48kg,1
+2004,TUR,48kg (light flywieght),1
+2004,TUR,60 - 66kg,1
+2004,TUR,68 - 80 kg,1
+2004,TUR,77kg,1
+2004,TUR,84 - 96kg,1
+2004,TUR,96 - 120kg,1
+2004,TUR,hammer throw,1
+2004,UAE,double trap (150 targets),1
+2004,UKR,- 48kg,1
+2004,UKR,100m butterfly,1
+2004,UKR,100m hurdles,1
+2004,UKR,105kg,1
+2004,UKR,10m air pistol (40 shots),1
+2004,UKR,200m individual medley,1
+2004,UKR,400m hurdles,1
+2004,UKR,400m individual medley,1
+2004,UKR,49er - Skiff,2
+2004,UKR,60 - 66kg,1
+2004,UKR,63kg,1
+2004,UKR,73 - 81kg (half-middleweight),1
+2004,UKR,K-4 500m (kayak four),4
+2004,UKR,Yngling - Keelboat,3
+2004,UKR,handball,15
+2004,UKR,high jump,1
+2004,UKR,individual,1
+2004,UKR,individual all-round,1
+2004,UKR,parallel bars,1
+2004,UKR,quadruple sculls without coxswain (4x),4
+2004,UKR,sabre individual,1
+2004,UKR,shot put,1
+2004,UKR,team (FITA Olympic round - 70m),3
+2004,USA,- 48kg,1
+2004,USA,- 55kg,1
+2004,USA,100m,3
+2004,USA,100m backstroke,2
+2004,USA,100m breaststroke,1
+2004,USA,100m butterfly,2
+2004,USA,100m freestyle,1
+2004,USA,100m hurdles,2
+2004,USA,110m hurdles,1
+2004,USA,1500m freestyle,1
+2004,USA,200m,4
+2004,USA,200m backstroke,1
+2004,USA,200m breaststroke,2
+2004,USA,200m butterfly,1
+2004,USA,200m freestyle,1
+2004,USA,200m individual medley,3
+2004,USA,400m,3
+2004,USA,400m freestyle,2
+2004,USA,400m individual medley,3
+2004,USA,470 - Two Person Dinghy,2
+2004,USA,49 - 57 kg,1
+2004,USA,4x100m freestyle relay,14
+2004,USA,4x100m medley relay,16
+2004,USA,4x100m relay,5
+2004,USA,4x200m freestyle relay,13
+2004,USA,4x400m relay,11
+2004,USA,50m freestyle,1
+2004,USA,50m rifle 3 positions (3x40 shots),1
+2004,USA,50m rifle prone (60 shots),1
+2004,USA,55 - 63kg,1
+2004,USA,60 - 66kg,1
+2004,USA,66 - 73kg (lightweight),1
+2004,USA,68 - 80 kg,1
+2004,USA,69 - 75 kg,1
+2004,USA,74 - 84kg,1
+2004,USA,75 - 81kg (light-heavyweight),1
+2004,USA,800m freestyle,1
+2004,USA,96 - 120kg,1
+2004,USA,Individual,1
+2004,USA,K-1 (kayak single),1
+2004,USA,Tornado - Multihull,2
+2004,USA,balance beam,1
+2004,USA,basketball,24
+2004,USA,beach volleyball,4
+2004,USA,decathlon,1
+2004,USA,double trap (120 targets),1
+2004,USA,duet,2
+2004,USA,eight with coxswain (8+),18
+2004,USA,football,16
+2004,USA,high jump,1
+2004,USA,horizontal bar,1
+2004,USA,individual,2
+2004,USA,individual all-round,2
+2004,USA,individual time trial,3
+2004,USA,long jump,2
+2004,USA,marathon,2
+2004,USA,pole vault,2
+2004,USA,sabre individual,2
+2004,USA,shot put,1
+2004,USA,singles,1
+2004,USA,softball,15
+2004,USA,team,22
+2004,USA,team competition,12
+2004,USA,uneven bars,2
+2004,USA,vault,1
+2004,USA,water polo,13
+2004,UZB,51 - 54kg (bantamweight),1
+2004,UZB,66 - 74kg,1
+2004,UZB,75 - 81kg (light-heavyweight),1
+2004,UZB,84 - 96kg,1
+2004,UZB,96 - 120kg,1
+2004,VEN,+ 67 kg,1
+2004,VEN,62kg,1
+2004,ZIM,100m backstroke,1
+2004,ZIM,200m backstroke,1
+2004,ZIM,200m individual medley,1
+2008,AFG,- 58 kg,1
+2008,ALG,48 - 52kg (half-lightweight),1
+2008,ALG,81 - 90kg (middleweight),1
+2008,ARG,- 48 kg,1
+2008,ARG,Madison,2
+2008,ARG,Tornado - Multihull,2
+2008,ARG,basketball,12
+2008,ARG,football,18
+2008,ARG,hockey,16
+2008,ARM,- 55kg,1
+2008,ARM,57 - 60kg (lightweight),1
+2008,ARM,69kg,1
+2008,ARM,77kg,1
+2008,ARM,85kg,1
+2008,ARM,96 - 120kg,1
+2008,AUS,100m backstroke,1
+2008,AUS,100m breaststroke,1
+2008,AUS,100m butterfly,3
+2008,AUS,100m freestyle,2
+2008,AUS,100m hurdles,1
+2008,AUS,10m platform,1
+2008,AUS,1500m freestyle,1
+2008,AUS,200m breaststroke,2
+2008,AUS,200m butterfly,1
+2008,AUS,200m individual medley,1
+2008,AUS,20km walk,1
+2008,AUS,400m individual medley,1
+2008,AUS,470 - Two Person Dinghy,4
+2008,AUS,4x100m freestyle relay,11
+2008,AUS,4x100m medley relay,15
+2008,AUS,4x200m freestyle relay,14
+2008,AUS,50km walk,1
+2008,AUS,50m freestyle,1
+2008,AUS,50m rifle prone (60 shots),1
+2008,AUS,C-1 (canoe single),1
+2008,AUS,Individual,2
+2008,AUS,K-1 (kayak single),1
+2008,AUS,K-1 1000m (kayak single),1
+2008,AUS,K-1 500m (kayak single),1
+2008,AUS,K-4 500m (kayak four),4
+2008,AUS,Tornado - Multihull,2
+2008,AUS,basketball,12
+2008,AUS,coxless pair (2-),2
+2008,AUS,double sculls (2x),2
+2008,AUS,four without coxswain (4-),4
+2008,AUS,hockey,17
+2008,AUS,pole vault,1
+2008,AUS,softball,15
+2008,AUS,sprint,1
+2008,AUS,synchronized diving 10m platform,2
+2008,AUS,team,5
+2008,AUS,water polo,13
+2008,AUT,- 60 kg,1
+2008,AUT,100m breaststroke,1
+2008,AUT,K-1 (kayak single),1
+2008,AZE,- 48kg,1
+2008,AZE,- 55kg,1
+2008,AZE,54 - 57kg (featherweight),1
+2008,AZE,55 - 60kg,1
+2008,AZE,66 - 73kg (lightweight),1
+2008,AZE,84 - 96kg,1
+2008,AZE,90 - 100kg (half-heavyweight),1
+2008,BAH,4x400m relay,4
+2008,BAH,triple jump,1
+2008,BEL,4x100m relay,4
+2008,BEL,high jump,1
+2008,BLR,105kg,1
+2008,BLR,53kg,1
+2008,BLR,60 - 66kg,1
+2008,BLR,66 - 74kg,1
+2008,BLR,85kg,1
+2008,BLR,C-2 1000m (canoe double),2
+2008,BLR,K-2 500m (kayak double),2
+2008,BLR,K-4 1000m (kayak four),4
+2008,BLR,decathlon,1
+2008,BLR,group competition,6
+2008,BLR,hammer throw,3
+2008,BLR,individual all-round,1
+2008,BLR,pair without coxswain (2-),2
+2008,BLR,shot put,3
+2008,BLR,single sculls (1x),1
+2008,BRA,+ 67 kg,1
+2008,BRA,100m freestyle,1
+2008,BRA,470 - Two Person Dinghy,2
+2008,BRA,50m freestyle,1
+2008,BRA,52 - 57kg (lightweight),1
+2008,BRA,66 - 73kg (lightweight),1
+2008,BRA,73 - 81kg (half-middleweight),1
+2008,BRA,Star - Keelboat,2
+2008,BRA,beach volleyball,4
+2008,BRA,football,36
+2008,BRA,long jump,1
+2008,BRA,volleyball,24
+2008,BUL,- 55kg,1
+2008,BUL,63 - 72kg,1
+2008,BUL,66 - 74kg,2
+2008,BUL,single sculls (1x),1
+2008,CAN,- 48kg,1
+2008,CAN,100m hurdles,1
+2008,CAN,10m platform,1
+2008,CAN,1500m freestyle,1
+2008,CAN,3m springboard,1
+2008,CAN,48 - 55kg,1
+2008,CAN,57 - 67 kg,1
+2008,CAN,C-1 1000m (canoe single),1
+2008,CAN,Individual,1
+2008,CAN,K-1 500m (kayak single),1
+2008,CAN,coxless pair (2-),2
+2008,CAN,eight with coxswain (8+),9
+2008,CAN,individual,3
+2008,CAN,lightweight coxless four (4-),4
+2008,CAN,lightweight double sculls (2x),2
+2008,CAN,team,4
+2008,CHI,singles,1
+2008,CHN,+ 78kg (heavyweight),1
+2008,CHN,+ 91kg (super heavyweight),1
+2008,CHN,- 49 kg,1
+2008,CHN,"- 56kg, total (bantamweight)",1
+2008,CHN,10m air pistol (40 shots),1
+2008,CHN,10m air pistol (60 shots),1
+2008,CHN,10m air rifle (60 shots),1
+2008,CHN,10m platform,3
+2008,CHN,200m butterfly,2
+2008,CHN,200m freestyle,1
+2008,CHN,25m pistol (30+30 shots),1
+2008,CHN,3m springboard,4
+2008,CHN,400m freestyle,1
+2008,CHN,48 - 52kg (half-lightweight),1
+2008,CHN,48 - 55kg,1
+2008,CHN,48kg,1
+2008,CHN,48kg (light flywieght),1
+2008,CHN,4x100m medley relay,5
+2008,CHN,4x200m freestyle relay,5
+2008,CHN,50m pistol (60 shots),1
+2008,CHN,50m rifle 3 positions (3x20 shots),1
+2008,CHN,50m rifle 3 positions (3x40 shots),1
+2008,CHN,52 - 57kg (lightweight),1
+2008,CHN,58kg,1
+2008,CHN,62kg,1
+2008,CHN,63 - 72kg,1
+2008,CHN,64 - 69 kg,1
+2008,CHN,66 - 74kg,1
+2008,CHN,68 - 80 kg,1
+2008,CHN,69kg,2
+2008,CHN,70 - 78kg (half-heavyweight),1
+2008,CHN,75 - 81kg (light-heavyweight),1
+2008,CHN,75kg,1
+2008,CHN,77kg,1
+2008,CHN,85kg,1
+2008,CHN,C-2 500m (canoe double),2
+2008,CHN,Laser Radial - One Person Dinghy,1
+2008,CHN,RS:X - Windsurfer,1
+2008,CHN,balance beam,1
+2008,CHN,beach volleyball,4
+2008,CHN,double trap (150 targets),1
+2008,CHN,doubles,10
+2008,CHN,floor exercises,1
+2008,CHN,group competition,6
+2008,CHN,hammer throw,1
+2008,CHN,hockey,16
+2008,CHN,horizontal bar,1
+2008,CHN,individual,3
+2008,CHN,individual (FITA Olympic round - 70m),1
+2008,CHN,individual all-round,2
+2008,CHN,marathon,1
+2008,CHN,pair without coxswain (2-),2
+2008,CHN,parallel bars,1
+2008,CHN,pommel horse,1
+2008,CHN,quadruple sculls without coxswain (4x),4
+2008,CHN,rings,2
+2008,CHN,sabre individual,1
+2008,CHN,sabre team,4
+2008,CHN,singles,10
+2008,CHN,sprint,1
+2008,CHN,synchronized diving 10m platform,4
+2008,CHN,synchronized diving 3m springboard,4
+2008,CHN,team,15
+2008,CHN,team (FITA Olympic round - 70m),6
+2008,CHN,team competition,12
+2008,CHN,uneven bars,2
+2008,CHN,vault,1
+2008,CHN,volleyball,12
+2008,CMR,triple jump,1
+2008,COL,48 - 55kg,1
+2008,COL,62kg,1
+2008,CRO,10m air rifle (40 shots),1
+2008,CRO,49 - 57 kg,1
+2008,CRO,57 - 67 kg,1
+2008,CRO,high jump,1
+2008,CRO,pommel horse,1
+2008,CUB,+ 100kg (heavyweight),1
+2008,CUB,+ 78kg (heavyweight),1
+2008,CUB,- 48 kg,1
+2008,CUB,- 49 kg,1
+2008,CUB,110m hurdles,1
+2008,CUB,48 - 51kg (flyweight),1
+2008,CUB,48kg (light flywieght),1
+2008,CUB,50m rifle 3 positions (3x20 shots),1
+2008,CUB,51 - 54kg (bantamweight),1
+2008,CUB,57 - 60kg (lightweight),1
+2008,CUB,60 - 64 kg,1
+2008,CUB,60 - 66kg (half-lightweight),1
+2008,CUB,63 - 70kg (middleweight),1
+2008,CUB,64 - 69 kg,1
+2008,CUB,69 - 75 kg,1
+2008,CUB,70 - 78kg (half-heavyweight),1
+2008,CUB,81 - 91kg (heavyweight),1
+2008,CUB,96 - 120kg,1
+2008,CUB,baseball,24
+2008,CUB,decathlon,1
+2008,CUB,discus throw,1
+2008,CUB,hammer throw,1
+2008,CUB,long jump,1
+2008,CUB,points race,1
+2008,CZE,10m air rifle (40 shots),1
+2008,CZE,50m rifle 3 positions (3x20 shots),1
+2008,CZE,C-2 (canoe double),2
+2008,CZE,javelin throw,1
+2008,CZE,single sculls (1x),1
+2008,CZE,trap (125 targets),1
+2008,DEN,49er - Skiff,2
+2008,DEN,800m freestyle,1
+2008,DEN,K-2 1000m (kayak double),2
+2008,DEN,Team Pursuit (4000m),4
+2008,DEN,lightweight coxless four (4-),4
+2008,DEN,lightweight double sculls (2x),2
+2008,DEN,team,3
+2008,DOM,- 58 kg,1
+2008,DOM,60 - 64 kg,1
+2008,ECU,20km walk,1
+2008,EGY,81 - 90kg (middleweight),1
+2008,ESP,49er - Skiff,2
+2008,ESP,C-1 1000m (canoe single),1
+2008,ESP,C-1 500m (canoe single),1
+2008,ESP,K-2 500m (kayak double),2
+2008,ESP,Madison,2
+2008,ESP,Points Race,1
+2008,ESP,Tornado - Multihull,2
+2008,ESP,basketball,12
+2008,ESP,doubles,2
+2008,ESP,duet,2
+2008,ESP,floor exercises,1
+2008,ESP,handball,14
+2008,ESP,hockey,16
+2008,ESP,individual road race,1
+2008,ESP,points race,1
+2008,ESP,singles,1
+2008,ESP,team,9
+2008,ESP,épée individual,1
+2008,EST,discus throw,1
+2008,EST,double sculls (2x),2
+2008,ETH,10000m,3
+2008,ETH,5000m,3
+2008,ETH,marathon,1
+2008,FIN,10m air rifle (60 shots),1
+2008,FIN,javelin throw,1
+2008,FIN,lightweight double sculls (2x),2
+2008,FIN,trap (75 targets),1
+2008,FRA,+ 100kg (heavyweight),1
+2008,FRA,100m breaststroke,1
+2008,FRA,100m freestyle,1
+2008,FRA,1500m,1
+2008,FRA,200m breaststroke,1
+2008,FRA,3000m steeplechase,1
+2008,FRA,470 - Two Person Dinghy,2
+2008,FRA,4x100m freestyle relay,6
+2008,FRA,50m freestyle,2
+2008,FRA,54 - 57kg (featherweight),1
+2008,FRA,57 - 60kg (lightweight),1
+2008,FRA,57 - 63kg (half-middleweight),1
+2008,FRA,57 - 67 kg,1
+2008,FRA,60 - 64 kg,1
+2008,FRA,60 - 66kg,1
+2008,FRA,60 - 66kg (half-lightweight),1
+2008,FRA,66 - 74kg,1
+2008,FRA,69kg,1
+2008,FRA,70 - 78kg (half-heavyweight),1
+2008,FRA,Finn - Heavyweight Dinghy,1
+2008,FRA,K-1 (kayak single),1
+2008,FRA,K-2 500m (kayak double),2
+2008,FRA,RS:X - Windsurfer,1
+2008,FRA,Sprint indivual,1
+2008,FRA,Team Sprint,3
+2008,FRA,cross-country,2
+2008,FRA,four without coxswain (4-),4
+2008,FRA,handball,15
+2008,FRA,individual,2
+2008,FRA,individual all-round,1
+2008,FRA,quadruple sculls without coxswain (4x),4
+2008,FRA,sabre individual,1
+2008,FRA,sabre team,3
+2008,FRA,skeet (125 targets),1
+2008,FRA,team (FITA Olympic round - 70m),3
+2008,FRA,vault,1
+2008,FRA,épée individual,1
+2008,FRA,épée team,3
+2008,GBR,+ 67 kg,1
+2008,GBR,+ 91kg (super heavyweight),1
+2008,GBR,400m,1
+2008,GBR,400m freestyle,2
+2008,GBR,400m hurdles,1
+2008,GBR,470 - Two Person Dinghy,2
+2008,GBR,69 - 75 kg,1
+2008,GBR,75 - 81kg (light-heavyweight),1
+2008,GBR,800m freestyle,1
+2008,GBR,C-1 (canoe single),1
+2008,GBR,Finn - Heavyweight Dinghy,1
+2008,GBR,Individual Pursuit,2
+2008,GBR,Individual competition,1
+2008,GBR,K-1 1000m (kayak single),1
+2008,GBR,K-1 500m (kayak single),1
+2008,GBR,Keirin,2
+2008,GBR,Laser - One Person Dinghy,1
+2008,GBR,Points Race,1
+2008,GBR,RS:X - Windsurfer,1
+2008,GBR,Sprint indivual,2
+2008,GBR,Star - Keelboat,2
+2008,GBR,Team Pursuit (4000m),4
+2008,GBR,Team Sprint,3
+2008,GBR,Yngling - Keelboat,3
+2008,GBR,double sculls (2x),4
+2008,GBR,eight with coxswain (8+),9
+2008,GBR,four without coxswain (4-),4
+2008,GBR,high jump,1
+2008,GBR,individual,1
+2008,GBR,individual pursuit,2
+2008,GBR,individual road race,1
+2008,GBR,individual time trial,1
+2008,GBR,lightweight double sculls (2x),2
+2008,GBR,marathon 10km,3
+2008,GBR,pommel horse,1
+2008,GBR,quadruple sculls without coxswain (4x),4
+2008,GBR,sprint,1
+2008,GBR,team,5
+2008,GBR,triple jump,1
+2008,GEO,10m air pistol (40 shots),1
+2008,GEO,60 - 66kg,1
+2008,GEO,66 - 74kg,1
+2008,GEO,74 - 84kg,1
+2008,GEO,81 - 90kg (middleweight),1
+2008,GEO,84 - 96kg,1
+2008,GER,+ 105kg,1
+2008,GER,100m freestyle,1
+2008,GER,25m pistol (30+30 shots),1
+2008,GER,25m rapid fire pistol (60 shots),2
+2008,GER,49er - Skiff,2
+2008,GER,50m freestyle,1
+2008,GER,73 - 81kg (half-middleweight),1
+2008,GER,84 - 96kg,1
+2008,GER,C-2 1000m (canoe double),2
+2008,GER,C-2 500m (canoe double),2
+2008,GER,Individual,1
+2008,GER,Individual competition,1
+2008,GER,K-1 (kayak single),1
+2008,GER,K-1 500m (kayak single),1
+2008,GER,K-2 1000m (kayak double),2
+2008,GER,K-2 500m (kayak double),2
+2008,GER,K-4 1000m (kayak four),4
+2008,GER,K-4 500m (kayak four),4
+2008,GER,Points Race,1
+2008,GER,Team Sprint,3
+2008,GER,cross-country,1
+2008,GER,double sculls (2x),2
+2008,GER,foil individual,1
+2008,GER,football,18
+2008,GER,hockey,17
+2008,GER,horizontal bar,1
+2008,GER,individual,3
+2008,GER,javelin throw,1
+2008,GER,marathon 10km,1
+2008,GER,quadruple sculls without coxswain (4x),4
+2008,GER,skeet (75 targets),1
+2008,GER,synchronized diving 10m platform,2
+2008,GER,synchronized diving 3m springboard,2
+2008,GER,team,11
+2008,GER,vault,1
+2008,GER,épée individual,1
+2008,GRE,+ 80 kg,1
+2008,GRE,Yngling - Keelboat,3
+2008,GRE,lightweight double sculls (2x),2
+2008,GRE,triple jump,1
+2008,HUN,200m butterfly,1
+2008,HUN,200m individual medley,1
+2008,HUN,400m individual medley,1
+2008,HUN,74 - 84kg,1
+2008,HUN,C-1 1000m (canoe single),1
+2008,HUN,C-2 1000m (canoe double),2
+2008,HUN,K-2 500m (kayak double),2
+2008,HUN,K-4 500m (kayak four),4
+2008,HUN,water polo,13
+2008,HUN,épée individual,1
+2008,INA,"- 56kg, total (bantamweight)",1
+2008,INA,62kg,1
+2008,INA,doubles,4
+2008,INA,singles,1
+2008,IND,10m air rifle (60 shots),1
+2008,IND,60 - 66kg,1
+2008,IND,69 - 75 kg,1
+2008,IRI,55 - 60kg,1
+2008,IRI,68 - 80 kg,1
+2008,IRL,48kg (light flywieght),1
+2008,IRL,69 - 75 kg,1
+2008,IRL,75 - 81kg (light-heavyweight),1
+2008,ISL,handball,14
+2008,ISR,RS:X - Windsurfer,1
+2008,ITA,+ 91kg (super heavyweight),1
+2008,ITA,200m freestyle,1
+2008,ITA,20km race walk,1
+2008,ITA,48 - 51kg (flyweight),1
+2008,ITA,50km walk,1
+2008,ITA,52 - 57kg (lightweight),1
+2008,ITA,68 - 80 kg,1
+2008,ITA,74 - 84kg,1
+2008,ITA,800m freestyle,1
+2008,ITA,81 - 91kg (heavyweight),1
+2008,ITA,K-1 500m (kayak single),1
+2008,ITA,K-2 1000m (kayak double),2
+2008,ITA,Laser - One Person Dinghy,1
+2008,ITA,RS:X - Windsurfer,1
+2008,ITA,double trap (150 targets),1
+2008,ITA,foil individual,3
+2008,ITA,foil team,4
+2008,ITA,individual road race,1
+2008,ITA,quadruple sculls without coxswain (4x),4
+2008,ITA,sabre team,4
+2008,ITA,skeet (75 targets),1
+2008,ITA,team (FITA Olympic round - 70m),3
+2008,ITA,trap (125 targets),1
+2008,ITA,épée individual,1
+2008,ITA,épée team,4
+2008,JAM,100m,4
+2008,JAM,200m,3
+2008,JAM,400m,1
+2008,JAM,400m hurdles,1
+2008,JAM,4x100m relay,4
+2008,JAM,4x400m relay,4
+2008,JPN,+ 100kg (heavyweight),1
+2008,JPN,+ 78kg (heavyweight),1
+2008,JPN,- 48 kg,1
+2008,JPN,- 48kg,1
+2008,JPN,- 55kg,1
+2008,JPN,100m breaststroke,1
+2008,JPN,200m backstroke,1
+2008,JPN,200m breaststroke,1
+2008,JPN,200m butterfly,1
+2008,JPN,48 - 52kg (half-lightweight),1
+2008,JPN,48 - 55kg,1
+2008,JPN,4x100m medley relay,4
+2008,JPN,4x100m relay,4
+2008,JPN,55 - 60kg,1
+2008,JPN,55 - 63kg,1
+2008,JPN,57 - 63kg (half-middleweight),1
+2008,JPN,60 - 66kg (half-lightweight),1
+2008,JPN,63 - 70kg (middleweight),1
+2008,JPN,63 - 72kg,1
+2008,JPN,Keirin,1
+2008,JPN,duet,2
+2008,JPN,foil individual,1
+2008,JPN,individual all-round,1
+2008,JPN,softball,15
+2008,JPN,team competition,6
+2008,KAZ,+ 75kg,1
+2008,KAZ,+ 80 kg,1
+2008,KAZ,55 - 60kg,1
+2008,KAZ,55 - 63kg,1
+2008,KAZ,63kg,1
+2008,KAZ,64 - 69 kg,1
+2008,KAZ,75 - 81kg (light-heavyweight),1
+2008,KAZ,75kg,1
+2008,KAZ,84 - 96kg,2
+2008,KAZ,90 - 100kg (half-heavyweight),1
+2008,KAZ,94kg,1
+2008,KAZ,96 - 120kg,1
+2008,KEN,10000m,1
+2008,KEN,1500m,2
+2008,KEN,3000m steeplechase,3
+2008,KEN,5000m,2
+2008,KEN,800m,4
+2008,KEN,marathon,2
+2008,KGZ,55 - 60kg,1
+2008,KGZ,60 - 66kg,1
+2008,KOR,+ 75kg,1
+2008,KOR,+ 80 kg,1
+2008,KOR,- 55kg,1
+2008,KOR,- 60 kg,1
+2008,KOR,10m air pistol (60 shots),1
+2008,KOR,200m freestyle,1
+2008,KOR,400m freestyle,1
+2008,KOR,49 - 57 kg,1
+2008,KOR,50m pistol (60 shots),1
+2008,KOR,53kg,1
+2008,KOR,57 - 67 kg,1
+2008,KOR,58 - 68 kg,1
+2008,KOR,64 - 69 kg,1
+2008,KOR,66 - 73kg (lightweight),1
+2008,KOR,70 - 78kg (half-heavyweight),1
+2008,KOR,73 - 81kg (half-middleweight),1
+2008,KOR,77kg,1
+2008,KOR,baseball,24
+2008,KOR,doubles,6
+2008,KOR,foil individual,1
+2008,KOR,handball,14
+2008,KOR,individual (FITA Olympic round - 70m),3
+2008,KOR,parallel bars,1
+2008,KOR,team,6
+2008,KOR,team (FITA Olympic round - 70m),6
+2008,LAT,+ 105kg,1
+2008,LAT,Individual,1
+2008,LAT,javelin throw,1
+2008,LTU,96 - 120kg,1
+2008,LTU,Individual competition,2
+2008,LTU,Laser Radial - One Person Dinghy,1
+2008,LTU,discus throw,1
+2008,MAR,800m,1
+2008,MAR,marathon,1
+2008,MAS,singles,1
+2008,MDA,51 - 54kg (bantamweight),1
+2008,MEX,+ 67 kg,1
+2008,MEX,- 58 kg,1
+2008,MEX,synchronized diving 10m platform,2
+2008,MGL,25m pistol (30+30 shots),1
+2008,MGL,48kg (light flywieght),1
+2008,MGL,51 - 54kg (bantamweight),1
+2008,MGL,90 - 100kg (half-heavyweight),1
+2008,MRI,51 - 54kg (bantamweight),1
+2008,NED,- 60 kg,1
+2008,NED,470 - Two Person Dinghy,2
+2008,NED,4x100m freestyle relay,6
+2008,NED,52 - 57kg (lightweight),1
+2008,NED,57 - 63kg (half-middleweight),1
+2008,NED,63 - 70kg (middleweight),1
+2008,NED,90 - 100kg (half-heavyweight),1
+2008,NED,Yngling - Keelboat,3
+2008,NED,eight with coxswain (8+),9
+2008,NED,hockey,16
+2008,NED,individual,1
+2008,NED,lightweight double sculls (2x),2
+2008,NED,marathon 10km,1
+2008,NED,points race,1
+2008,NED,team,3
+2008,NED,water polo,13
+2008,NGR,+ 80 kg,1
+2008,NGR,4x100m relay,4
+2008,NGR,football,18
+2008,NGR,long jump,1
+2008,NOR,+ 67 kg,1
+2008,NOR,100m breaststroke,1
+2008,NOR,200m breaststroke,1
+2008,NOR,20km race walk,1
+2008,NOR,K-1 1000m (kayak single),1
+2008,NOR,handball,14
+2008,NOR,javelin throw,1
+2008,NOR,single sculls (1x),1
+2008,NOR,skeet (125 targets),1
+2008,NZL,1500m,1
+2008,NZL,Individual,1
+2008,NZL,Individual Pursuit,1
+2008,NZL,RS:X - Windsurfer,1
+2008,NZL,Team Pursuit (4000m),4
+2008,NZL,coxless pair (2-),2
+2008,NZL,double sculls (2x),2
+2008,NZL,shot put,1
+2008,NZL,single sculls (1x),1
+2008,PAN,long jump,1
+2008,POL,63 - 72kg,1
+2008,POL,94kg,1
+2008,POL,K-2 500m (kayak double),2
+2008,POL,cross-country,1
+2008,POL,discus throw,1
+2008,POL,lightweight coxless four (4-),4
+2008,POL,quadruple sculls without coxswain (4x),4
+2008,POL,shot put,1
+2008,POL,vault,1
+2008,POL,épée team,4
+2008,POR,Individual,1
+2008,POR,triple jump,1
+2008,PRK,48 - 52kg (half-lightweight),1
+2008,PRK,57 - 63kg (half-middleweight),1
+2008,PRK,58kg,1
+2008,PRK,60 - 66kg (half-lightweight),1
+2008,PRK,63kg,1
+2008,PRK,vault,1
+2008,ROU,- 48 kg,1
+2008,ROU,eight with coxswain (8+),9
+2008,ROU,floor exercises,1
+2008,ROU,marathon,1
+2008,ROU,pair without coxswain (2-),2
+2008,ROU,sabre individual,1
+2008,ROU,team competition,6
+2008,ROU,épée individual,1
+2008,RSA,long jump,1
+2008,RUS,+ 105kg,1
+2008,RUS,- 55kg,2
+2008,RUS,100m backstroke,1
+2008,RUS,105kg,2
+2008,RUS,10m air pistol (40 shots),1
+2008,RUS,10m air rifle (40 shots),1
+2008,RUS,10m platform,1
+2008,RUS,200m backstroke,1
+2008,RUS,20km race walk,1
+2008,RUS,20km walk,1
+2008,RUS,3000m steeplechase,2
+2008,RUS,3m springboard,1
+2008,RUS,48 - 51kg (flyweight),1
+2008,RUS,4x100m relay,4
+2008,RUS,4x200m freestyle relay,5
+2008,RUS,4x400m relay,8
+2008,RUS,50km walk,1
+2008,RUS,50m pistol (60 shots),1
+2008,RUS,55 - 60kg,2
+2008,RUS,55 - 63kg,1
+2008,RUS,57 - 60kg (lightweight),1
+2008,RUS,58kg,1
+2008,RUS,66 - 74kg,1
+2008,RUS,69kg,1
+2008,RUS,74 - 84kg,1
+2008,RUS,75kg,1
+2008,RUS,81 - 91kg (heavyweight),1
+2008,RUS,84 - 96kg,2
+2008,RUS,94kg,1
+2008,RUS,96 - 120kg,2
+2008,RUS,C-1 500m (canoe single),1
+2008,RUS,C-2 (canoe double),2
+2008,RUS,C-2 500m (canoe double),2
+2008,RUS,Individual competition,1
+2008,RUS,Madison,2
+2008,RUS,basketball,12
+2008,RUS,cross-country,1
+2008,RUS,duet,2
+2008,RUS,floor exercises,1
+2008,RUS,foil team,4
+2008,RUS,group competition,6
+2008,RUS,handball,14
+2008,RUS,heptathlon,1
+2008,RUS,high jump,3
+2008,RUS,individual (FITA Olympic round - 70m),1
+2008,RUS,individual all-round,1
+2008,RUS,javelin throw,1
+2008,RUS,long jump,1
+2008,RUS,marathon 10km,1
+2008,RUS,pole vault,3
+2008,RUS,singles,3
+2008,RUS,synchronized diving 10m platform,2
+2008,RUS,synchronized diving 3m springboard,4
+2008,RUS,team,9
+2008,RUS,trap (125 targets),1
+2008,RUS,triple jump,1
+2008,RUS,vault,1
+2008,RUS,volleyball,12
+2008,SIN,team,3
+2008,SLO,+ 78kg (heavyweight),1
+2008,SLO,200m freestyle,1
+2008,SLO,50m rifle 3 positions (3x40 shots),1
+2008,SLO,Laser - One Person Dinghy,1
+2008,SLO,hammer throw,1
+2008,SRB,100m butterfly,1
+2008,SRB,singles,1
+2008,SRB,water polo,13
+2008,SUD,800m,1
+2008,SUI,81 - 90kg (middleweight),1
+2008,SUI,cross-country,1
+2008,SUI,doubles,2
+2008,SUI,individual road race,1
+2008,SUI,individual time trial,2
+2008,SUI,team,4
+2008,SVK,96 - 120kg,1
+2008,SVK,C-1 (canoe single),1
+2008,SVK,C-2 (canoe double),2
+2008,SVK,K-1 (kayak single),1
+2008,SVK,K-4 1000m (kayak four),4
+2008,SVK,trap (75 targets),1
+2008,SWE,Star - Keelboat,2
+2008,SWE,doubles,2
+2008,SWE,individual,1
+2008,SWE,individual road race,1
+2008,SWE,individual time trial,1
+2008,THA,- 49 kg,1
+2008,THA,48 - 51kg (flyweight),1
+2008,THA,53kg,1
+2008,THA,60 - 64 kg,1
+2008,TJK,66 - 73kg (lightweight),1
+2008,TJK,74 - 84kg,1
+2008,TOG,K-1 (kayak single),1
+2008,TPE,- 58 kg,1
+2008,TPE,48kg,1
+2008,TPE,58 - 68 kg,1
+2008,TPE,63kg,1
+2008,TRI,100m,1
+2008,TRI,4x100m relay,4
+2008,TUN,1500m freestyle,1
+2008,TUR,10000m,1
+2008,TUR,48kg,1
+2008,TUR,49 - 57 kg,1
+2008,TUR,5000m,1
+2008,TUR,54 - 57kg (featherweight),1
+2008,TUR,58 - 68 kg,1
+2008,TUR,60 - 66kg,1
+2008,TUR,74 - 84kg,1
+2008,UKR,+ 75kg,1
+2008,UKR,+ 91kg (super heavyweight),1
+2008,UKR,- 48kg,1
+2008,UKR,1500m,2
+2008,UKR,25m rapid fire pistol (60 shots),1
+2008,UKR,50m rifle 3 positions (3x40 shots),1
+2008,UKR,50m rifle prone (60 shots),1
+2008,UKR,54 - 57kg (featherweight),1
+2008,UKR,55 - 60kg,1
+2008,UKR,60 - 66kg,2
+2008,UKR,69kg,1
+2008,UKR,73 - 81kg (half-middleweight),1
+2008,UKR,74 - 84kg,1
+2008,UKR,C-1 500m (canoe single),1
+2008,UKR,Individual competition,1
+2008,UKR,K-1 500m (kayak single),1
+2008,UKR,discus throw,1
+2008,UKR,heptathlon,1
+2008,UKR,individual (FITA Olympic round - 70m),1
+2008,UKR,individual all-round,1
+2008,UKR,individual pursuit,1
+2008,UKR,pole vault,1
+2008,UKR,rings,1
+2008,UKR,sabre team,4
+2008,UKR,synchronized diving 3m springboard,2
+2008,USA,- 55kg,1
+2008,USA,10000m,1
+2008,USA,100m,1
+2008,USA,100m backstroke,4
+2008,USA,100m breaststroke,1
+2008,USA,100m butterfly,2
+2008,USA,100m freestyle,2
+2008,USA,100m hurdles,1
+2008,USA,10m air pistol (60 shots),1
+2008,USA,110m hurdles,2
+2008,USA,200m,3
+2008,USA,200m backstroke,3
+2008,USA,200m breaststroke,1
+2008,USA,200m butterfly,1
+2008,USA,200m freestyle,2
+2008,USA,200m individual medley,3
+2008,USA,400m,4
+2008,USA,400m freestyle,2
+2008,USA,400m hurdles,4
+2008,USA,400m individual medley,3
+2008,USA,49 - 57 kg,1
+2008,USA,4x100m freestyle relay,13
+2008,USA,4x100m medley relay,16
+2008,USA,4x200m freestyle relay,14
+2008,USA,4x400m relay,8
+2008,USA,50m freestyle,1
+2008,USA,50m rifle prone (60 shots),1
+2008,USA,55 - 63kg,1
+2008,USA,58 - 68 kg,1
+2008,USA,63 - 70kg (middleweight),1
+2008,USA,68 - 80 kg,1
+2008,USA,81 - 91kg (heavyweight),1
+2008,USA,84 - 96kg,1
+2008,USA,Finn - Heavyweight Dinghy,1
+2008,USA,Individual,2
+2008,USA,Laser Radial - One Person Dinghy,1
+2008,USA,balance beam,2
+2008,USA,baseball,24
+2008,USA,basketball,24
+2008,USA,beach volleyball,4
+2008,USA,decathlon,1
+2008,USA,discus throw,1
+2008,USA,double trap (150 targets),1
+2008,USA,doubles,4
+2008,USA,eight with coxswain (8+),18
+2008,USA,floor exercises,2
+2008,USA,foil team,3
+2008,USA,football,18
+2008,USA,heptathlon,1
+2008,USA,horizontal bar,1
+2008,USA,individual,3
+2008,USA,individual all-round,2
+2008,USA,individual time trial,2
+2008,USA,pole vault,1
+2008,USA,sabre individual,3
+2008,USA,sabre team,7
+2008,USA,shot put,1
+2008,USA,single sculls (1x),1
+2008,USA,skeet (125 targets),1
+2008,USA,skeet (75 targets),1
+2008,USA,softball,15
+2008,USA,team,4
+2008,USA,team competition,12
+2008,USA,trap (75 targets),1
+2008,USA,uneven bars,1
+2008,USA,volleyball,24
+2008,USA,water polo,26
+2008,UZB,+ 100kg (heavyweight),1
+2008,UZB,- 60 kg,1
+2008,UZB,66 - 74kg,1
+2008,UZB,96 - 120kg,1
+2008,UZB,individual,1
+2008,UZB,parallel bars,1
+2008,VEN,- 49 kg,1
+2008,VIE,"- 56kg, total (bantamweight)",1
+2008,ZIM,100m backstroke,1
+2008,ZIM,200m backstroke,1
+2008,ZIM,200m individual medley,1
+2008,ZIM,400m individual medley,1

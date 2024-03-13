@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS public.olympics;
+DROP TABLE IF EXISTS public.Medals;
 
-CREATE TABLE "olympics" (
+CREATE TABLE "Medals" (
     "city" VARCHAR(20) NOT NULL,
     "year" INT NOT NULL,
     "sport" VARCHAR(50) NOT NULL,
