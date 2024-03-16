@@ -20,8 +20,9 @@ Olympic Games represent some of the best characteristics of human condition and 
 
 ## Visuals
 One or more of the following: 
-- A bubble chart displaying the quantity of medals 
 - A table displaying the results of the ML model 
+- Line charts showing the comparison between ML models results 
+- A bubble chart displaying the predicted quantity of medals 
 
 
 ## Project components 
@@ -29,7 +30,7 @@ One or more of the following:
 - Jupyter Notebook 
 - Python, Pandas, Scikit-learn 
 - SQL (PostgreSQL) 
-- Tableau 
+
 
 
 ## Ethical considerations
@@ -46,6 +47,16 @@ https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals
 
 ### Github repository 
 https://github.com/JuanTenopala/Project_4
+
+
+## Challenges found
+1. In the data loading, it was used encoding ISO-8859-1
+2. Cleaning / preparation / preprocessing tasks on the dataset: 
+    * dropped around 110 empty lines 
+    * converted years from float to integer 
+    * defined a single country code for a country with 2 different codes 
+    * aggregated medal count to obtain a single result from the model 
+3. ML model optimization improved marginally the accuracy / mean squared error  
 
 
 ## Credits 
