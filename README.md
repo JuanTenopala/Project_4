@@ -6,16 +6,21 @@ Summer Olympics Medals
 
 
 ## Objective
-This project aims to create a dashboard containing a prediction of medals, based on an ML model and on previous Olympic Games performance data. The dataset to fit such model was found and is available in Kaggle page [Summer Olympics Medals (1976-2008)](https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals). 
+This project aims to create a dashboard containing a prediction of medals, based on an ML model and on previous Olympic Games performance data. The dataset to fit such model was found and is available in Kaggle page [Summer Olympics Medals (1976-2008)](https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals). The Olympic Games represent a critical pinnacle of global sports, where nations compete for prestige, athletes strive for excellence, and fans engage deeply with the event. Accurate predictions of medal counts are essential for nations and sports federations, media, logistics, etc.
 
 Potential uses of this model are: 
-* as a base for sport bets sites predictions
-* as a benchmark for teams' performance 
-* as an reference for general public, etc
+Rports Analytics and Team Preparations
+Betting and Fantasy Sports
+Media and Broadcasting
+Sponsorship and Marketing
+Fan Engagement and Digital Platforms
+Government and Public Policy
+Event Management and Logistics
+Research and Development
 
 
 ## Inspiration
-Olympic Games represent some of the best characteristics of human condition and precisely 2024 is a Summer Olympic Games year, then creating a dashboard to predict medal count was a natural choice. 
+The Olympic Games are the world's only truly global, multi-sport, celebratory athletics competition. With more than 200 countries participating in over 400 events across the Summer and Winter Games, the Olympics are where the world comes to compete, feel inspired, and be together.  Sports have the power to change lives, which is why we seek to create a model that predicts the medal count of the world's foremost sports competition.
 
 
 ## Visuals
@@ -57,6 +62,9 @@ https://github.com/JuanTenopala/Project_4
     * defined a single country code for a country with 2 different codes 
     * aggregated medal count to obtain a single result from the model 
 3. ML model optimization improved marginally the accuracy / mean squared error  
+
+## Results
+In our study to guess how many medals countries would win in the Olympics, we first tried  Logistic Regression but then switched to a  Random Forest. By changing the method, we saw a big jump in effectiveness in prediction, going from 46% to 79%.  This suggests its efficacy in capturing the nuances of predicting Olympic outcomes. Looking ahead, we could make our predictions even better by using more detailed data and trying out more complex models to enhance prediction accuracy.
 
 
 ## Credits 
